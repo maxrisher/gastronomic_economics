@@ -1,0 +1,3599 @@
+rowid,query,grams
+651,light mayonnaise,60.0
+652,apple cider vinegar,15.0
+653,honey,21.0
+654,broccoli florets,340.0
+655,dried cranberries,40.0
+656,raw sunflower seeds,35.0
+657,broccoli,794.0
+658,sesame oil,4.5
+659,sambal,22.5
+660,brown sugar,4.0
+661,garlic,5.0
+662,salt,1.0
+663,pasta,227.0
+664,frozen broccoli florets,227.0
+665,onion,80.0
+666,all-purpose flour,24.0
+667,milk,610.0
+668,shredded sharp cheddar,226.0
+669,grated parmesan,25.0
+670,salt,2.0
+671,Dijon mustard,15.0
+672,button mushrooms,227.0
+673,green bell pepper,120.0
+674,grape tomatoes,113.0
+675,yellow onion,110.0
+676,long grain white rice,285.0
+677,water,591.0
+678,fresh parsley,30.0
+679,lemon,5.0
+680,bacon,60.0
+681,mayonnaise,115.0
+682,chipotle chili powder,1.0
+683,brioche buns,240.0
+684,eggs,200.0
+685,tomato,180.0
+686,lettuce,500.0
+687,black pepper,1.0
+688,Roma tomatoes,480.0
+689,penne pasta,340.0
+690,fresh basil,12.0
+691,butter,28.0
+692,hot sauce,45.0
+693,smoked paprika,0.3
+694,garlic powder,0.2
+695,tempeh,227.0
+696,coleslaw mix,227.0
+697,hoagie rolls,180.0
+698,avocado,150.0
+699,ground pork,454.0
+700,garlic,9.0
+601,sugar,4.2
+602,large egg,50.0
+603,all-purpose flour,156.25
+604,heavy whipping cream,238.0
+605,blueberries,148.0
+606,sugar,25.0
+607,vanilla extract,4.2
+608,lemon curd,170.25
+609,butter,56.8
+610,onion,110.0
+611,salt,3.0
+612,celery,100.0
+613,carrot,72.0
+614,ground beef,453.6
+615,milk,244.0
+616,wine,236.0
+617,crushed tomatoes,794.0
+618,pasta,340.0
+619,frozen broccoli florets,453.6
+620,grated Parmesan,15.0
+621,black pepper,0.5
+622,crushed red pepper,0.2
+623,red cabbage,907.2
+624,granny smith apple,182.0
+625,water,59.0
+626,Roma tomato,62.0
+627,jalapeño,14.0
+628,black beans,425.0
+629,cheddar cheese,113.4
+630,large eggs,300.0
+631,tortilla chips,425.0
+632,pizza dough,453.0
+633,frozen broccoli florets,340.0
+634,cheddar cheese,170.1
+635,dry fettuccine,453.6
+636,frozen broccoli florets,453.6
+637,all-purpose flour,31.2
+638,milk,732.0
+639,grated parmesan,100.0
+640,nutmeg,0.3
+641,tomato paste,16.0
+642,red wine vinegar,30.0
+643,sugar,1.0
+644,olive oil,81.0
+645,rotini pasta,226.8
+646,broccoli,453.6
+647,red onion,80.0
+648,sunflower seeds,34.0
+649,feta,113.4
+650,Greek yogurt,123.0
+1901,frozen cut green beans,340.2
+1902,vegetable broth,221.0
+1903,fried onions,30.0
+1904,all-purpose flour,11.7
+1905,rubbed sage,0.5
+1906,dried thyme,0.2
+1907,frozen broccoli florets,100.0
+1908,large eggs,50.0
+1909,hummus,30.0
+1910,sesame seeds,1.0
+1911,sriracha sauce,5.0
+1912,pizza dough,450.0
+1913,hummus,150.0
+1914,summer squash,200.0
+1915,portabello mushroom,100.0
+1916,red onion,50.0
+1917,roasted red peppers,113.0
+1918,crushed red pepper,1.0
+1919,cornmeal,8.0
+1920,fresh spinach,226.8
+1921,ground cumin,4.2
+1922,garam masala,2.0
+1923,cayenne pepper,0.5
+1924,salt,4.5
+1925,beef stew meat,453.6
+1926,salt,2.0
+1927,beef broth,488.0
+1928,frozen pearl onions,396.9
+1929,potatoes,340.2
+1930,jasmine rice,185.0
+1931,fresh ginger,25.0
+1932,shittake mushrooms,45.0
+1933,bone-in chicken pieces,907.2
+1934,water,1659.0
+1935,peanuts,50.0
+1936,Spanish chorizo,113.4
+1937,dry pinto beans,400.0
+1938,bay leaves,0.4
+1939,reduced sodium chicken broth,732.0
+1940,canned diced tomatoes,425.2
+1941,lemon juice,15.0
+1942,Italian seasoning blend,1.0
+1943,orzo pasta,200.0
+1944,roasted red peppers,170.0
+1945,kalamata olives,50.0
+1946,artichoke hearts,170.0
+1947,Italian sausage,453.6
+1948,canned cannellini beans,850.4
+1949,spinach,226.8
+1950,fettuccine,340.2
+501,cauliflower,907.0
+502,chicken bouillon,1.5
+503,red wine,118.0
+504,diced tomatoes,794.0
+505,bay leaf,0.6
+506,soy sauce,32.0
+507,salt,6.0
+508,brown sugar,8.4
+509,shredded beef,280.0
+510,beer,355.0
+511,bouillon cube,10.0
+512,collard greens,454.0
+513,red pepper flakes,0.9
+514,black pepper,0.6
+515,olive oil,6.8
+516,flour tortilla,45.0
+517,grape tomatoes,75.0
+518,crushed red pepper,0.2
+519,jasmine rice,744.0
+520,cooking oil,6.8
+521,fresh spinach,180.0
+522,toasted sesame oil,4.5
+523,salt,0.4
+524,chili garlic sauce,36.0
+525,kimchi,60.0
+526,sesame seeds,9.0
+527,Dijon mustard,7.5
+528,penne pasta,227.0
+529,chopped kale,227.0
+530,chickpeas,425.0
+531,Parmesan cheese,50.0
+532,black beans,850.0
+533,red onion,50.0
+534,fresh cilantro,15.0
+535,sriracha,15.0
+536,mayonnaise,14.0
+537,ground cumin,2.1
+538,pepper,0.6
+539,plain breadcrumbs,108.0
+540,green cabbage,450.0
+541,cooking oil,27.0
+542,salt,0.6
+543,mayonnaise,58.0
+544,chipotle powder,0.5
+545,dried thyme,0.8
+546,cayenne,0.5
+547,onion powder,1.2
+548,salmon,590.0
+549,zucchini,590.0
+550,smoked paprika,6.8
+551,thyme,0.8
+552,oregano,1.0
+553,cayenne pepper,0.5
+554,peeled and deveined shrimp,227.0
+555,petite diced tomatoes,425.0
+556,pasta,227.0
+557,green onions,30.0
+558,fresh parsley,10.0
+559,red wine vinegar,5.0
+560,coleslaw mix,170.0
+561,green onions,45.0
+562,lime,67.0
+563,peeled and deveined shrimp,227.0
+564,corn tortillas,180.0
+565,black pepper,2.0
+566,tilapia filets,454.0
+567,water,315.0
+568,long grain rice,185.0
+569,fresh green beans,227.0
+570,black pepper,0.3
+571,eggs,100.0
+572,chili crisp,10.0
+573,bacon,227.0
+574,mayonnaise,173.0
+575,ranch dressing,62.0
+576,black pepper,0.6
+577,bowtie pasta,340.0
+578,fresh spinach,60.0
+579,bananas,340.0
+580,vanilla extract,3.7
+581,baking powder,3.6
+582,milk,488.0
+583,old fashioned oats,200.0
+584,frozen blueberries,227.0
+585,all-purpose flour,31.0
+586,butter,28.0
+587,baking powder,14.0
+588,baking soda,3.6
+589,white sugar,100.0
+590,buttermilk,245.0
+591,butter,57.0
+592,blueberries,74.0
+593,all-purpose flour,188.0
+594,salt,0.4
+595,butter,113.0
+596,water,45.0
+597,blueberries,227.0
+598,cornstarch,3.0
+599,lemon,58.0
+600,cream cheese,113.0
+1951,frozen chopped spinach,226.8
+1952,yellow onion,110.0
+1953,garlic cloves,12.0
+1954,dried basil,2.7
+1955,shaved Parmesan,56.7
+1956,fresh cranberries,340.2
+1957,frozen raspberries,340.2
+1958,lemon juice,30.0
+1959,pineapple tidbits,330.0
+1960,canned black beans,425.0
+1961,red onion,53.0
+1962,fresh cilantro,8.0
+1963,boneless skinless chicken breasts,605.0
+1964,jerk seasoning,6.0
+1965,jerk seasoning,4.0
+1966,orange juice,120.0
+1967,chopped collard greens,453.592
+1968,bone-in skin-on chicken thighs,907.184
+1969,soy sauce,85.0
+1970,hot water,30.0
+1971,minced ginger,2.0
+1972,sesame seeds,9.0
+1973,fresh cilantro,4.0
+1974,ground beef 90/10,453.592
+1975,dried oregano,1.5
+1976,worcestershire sauce,17.0
+1977,frozen chopped spinach,226.796
+1978,feta cheese,56.7
+1979,grated parmesan,10.0
+1980,long grain brown rice,190.0
+1981,Italian seasoning,3.0
+1982,chopped fresh kale,226.796
+1983,rotisserie chicken breast,195.0
+1984,half and half,120.0
+1985,pasta,453.592
+1986,chopped kale,67.0
+1987,olive oil,68.0
+1988,lemon,150.0
+1989,grated Parmesan,33.0
+1990,salt,3.0
+1991,mozzarella,113.4
+1992,shredded kale,134.0
+1993,whole wheat pita,60.0
+1994,golden raisins,53.0
+1995,shredded Parmesan,33.0
+1996,champagne vinaigrette,85.0
+1997,bowtie pasta,226.8
+1998,chopped kale,170.1
+1999,canned wild caught salmon,397.0
+2000,large eggs,100.0
+751,oregano,0.25
+752,thyme,0.25
+753,onion powder,0.35
+754,cayenne pepper,0.15
+755,black pepper,0.15
+756,butter,7.1
+757,guacamole,60.0
+758,spring mix,30.0
+759,andouille sausage,397.0
+760,bell pepper,120.0
+761,long grain white rice,185.0
+762,chicken broth,360.0
+763,zucchini,227.0
+764,yellow squash,227.0
+765,red bell pepper,120.0
+766,red onion,110.0
+767,fresh parsley,8.0
+768,banana,118.0
+769,flour tortilla,30.0
+770,peanut butter,16.0
+771,cinnamon,0.3
+772,instant yeast,0.8
+773,water,177.0
+774,yellow onions,330.0
+775,Italian seasoning,3.0
+776,frozen spinach,113.0
+777,artichoke hearts,106.0
+778,feta cheese,57.0
+779,all-purpose flour,42.0
+780,baking powder,2.3
+781,salt,1.5
+782,cinnamon,1.3
+783,nutmeg,0.5
+784,ground ginger,0.23
+785,brown sugar,55.0
+786,vanilla extract,1.1
+787,vegetable oil,27.0
+788,carrot,61.0
+789,cream cheese,28.0
+790,butter,14.2
+791,powdered sugar,60.0
+792,carrots,907.0
+793,salt,1.5
+794,feta cheese,38.0
+795,carrots,454.0
+796,olive oil,27.0
+797,ground cumin,3.0
+798,black pepper,0.6
+799,orzo,200.0
+800,fresh parsley,20.0
+1451,chia seeds,24.0
+1452,cocoa powder,10.0
+1453,mini chocolate chips,45.0
+1454,milk,325.0
+1455,canned peas,1275.0
+1456,bacon,85.0
+1457,thin pizza crust,200.0
+1458,steak seasoning,8.75
+1459,smoked sausage,227.0
+1460,frozen seasoning mix,283.0
+1461,chicken broth,360.0
+1462,Creole seasoning,1.0
+1463,apples,907.0
+1464,all-purpose flour,8.0
+1465,ground ginger,0.5
+1466,ground cloves,0.2
+1467,rolled oats,30.0
+1468,butter,57.0
+1469,brown sugar,39.0
+1470,brie wheel,227.0
+1471,boneless skinless chicken thighs,454.0
+1472,BBQ sauce,72.0
+1473,coleslaw mix,198.0
+1474,buns,200.0
+1475,garam masala,12.0
+1476,fresh ginger,5.0
+1477,frozen cauliflower florets,340.0
+1478,canned chickpeas,250.0
+1479,tomato sauce,425.0
+1480,long grain rice,370.0
+1481,frozen broccoli florets,454.0
+1482,cayenne pepper,0.2
+1483,Brussels sprouts,454.0
+1484,sweet potato,567.0
+1485,cooking oil,42.0
+1486,boneless skinless chicken breast,590.0
+1487,steak seasoning,10.0
+1488,sweet paprika,1.0
+1489,all-purpose flour,312.5
+1490,heavy whipping cream,473.0
+1491,cinnamon,12.0
+1492,milk chocolate chips,85.0
+1493,powdered sugar,150.0
+1494,cocoa powder,5.0
+1495,vanilla wafers,180.0
+1496,butter,85.0
+1497,lemons,150.0
+1498,boneless skinless chicken breasts,590.0
+1499,lemon pepper seasoning,6.0
+1500,sharp cheddar,227.0
+1401,tomato sauce,425.25
+1402,fresh cilantro,30.0
+1403,plain Greek yogurt,61.25
+1404,curry powder,3.15
+1405,fresh cilantro,4.0
+1406,extra firm tofu,396.9
+1407,turmeric,2.8
+1408,crushed red pepper,0.5
+1409,ground beef 15% fat,453.6
+1410,russet potato,340.2
+1411,green onions,30.0
+1412,honey,3.5
+1413,curry powder,2.1
+1414,cooked chicken,375.0
+1415,salt,0.4
+1416,plain yogurt,81.67
+1417,Dijon mustard,2.5
+1418,curry powder,3.15
+1419,red onion,40.0
+1420,red onion,100.0
+1421,long grain brown rice,190.0
+1422,curry powder,12.6
+1423,tahini,80.0
+1424,water,78.86
+1425,lemon juice,60.5
+1426,dry brown lentils,192.0
+1427,crushed tomatoes,425.25
+1428,cayenne pepper,0.9
+1429,evaporated milk,123.0
+1430,sweet potatoes,600.0
+1431,medjool dates,120.0
+1432,chopped walnuts,38.0
+1433,gorgonzola cheese,34.0
+1434,fresh parsley,10.0
+1435,all-purpose flour,23.7
+1436,cooking oil,56.0
+1437,turnip,200.0
+1438,carrots,200.0
+1439,onion,110.0
+1440,black pepper,1.0
+1441,lemon pepper,0.6
+1442,fresh dill,1.0
+1443,luncheon meat,198.45
+1444,frozen stir fry vegetables,340.2
+1445,instant ramen,85.05
+1446,grape leaves,200.0
+1447,long grain rice,285.0
+1448,lemon juice,91.5
+1449,fresh mint,5.0
+1450,old-fashioned rolled oats,106.67
+701,shallot,40.0
+702,lemongrass,24.0
+703,fish sauce,18.0
+704,lime juice,61.5
+705,water,177.75
+706,fish sauce,54.0
+707,thai red chili pepper,5.0
+708,carrot,61.0
+709,rice vermicelli noodles,226.8
+710,butter lettuce,163.0
+711,fresh mint,10.0
+712,carrot,61.0
+713,cucumber,150.0
+714,butternut squash,907.2
+715,fire roasted diced tomatoes,425.2
+716,coconut milk,382.7
+717,fresh spinach,56.7
+718,salt,3.0
+719,butternut squash,1360.8
+720,olive oil,54.0
+721,dried sage,0.7
+722,orecchiette pasta,453.6
+723,shredded parmesan,75.0
+724,butternut squash,907.2
+725,pepper,0.1
+726,olive oil,54.0
+727,spring mix,100.0
+728,goat cheese,28.35
+729,spaghetti,226.8
+730,salted butter,56.8
+731,black pepper,2.3
+732,grated parmesan,100.0
+733,black pepper,0.575
+734,smoked sausage,368.5
+735,shredded cabbage,534.0
+736,wide egg noodles,226.8
+737,butter,28.4
+738,hot sauce,14.0
+739,russet potatoes,1134.0
+740,salt,6.0
+741,eggs,100.0
+742,celery,80.0
+743,parsley,15.0
+744,mayonnaise,220.0
+745,creole mustard,30.0
+746,red wine vinegar,14.9
+747,hot sauce,2.5
+748,canned salmon,170.1
+749,breadcrumbs,27.0
+750,stone ground mustard,2.5
+801,feta cheese,56.7
+802,turmeric,1.0
+803,jasmine rice,370.0
+804,cashews,60.0
+805,dried fruit,40.0
+806,cilantro,15.0
+807,black tea bags,8.0
+808,cinnamon sticks,8.0
+809,fresh ginger,10.0
+810,whole cloves,2.0
+811,sugar,37.5
+812,ground cardamom,0.5
+813,milk,61.0
+814,high heat oil,28.0
+815,fresh sweet corn,540.0
+816,zucchini,400.0
+817,salt,0.5
+818,cilantro,4.0
+819,feta,56.7
+820,plain breadcrumbs,30.0
+821,onion,80.0
+822,sharp cheddar,113.4
+823,ground beef,453.6
+824,ketchup,140.0
+825,yellow mustard,5.0
+826,water,946.0
+827,quick cooking yellow grits,160.0
+828,whole milk,122.0
+829,medium cheddar,113.4
+830,salsa,260.0
+831,all purpose flour,240.0
+832,shredded sharp cheddar,56.0
+833,milk,81.0
+834,ketchup,70.0
+835,relish,15.0
+836,apple cider vinegar,7.5
+837,black pepper,1.0
+838,ground beef,453.6
+839,seasoning salt,1.0
+840,romaine hearts,400.0
+841,cheddar cheese,56.7
+842,cauliflower,600.0
+843,russet potatoes,680.4
+844,vegetable broth,960.0
+845,evaporated milk,340.0
+846,medium cheddar,113.4
+847,green onions,30.0
+848,salt,6.0
+849,shredded cheddar,113.4
+850,beef broth,240.0
+851,dried rosemary,1.0
+852,frozen peas and carrots,268.0
+853,frozen corn,134.0
+854,gnocchi,454.0
+855,frozen chopped greens,227.0
+856,pasta sauce,680.0
+857,hickory bacon,113.0
+858,salted butter,42.6
+859,all-purpose flour,23.4
+860,whole milk,488.0
+861,garlic powder,0.7
+862,black pepper,0.6
+863,vintage cheddar,170.0
+864,mild cheddar,57.0
+865,french fried onions,28.0
+866,pinto beans,850.0
+867,hot sauce,1.0
+868,shredded cheddar cheese,56.0
+869,sliced mushrooms,227.0
+870,pasta sauce,680.0
+871,fresh spinach,113.0
+872,rigatoni,227.0
+873,whole milk ricotta,227.0
+874,shredded monterey jack,113.0
+875,sour cream,61.0
+876,scallions,30.0
+877,cilantro,4.0
+878,chili powder,1.3
+879,jalapenos,180.0
+880,diced tomatoes,425.0
+881,kidney beans,425.0
+882,frozen corn kernels,134.0
+883,macaroni noodles,226.0
+884,shredded sharp cheddar,113.0
+885,bone-in chicken,1814.0
+886,soy sauce,134.0
+887,apple cider vinegar,118.0
+888,bay leaves,0.4
+889,minced garlic,8.5
+890,black peppercorns,6.0
+891,boneless skinless chicken breasts,590.0
+892,italian seasoning,2.0
+893,garlic,12.0
+894,grated parmesan,75.0
+895,chopped parsley,3.8
+896,fettuccine,227.0
+897,boneless skinless chicken breasts,590.0
+898,grated parmesan cheese,5.0
+899,italian seasoning,0.5
+900,black pepper,1.2
+2901,BBQ sauce,51.0
+2902,chicken sausage,340.2
+2903,broccoli,608.0
+2904,sweet potato,226.796
+2905,sweet potatoes,680.388
+2906,chicken breasts,603.277
+2907,cranberry sauce,138.5
+2908,chicken breast,680.388
+2909,kalamata olives,45.0
+2910,red potatoes,680.4
+2911,kielbasa,340.2
+2912,frozen green beans,340.2
+2913,steak seasoning,3.5
+2914,baby potatoes,453.592
+2915,salt,1.0
+2916,pesto,64.0
+2917,fresh mozzarella,113.4
+2918,spring mix,113.398
+2919,caesar dressing,60.5
+2920,all-purpose flour,500.0
+2921,instant yeast,6.2
+2922,olive oil,13.5
+2923,olive oil,40.5
+2924,pizza sauce,396.9
+2925,parmesan cheese,50.0
+2926,pepperoni slices,85.05
+2927,pickled jalapenos,50.0
+2928,onion,285.0
+2929,pineapple chunks,567.0
+2930,chicken breasts,566.99
+2931,rice vinegar,78.21
+2932,cornstarch,12.0
+2933,beef shoulder roast,1360.776
+2934,chili powder,16.0
+2935,cumin,6.0
+2936,garlic cloves,15.0
+2937,shrimp,226.796
+2938,fettuccine,226.796
+2939,parmesan cheese,75.0
+2940,black pepper,0.5
+2941,pineapple chunks,567.0
+2942,unsweetened coconut shreds,21.25
+2943,cooking oil,40.5
+2944,shrimp,226.796
+2945,jasmine rice,632.0
+2946,fresh cilantro,10.0
+2947,red bell pepper,119.0
+2948,dried basil,0.175
+2949,dried oregano,0.0625
+2950,jasmine rice,185.0
+3501,bell pepper,59.5
+3502,seasoning,6.0
+3503,grape tomatoes,48.0
+3504,avocado,12.5
+3505,hummus,60.0
+3506,taco blend cheese,169.5
+3507,zucchini,340.0
+3508,black beans,263.4
+3509,green onions,30.0
+3510,cooking oil,40.8
+3511,frozen mixed vegetables,454.0
+3512,baking powder,12.0
+3513,chives,6.0
+3514,sweet potato,130.0
+3515,black beans,439.0
+3516,red enchilada sauce,283.0
+3517,shredded cheddar,113.0
+3518,russet potatoes,680.0
+3519,frozen mixed vegetables,340.0
+3520,15 bean soup mix,454.0
+3521,coconut oil,27.2
+3522,carrots,244.0
+3523,salt,1.5
+3524,apple cider vinegar,9.8
+3525,portobello mushroom caps,227.0
+3526,vegetable broth,480.0
+3527,french rolls,228.0
+3528,provolone cheese slices,112.0
+3529,fresh mustard greens,454.0
+3530,cooked lentils,198.0
+3531,all-purpose flour,7.8
+3532,mashed potatoes,840.0
+3533,pie crust,250.0
+3534,salted butter,99.4
+3535,yellow onion,160.0
+3536,garlic cloves,6.0
+3537,all-purpose flour,31.2
+3538,yukon gold potato,150.0
+3539,baby bella mushrooms,284.0
+3540,frozen mixed vegetables,340.0
+3541,baby carrots,454.0
+3542,fresh broccoli,450.0
+3543,ranch dressing,245.0
+3544,green cabbage,280.0
+3545,purple cabbage,280.0
+3546,caesar dressing,120.0
+3547,shredded brussels sprouts,283.0
+3548,d'anjou pear,178.0
+3549,ground cumin,1.0
+3550,garlic powder,1.6
+3201,chicken broth,1920.0
+3202,potatoes,681.0
+3203,rice paper wrappers,100.0
+3204,red leaf lettuce,150.0
+3205,bean threads,56.7
+3206,mango,200.0
+3207,red bell pepper,120.0
+3208,imitation crab meat,226.8
+3209,smooth natural peanut butter,64.0
+3210,fresh ginger,5.0
+3211,sriracha sauce,1.25
+3212,hot water,118.0
+3213,boneless skinless chicken breasts,681.0
+3214,sriracha hot sauce,80.0
+3215,fresh ginger,10.0
+3216,panko breadcrumbs,90.0
+3217,salt,0.75
+3218,sriracha,22.5
+3219,cilantro,2.0
+3220,large flour tortillas,120.0
+3221,spinach,60.0
+3222,carrot,61.0
+3223,bell pepper,60.0
+3224,ground cumin,0.25
+3225,Sriracha,30.0
+3226,cooking oil,28.0
+3227,popcorn kernels,66.0
+3228,nutritional yeast,3.0
+3229,fresh peaches,1362.0
+3230,sriracha hot sauce,15.0
+3231,butter,113.0
+3232,extra sharp cheddar,226.8
+3233,sriracha,45.0
+3234,roasted red peppers,150.0
+3235,green onion,15.0
+3236,chicken wings,908.0
+3237,chili garlic sauce,15.0
+3238,fresh ginger,6.0
+3239,boneless skinless chicken thighs,794.5
+3240,chili garlic sauce,30.0
+3241,rice noodles,226.8
+3242,green onions,60.0
+3243,cilantro,10.0
+3244,frozen strawberries,113.5
+3245,Rosé wine,240.0
+3246,fresh strawberries,454.0
+3247,heavy whipping cream,480.0
+3248,strawberries,166.0
+3249,white chocolate chips,85.0
+3250,milk,15.0
+451,fresh parsley,15.0
+452,ground beef,226.796
+453,salt,10.5
+454,yellow onion,110.0
+455,oregano,0.9
+456,ground cumin,0.525
+457,worcestershire sauce,5.2
+458,diced tomatoes,425.0
+459,chickpeas,250.0
+460,rice,370.0
+461,water,709.8
+462,salted butter,28.4
+463,red pepper flakes,0.1125
+464,ground beef,226.796
+465,garlic,3.0
+466,rice,632.0
+467,salsa,453.592
+468,green onions,60.0
+469,chili powder,4.0
+470,cream cheese,113.4
+471,shredded cheddar,113.0
+472,zucchini,196.0
+473,yellow squash,196.0
+474,red onion,82.5
+475,salt,1.0
+476,red onion,27.5
+477,fresh parsley,7.6
+478,ground cumin,0.525
+479,ground cinnamon,0.325
+480,ground cloves,0.25
+481,fresh parsley,7.6
+482,worcestershire sauce,7.8
+483,extra wide egg noodles,226.796
+484,tomato sauce,425.0
+485,fire roasted diced tomatoes,250.0
+486,sour cream,226.796
+487,medium cheddar,226.796
+488,green onions,60.0
+489,jalapeno,14.0
+490,chili powder,4.0
+491,pineapple chunks,212.5
+492,fresh cilantro,4.0
+493,corn tortillas,360.0
+494,vegetable oil,27.2
+495,all-purpose flour,15.6
+496,chili powder,16.0
+497,tomato paste,85.0
+498,cayenne pepper,0.3375
+499,unsweetened cocoa powder,5.0
+500,salt,6.0
+401,flour tortillas,360.0
+402,BBQ sauce,198.0
+403,shredded monterrey jack cheese,226.0
+404,green onions,45.0
+405,red onion,110.0
+406,cooked chicken breast,172.0
+407,frozen corn kernels,150.0
+408,zucchini,196.0
+409,pepper jack cheese,113.0
+410,avocado,170.0
+411,red onions,220.0
+412,fresh pineapple,905.0
+413,chicken breasts,589.7
+414,cooking oil,27.2
+415,sweet paprika,2.1
+416,BBQ Sauce,132.0
+417,green onions,30.0
+418,chicken breast,302.0
+419,smoked paprika,1.15
+420,garlic powder,0.7
+421,salt,0.75
+422,pepper,0.3
+423,cooking oil,6.8
+424,BBQ sauce,66.0
+425,pizza dough,453.0
+426,BBQ sauce,132.0
+427,Monterey jack cheese,113.0
+428,jalapeño,14.0
+429,red onion,40.0
+430,pork ribs,1361.0
+431,salt,12.0
+432,black pepper,2.3
+433,garlic powder,5.6
+434,onion powder,4.6
+435,smoked paprika,4.6
+436,cayenne,3.6
+437,ground mustard,4.0
+438,chicken broth,720.0
+439,BBQ sauce,396.0
+440,firm tofu,397.0
+441,BBQ Sauce,66.0
+442,cabbage slaw mix,227.0
+443,BBQ sauce,52.8
+444,Buns,129.0
+445,ground beef,454.0
+446,cabbage,454.0
+447,stewed tomatoes,850.0
+448,black pepper,2.3
+449,beef broth,1440.0
+450,lemon,58.0
+3251,mushrooms sliced,226.8
+3252,provolone slices,168.0
+3253,pepperoni slices,56.7
+3254,grated Parmesan,7.5
+3255,long grain rice,185.0
+3256,bouillon cubes,8.0
+3257,poblano peppers,816.0
+3258,cheese,113.4
+3259,salsa,193.0
+3260,non-stick spray,10.0
+3261,frozen lima beans,340.2
+3262,frozen sweet corn,340.2
+3263,vegetable juice,236.6
+3264,sweet onion,160.0
+3265,cucumber,240.0
+3266,fresh parsley,30.0
+3267,lemon juice,9.9
+3268,pasta shells,226.8
+3269,sweet corn cobs,204.0
+3270,zucchini,302.4
+3271,red onion,40.0
+3272,red wine vinegar,79.0
+3273,bowtie pasta,340.2
+3274,chopped parsley,30.0
+3275,zucchini,196.0
+3276,yellow squash,196.0
+3277,potato,213.0
+3278,tomato,123.0
+3279,salt,6.0
+3280,shredded Italian blend cheese,112.0
+3281,chopped parsley,3.8
+3282,eggplant,548.0
+3283,water,1183.0
+3284,cannellini beans,850.0
+3285,sun dried tomatoes in oil,99.0
+3286,fresh kale,170.1
+3287,crushed tomatoes,1587.6
+3288,aquafaba,118.0
+3289,rolled oats,160.0
+3290,oat bran,29.0
+3291,slivered almonds,23.0
+3292,cucumbers,602.0
+3293,Roma tomatoes,248.0
+3294,short grain white rice,370.0
+3295,imitation crab,226.8
+3296,nori snack,5.0
+3297,dried basil,5.3
+3298,dried oregano,5.3
+3299,tomato sauce,680.4
+3300,diced tomatoes,1275.0
+3551,cayenne pepper,0.5
+3552,refried beans,960.0
+3553,shredded pepper jack cheese,226.8
+3554,avocado,100.0
+3555,fresh cilantro,15.0
+3556,Italian sausage,226.8
+3557,canned great northern beans,850.5
+3558,frozen chopped spinach,113.4
+3559,marinara sauce,500.0
+3560,canned butter beans,850.5
+3561,fresh parsley,60.0
+3562,garlic cloves,3.0
+3563,red pepper flakes,0.4
+3564,lemon juice,23.6
+3565,pizza dough,450.0
+3566,wild rice blend,96.0
+3567,elbow macaroni,280.0
+3568,evaporated milk,196.0
+3569,cayenne pepper,0.4
+3570,shredded sharp cheddar,170.0
+3571,sweet potato,150.0
+3572,curly kale,200.0
+3573,apple cider vinegar,14.9
+3574,canned cannellini beans,850.5
+3575,jasmine rice,370.0
+3576,bay leaves,0.6
+3577,bone-in skin-on chicken thighs,600.0
+3578,jasmine rice,277.5
+3579,frozen peas,210.0
+3580,chicken broth,600.0
+3581,boneless skinless chicken breasts,589.7
+3582,yuca,453.6
+3583,kosher salt,24.0
+3584,olive oil,133.4
+3585,distilled white vinegar,79.2
+3586,black peppercorns,1.2
+3587,adobo seasoning,5.0
+3588,yellow onion,150.0
+3589,garlic cloves,24.0
+3590,sliced spanish olives,35.0
+3591,olive brine,31.5
+3592,sun dried tomato sauce,250.0
+3593,grated parmesan,25.0
+3594,fresh cilantro,30.0
+3595,zucchini,200.0
+3596,frozen cheese ravioli,567.0
+3597,Italian sausage,226.8
+3598,zucchini,907.2
+3599,bacon strips,56.0
+3600,large eggs,250.0
+2951,Roma tomatoes,248.0
+2952,firm tofu,396.9
+2953,Sriracha,15.0
+2954,curry powder,12.6
+2955,rice vermicelli,226.8
+2956,shredded cabbage and carrots,255.15
+2957,chicken thighs,560.0
+2958,diced tomatoes,425.25
+2959,chicken broth,480.0
+2960,orzo,285.0
+2961,parsley,15.0
+2962,sun dried tomatoes,30.0
+2963,boneless skinless chicken thighs,1043.26
+2964,Pineapple slices in juice,567.0
+2965,jalapeño,14.0
+2966,white onion,110.0
+2967,burger seasoning,6.0
+2968,American cheese,126.0
+2969,Hawaiian sweet rolls,360.0
+2970,everything bagel seasoning,6.0
+2971,brown lentils,144.0
+2972,lean ground beef,453.592
+2973,Dijon mustard,7.5
+2974,hamburger buns,400.0
+2975,5 spice powder,12.0
+2976,bone-in skin-on chicken pieces,1814.37
+2977,rice wine,30.0
+2978,black beans,453.592
+2979,baby potatoes,680.39
+2980,chopped cabbage,489.5
+2981,whole chicken,2041.16
+2982,garlic,25.0
+2983,carrots,226.8
+2984,chicken breast,340.19
+2985,dried parsley,1.5
+2986,butter,85.2
+2987,sugar,3.0
+2988,carrots,226.8
+2989,split chicken breasts,1020.58
+2990,water,1892.0
+2991,wide egg noodles,170.1
+2992,salt,17.06
+2993,chicken pieces,793.79
+2994,oregano,1.5
+2995,red bell pepper,119.0
+2996,salt,4.26
+2997,sweet potato,340.19
+2998,curry powder,18.0
+2999,ground cloves,0.5
+3000,coconut milk,414.0
+3351,enchilada sauce,240.0
+3352,shredded cheese,226.0
+3353,green onions,52.5
+3354,feta cheese,85.05
+3355,chili powder,5.2
+3356,salsa,120.0
+3357,red pepper flakes,0.3
+3358,buckwheat soba noodles,226.8
+3359,pork butt roast,1360.78
+3360,sweet onion,150.0
+3361,teriyaki sauce,255.0
+3362,canned pineapple slices,425.0
+3363,fresh ginger,10.0
+3364,hamburger buns,400.0
+3365,salmon filet,453.592
+3366,water,29.58
+3367,toasted sesame oil,6.8
+3368,minced garlic,1.4
+3369,brown sugar,25.0
+3370,rice wine,30.0
+3371,sriracha hot sauce,36.0
+3372,naan bread,640.0
+3373,peanut butter,129.0
+3374,sriracha hot sauce,36.0
+3375,chicken breasts,340.0
+3376,boneless skinless chicken thighs,550.0
+3377,red Thai curry paste,32.0
+3378,fish sauce,1.25
+3379,jasmine rice,790.0
+3380,green onions,37.5
+3381,butter,28.4
+3382,red Thai curry paste,64.0
+3383,coconut milk,403.0
+3384,cilantro,20.0
+3385,sriracha,36.0
+3386,cooking oil,27.0
+3387,Thai red curry paste,32.0
+3388,sweet potato,453.592
+3389,baby bok choy,200.0
+3390,vegetable broth,960.0
+3391,fish sauce,7.5
+3392,rice vermicelli noodles,99.225
+3393,lime,15.0
+3394,chili garlic sauce,7.5
+3395,honey,21.0
+3396,chicken pieces,1360.78
+3397,peanut butter,193.5
+3398,coconut milk,60.0
+3399,lime,15.0
+3400,fresh ginger,10.0
+3601,self-rising flour,120.0
+3602,zucchini,340.2
+3301,frozen chopped spinach,283.5
+3302,Swiss cheese,226.8
+3303,broccoli crown,226.8
+3304,sliced olives,63.8
+3305,Italian Dressing,80.0
+3306,cornstarch,5.2
+3307,pork chops,680.4
+3308,paprika,1.15
+3309,boneless skinless chicken thighs,680.4
+3310,black beans,425.0
+3311,ranch dressing,60.0
+3312,canned tuna,283.5
+3313,apple cider vinegar,7.4
+3314,jasmine rice,277.5
+3315,sweet chili sauce,290.0
+3316,pineapple tidbits in juice,226.8
+3317,broccoli crown,453.6
+3318,cooking oil,27.0
+3319,green onions,30.0
+3320,sweet chili sauce,145.0
+3321,sesame seeds,6.0
+3322,sweet corn,540.0
+3323,mild chili powder,2.6
+3324,black pepper,0.5
+3325,brown rice,190.0
+3326,chicken broth,435.75
+3327,avocado,150.0
+3328,sweet potatoes,1360.8
+3329,cilantro,15.0
+3330,yellow cornmeal,53.3
+3331,vegetable oil,108.0
+3332,sweet potato,450.0
+3333,flour tortillas,200.0
+3334,enchilada sauce,283.5
+3335,bulgur,182.0
+3336,fresh cilantro,16.0
+3337,fresh parsley,60.0
+3338,sweet potato,510.0
+3339,yellow grits,160.0
+3340,cinnamon,0.65
+3341,masa harina,60.0
+3343,chili powder,3.9
+3344,tortilla chips,100.0
+3345,iceberg lettuce,300.0
+3346,ground beef,680.4
+3347,black beans,340.0
+3348,pinto beans,340.0
+3349,taco seasoning,30.0
+3350,jumbo shells,340.2
+3101,frozen corn kernels,201.0
+3102,shredded cheese,169.5
+3103,spaghetti squash,620.0
+3104,Monterey jack cheese,113.4
+3105,flank steak,453.592
+3106,brown rice,277.5
+3107,firm tofu,396.9
+3108,turmeric,3.0
+3109,diced tomatoes with green chiles,283.5
+3110,red bell pepper,30.0
+3111,diced green chiles,30.0
+3112,salsa,32.0
+3113,pork tenderloin,603.28
+3114,vegetable broth,240.0
+3115,light oil,13.6
+3116,brown rice,370.0
+3117,water,768.95
+3118,creamy peanut butter,64.0
+3119,oil,4.5
+3120,snap peas,226.796
+3121,spaghetti,340.2
+3122,fresh parsley,10.0
+3123,pasta sauce,680.4
+3124,vegetable broth,360.0
+3125,tostadas,120.0
+3126,guacamole,226.8
+3127,radishes,21.0
+3128,carrots,256.0
+3129,allspice,1.0
+3130,dried apricots,40.0
+3131,pizza dough,450.0
+3132,pizza sauce,183.75
+3133,shredded monterey jack,169.5
+3134,canned pineapple pieces,226.8
+3135,sliced ham,85.05
+3136,instant yeast,0.75
+3137,water,177.45
+3138,cornmeal,4.0
+3139,salami,24.0
+3140,smoked provolone,84.0
+3141,crushed red pepper,0.9
+3142,orecchiette,226.8
+3143,chicken sausage,340.2
+3144,black pepper,1.0
+3145,carrots,453.592
+3146,white vinegar,478.0
+3147,cucumber,357.0
+3148,frozen pineapple chunks,226.796
+3149,gochujang,8.25
+3150,frozen cauliflower florets,453.592
+3151,evaporated milk,123.0
+3152,sharp cheddar cheese,113.4
+3153,bow tie pasta,454.0
+3154,smoked gouda cheese,56.7
+3155,shredded Italian cheese,56.7
+3156,frozen seafood mix,226.8
+3157,red pepper flakes,0.5
+3158,fettuccine,226.8
+3159,fresh parsley,15.0
+3160,peeled deveined shrimp,227.0
+3161,crushed red pepper flakes,0.5
+3162,sweet potatoes,907.0
+3163,Creole seasoning,2.1
+3164,cucumber,201.0
+3165,carrot,61.0
+3166,cooked rice,591.0
+3167,sriracha hot sauce,72.0
+3168,vegetable broth,413.0
+3169,russet potatoes,1134.0
+3170,fresh spinach,60.0
+3171,crumbled feta,56.7
+3172,lean ground turkey,454.0
+3173,black pepper,0.6
+3174,shredded mozzarella,226.8
+3175,flour tortillas,215.0
+3176,spinach artichoke dip,81.0
+3177,flour tortilla,49.0
+3178,rotisserie chicken,43.0
+3179,hot sauce,0.6
+3180,canned artichoke hearts,368.0
+3181,fresh spinach,113.4
+3182,feta cheese,85.0
+3183,cooked quinoa,370.0
+3184,frozen chopped spinach,283.0
+3185,salt,0.75
+3186,orzo pasta,227.0
+3187,fresh baby spinach,120.0
+3188,sun dried tomatoes,54.0
+3189,cottage cheese,225.0
+3190,portobello mushrooms,484.0
+3191,marinara sauce,128.0
+3192,petite diced tomatoes,794.0
+3193,frozen cheese tortellini,539.0
+3194,pepper jack cheese,113.4
+3195,frozen chopped spinach,227.0
+3196,canned white beans,425.0
+3197,fresh cilantro,4.0
+3198,whole milk,183.0
+3199,bacon,170.0
+3200,split peas,454.0
+3052,acorn squash,680.39
+3053,bell peppers,240.0
+3054,deli mustard,5.0
+3055,smoked sausage,340.2
+3056,broccoli crown,453.592
+3057,fresh parsley,10.0
+3058,sweet potatoes,907.18
+3059,cayenne pepper,0.25
+3060,black peppercorns,0.5
+3061,whole peeled tomatoes,793.8
+3062,fresh parsley,10.0
+3063,egg whites,66.0
+3064,cream of tartar,0.4
+3065,salt,0.75
+3066,slivered almonds,66.0
+3067,granulated sugar,50.0
+3068,dark chocolate,56.7
+3069,graham crackers,15.0
+3070,elbow macaroni,226.0
+3071,shredded cheese,113.0
+3072,Italian sausage,340.2
+3073,frozen broccoli,113.4
+3074,long grain brown rice,380.0
+3075,Dijon mustard,60.0
+3076,chicken thighs,907.18
+3077,sweet potato,453.592
+3078,cooked rice,100.0
+3079,frozen chopped spinach,78.0
+3080,salt,0.75
+3081,hot sauce,5.0
+3082,purple cabbage,450.0
+3083,ramen noodles,70.88
+3084,Sriracha,30.0
+3085,fresh cilantro,10.0
+3086,old-fashioned rolled oats,120.0
+3087,butter,57.0
+3088,soy milk,243.0
+3089,sweetened shredded coconut,27.0
+3090,vermicelli noodles,226.8
+3091,whole peeled tomatoes,793.8
+3092,jalapeño,14.0
+3093,tortilla strips,100.0
+3094,long grain white rice,185.0
+3095,shredded chicken,220.0
+3096,chili powder,8.0
+3097,chicken broth,414.0
+3098,plain yogurt,184.0
+3100,iceberg lettuce,550.0
+2451,feta cheese,28.35
+2452,andouille sausage,226.796
+2453,frozen seasoning mix,283.5
+2454,creole seasoning,6.3
+2455,penne pasta,453.592
+2456,half and half,30.0
+2457,peaches,600.0
+2458,lemon,15.0
+2459,cornstarch,1.3
+2460,rolled oats,60.75
+2461,butter,113.4
+2462,canned sliced peaches,850.5
+2463,brown sugar,110.0
+2464,salted butter,113.4
+2465,vanilla extract,2.1
+2466,ground cinnamon,1.3
+2467,rolled oats,243.0
+2468,eggs,100.0
+2469,peaches,900.0
+2470,all-purpose flour,187.5
+2471,sliced almonds,46.0
+2472,peaches,1200.0
+2473,corn starch,16.0
+2474,heavy cream,15.0
+2475,natural peanut butter,128.0
+2476,powdered sugar,90.0
+2477,chocolate graham crackers,56.0
+2478,all-purpose flour,156.25
+2479,rolled oats,81.0
+2480,salted butter,113.4
+2481,eggs,56.0
+2482,strawberry jam,159.75
+2483,peanuts,37.0
+2484,graham crackers,42.0
+2485,peanut butter,32.0
+2486,milk chocolate chips,45.0
+2487,marshmallows,75.0
+2488,coconut oil,13.6
+2489,riced cauliflower,321.0
+2490,fresh ginger,2.0
+2491,lime,30.0
+2492,chili garlic sauce,7.5
+2493,chopped peanuts,73.0
+2494,fresh cilantro,16.0
+2495,natural peanut butter,85.3
+2496,egg noodles,226.8
+2497,water,78.86
+2498,frozen stir fry vegetables,453.592
+2499,soba noodles,226.8
+2500,green onions,30.0
+2401,sesame seeds,18.0
+2402,extra-firm tofu,396.9
+2403,vegetable oil,27.2
+2404,frozen broccoli florets,226.8
+2405,green onions,52.5
+2406,bread,180.0
+2407,olive oil,54.0
+2408,cherry tomatoes,340.0
+2409,nectarine,150.0
+2410,baby spring mix,283.5
+2411,mozzarella pearls,113.4
+2412,active dry yeast,6.3
+2413,baking soda,60.0
+2414,butter,21.3
+2415,kale,200.0
+2416,pasta,226.8
+2417,baby portobello mushrooms,226.8
+2418,orzo,400.0
+2419,fettuccini,453.592
+2420,Italian parsley,60.0
+2421,grated parmesan,50.0
+2422,fresh parsley,60.0
+2423,pasta,453.592
+2424,eggs,250.0
+2425,Italian parsley,60.0
+2426,grated parmesan,50.0
+2427,salt,1.0
+2428,pasta,453.592
+2429,potatoes,680.388
+2430,Italian parsley,30.0
+2431,bulgur,270.0
+2432,dried apricots,70.0
+2433,vegetable oil,27.2
+2434,salt,3.0
+2435,lemon,58.0
+2436,garlic cloves,3.0
+2437,green onions,30.0
+2438,pumpkin puree,245.0
+2439,chicken broth,240.0
+2440,chili powder,0.5
+2441,cayenne pepper,0.1
+2442,half and half,30.0
+2443,black pepper,1.0
+2444,lemon,30.0
+2445,anchovy filets,15.0
+2446,kalamata olives,67.0
+2447,capers,20.0
+2448,spaghetti,453.592
+2449,Italian sausage,226.796
+2450,penne pasta,226.796
+3001,cooked rice,1580.0
+3002,fresh cilantro,30.0
+3003,boneless skinless chicken,680.4
+3004,marinara sauce,680.4
+3005,chicken pieces,2268.0
+3006,fresh ginger,30.0
+3007,orange,131.0
+3008,jalapeno pepper,14.0
+3009,pineapple chunks in juice,567.0
+3010,chicken thighs,625.0
+3011,cooked rice,790.0
+3012,chicken pieces,907.2
+3013,salsa verde,453.6
+3014,jalapeno,14.0
+3015,queso fresco,56.7
+3016,beef roast,907.2
+3017,green onions,90.0
+3018,apple juice,1892.0
+3019,cranberry juice,946.0
+3020,fresh ginger,22.5
+3021,cloves,5.4
+3022,cinnamon sticks,35.4
+3023,fresh cranberries,100.0
+3024,petite diced tomatoes,425.2
+3025,kidney beans,425.2
+3026,brown lentils,192.0
+3027,coconut oil,27.0
+3028,black eyed peas,453.6
+3029,celery,225.0
+3030,fresh greens,340.2
+3031,Dijon mustard,1.25
+3032,seasoning salt,0.3
+3033,salted butter,56.8
+3034,burger seasoning,6.0
+3035,burger buns,240.0
+3036,iceberg lettuce,60.0
+3037,tomato,123.0
+3038,red onion,25.0
+3039,smoked sausage,226.8
+3040,diced tomatoes,425.2
+3041,black pepper,1.5
+3042,cooked farro,360.0
+3043,fresh parsley,15.0
+3044,sweet potatoes,680.4
+3045,cayenne pepper,0.4
+3046,ground pepper,1.0
+3047,russet potatoes,1020.6
+3048,garlic powder,3.1
+3049,smoked paprika,2.3
+3050,salt,5.0
+2551,sofrito,128.5
+2552,pimento-stuffed green olives,71.0
+2553,white vinegar,7.45
+2554,tomato sauce,425.25
+2555,boneless skinless chicken thighs,1360.78
+2556,sazon,7.5
+2557,cooking oil,27.2
+2558,BBQ Sauce,261.0
+2559,pineapple chunks in juice,123.0
+2560,ice,150.0
+2561,pineapple slices in juice,567.0
+2562,shredded Monterey jack cheese,56.7
+2563,teriyaki sauce,108.0
+2564,cooking oil,13.6
+2565,onion rolls,340.0
+2566,boneless pork chops,566.99
+2567,Vidalia onion,150.0
+2568,pineapple chunks in juice,567.0
+2569,Sriracha,18.0
+2570,frozen banana,59.0
+2571,frozen pineapple chunks,82.5
+2572,brown sugar,2.1
+2573,ground flaxseed,7.0
+2574,unsweetened almond milk,240.0
+2575,cooked jasmine rice,158.0
+2576,soy sauce,5.4
+2577,sriracha,6.0
+2578,sesame oil,4.5
+2579,pineapple chunks,55.0
+2580,pineapple jam,510.3
+2581,cornstarch,4.0
+2582,bone-in chicken thighs,1814.37
+2583,water,266.63
+2584,sugar,6.3
+2585,whole wheat flour,60.0
+2586,all-purpose flour,312.5
+2587,water,177.75
+2588,yeast,3.1
+2589,butter,14.2
+2590,shredded mozzarella,37.33
+2591,pizza sauce,15.0
+2592,pepperoni,12.0
+2593,rotini pasta,453.592
+2594,sliced black olives,56.7
+2595,flour tortillas,360.0
+2596,shredded mozzarella,224.0
+2597,pepperoni,60.0
+2598,sliced black olives,63.79
+2599,canned mushrooms,400.0
+2600,pizza sauce,250.0
+2251,brown sugar,165.0
+2252,melted butter,14.2
+2253,pecan pieces,66.0
+2254,carrots,122.0
+2255,plain breadcrumbs,81.0
+2256,ground turkey,538.6
+2257,frozen peas,454.0
+2258,shallot,20.0
+2259,fresh mint,5.0
+2260,milk,549.0
+2261,dry macaroni,227.0
+2262,Dijon mustard,5.0
+2263,smoked paprika,0.6
+2264,black pepper,0.6
+2265,unsweetened apple sauce,366.0
+2266,carrots,150.0
+2267,crushed pineapple,425.0
+2268,shredded coconut,27.0
+2269,chopped walnuts,38.0
+2270,milk,244.0
+2271,old-fashioned rolled oats,202.5
+2272,frozen cauliflower florets,227.0
+2273,brown lentils,192.0
+2274,ground turmeric,3.0
+2275,paprika,2.3
+2276,old-fashioned oats,243.0
+2277,chopped walnuts,58.0
+2278,dried cranberries,60.0
+2279,sunflower seeds,34.0
+2280,brown sugar,25.0
+2281,yellow onions,440.0
+2282,allspice,2.0
+2283,vegetable broth,600.0
+2284,long grain white rice,185.0
+2285,boneless beef rump roast,1814.0
+2286,bowtie pasta,227.0
+2287,baby bella mushrooms,454.0
+2288,butter,42.6
+2289,long-grain white rice,185.0
+2290,frozen spinach,227.0
+2291,butter,28.4
+2292,russet potatoes,1814.0
+2293,cooking oil,9.3
+2294,red enchilada sauce,240.0
+2295,cheddar cheese,113.0
+2296,jalapeños,45.0
+2297,fresh lime juice,60.0
+2298,grated fresh ginger,9.0
+2299,chili garlic sauce,7.5
+2300,ground pork,454.0
+1,frozen mixed vegetables,680.4
+2,vegetable broth,442.0
+3,coconut milk,411.75
+4,curry powder,6.3
+5,ground ginger,0.9
+6,salt,0.75
+7,butter,28.4
+8,garlic cloves,6.0
+9,chicken broth,373.5
+10,milk,366.0
+11,salt,1.5
+12,black pepper,0.525
+13,linguine,226.8
+14,baby spinach,113.398
+15,artichoke hearts,425.25
+16,grated Parmesan,25.0
+17,boneless skinless chicken thighs,680.388
+18,smoked paprika,2.3
+19,garlic powder,0.7
+20,cooking oil,13.6
+21,chicken broth,124.5
+22,stone ground mustard,31.8
+23,honey,42.6
+24,butter,14.2
+25,yellow onion,110.0
+26,cooking oil,27.2
+27,flour,15.6
+28,chili powder,16.0
+29,tomato paste,85.05
+30,ground cumin,1.05
+31,garlic powder,1.4
+32,cayenne pepper,0.45
+33,salt,4.5
+34,water,473.2
+35,chicken broth,747.0
+36,chopped green chiles,113.4
+37,hominy,425.25
+38,shredded pork,169.5
+39,fresh lime,67.0
+40,fresh cilantro,15.0
+41,linguine,226.796
+42,mushrooms,113.4
+43,grape tomatoes,149.0
+44,fresh spinach,113.4
+45,butter,14.2
+46,nutritional yeast,10.0
+47,black pepper,0.525
+48,whole milk,244.0
+49,shredded cheddar cheese,170.1
+50,chili powder,0.7
+51,olive oil,13.5
+52,garlic cloves,12.0
+53,fresh ginger,6.0
+54,sweet potato,454.0
+55,onion,110.0
+56,ground cumin,2.1
+57,crushed red pepper,0.5
+58,tomato paste,170.0
+59,natural peanut butter,128.0
+60,vegetable broth,1440.0
+61,collard greens,225.0
+62,cilantro,15.0
+63,brown rice,877.5
+64,chopped peanuts,46.0
+65,all-purpose flour,60.0
+66,unsweetened cocoa powder,28.0
+67,granulated sugar,200.0
+68,salt,0.75
+69,cayenne pepper,0.25
+70,baking powder,0.6
+71,ground cinnamon,0.65
+72,large eggs,100.0
+73,vanilla extract,4.2
+74,butter,56.8
+75,butter,4.7
+76,all-purpose flour,240.0
+77,baking powder,4.0
+78,granulated sugar,200.0
+79,butter,56.8
+80,vanilla extract,2.1
+81,almond extract,4.2
+82,ground nutmeg,0.55
+83,sliced almonds,30.0
+84,dried apricots,53.0
+85,large eggs,150.0
+86,milk,160.0
+87,all-purpose flour,80.0
+88,granulated sugar,12.5
+89,almond extract,1.05
+90,vanilla extract,1.05
+91,sliced almonds,15.0
+92,ricotta cheese,124.0
+93,granulated sugar,6.25
+94,raspberry jam,80.0
+95,butter,71.0
+96,English muffins,114.0
+97,large eggs,150.0
+98,ham slices,100.0
+99,water,15.0
+100,lemon,58.0
+2201,ginger powder,0.9
+2202,sesame seeds,6.0
+2203,sriracha,11.2
+2204,carrot,61.0
+2205,mushrooms,72.0
+2206,instant ramen,170.0
+2207,coleslaw mix,453.6
+2208,red bell pepper,59.5
+2209,banana pepper rings,170.0
+2210,black pepper,0.45
+2211,farro,570.0
+2212,hummus,246.0
+2213,English cucumber,150.5
+2214,kalamata olives,134.0
+2215,crumbled feta,56.7
+2216,fresh parsley,15.0
+2217,flour tortillas,490.0
+2218,frozen chopped spinach,453.6
+2219,roasted red peppers,170.0
+2220,kalamata olives,89.8
+2221,fresh parsley,15.0
+2222,crumbled feta,113.4
+2223,shredded mozzarella,226.8
+2224,English cucumber,301.0
+2225,grape tomatoes,340.0
+2226,fresh parsley,30.0
+2227,chunk light tuna,340.0
+2228,plain yogurt,245.0
+2229,uncooked rice,185.0
+2230,butter beans,850.0
+2231,fresh parsley,60.0
+2232,crushed red pepper,0.45
+2233,large eggs,200.0
+2234,crumbled feta,150.0
+2235,dry red lentils,384.0
+2236,celery,140.0
+2237,fire roasted diced tomatoes,822.0
+2238,hot sauce,14.3
+2239,corn cobs,908.0
+2240,black beans,425.0
+2241,lean ground turkey,538.6
+2242,lime,33.5
+2243,pita bread,150.0
+2244,Roma tomatoes,124.0
+2245,butter,113.4
+2246,cream cheese,113.4
+2247,all-purpose flour,140.6
+2248,frozen broccoli florets,226.8
+2249,dark chocolate,75.0
+2250,large egg,50.0
+2501,lime,30.0
+2502,vegetable broth,120.0
+2503,extra firm tofu,396.9
+2504,frozen stir fry vegetables,453.6
+2505,cooked rice,474.0
+2506,salt,8.5
+2507,fresh baby spinach,113.4
+2508,kidney beans,425.0
+2509,pepperoni,85.05
+2510,mozzarella,113.4
+2511,Italian dressing,177.42
+2512,Parmesan cheese,5.0
+2513,black pepper,1.0
+2514,boneless skinless chicken breasts,453.6
+2515,mozzarella cheese,56.7
+2516,pepperoni,35.44
+2517,all purpose flour,60.0
+2518,vegetable oil,88.8
+2519,broccoli,907.2
+2520,salt,1.5
+2521,black pepper,0.5
+2522,cooked chicken,140.0
+2523,fresh broccoli,453.6
+2524,red onion,40.0
+2525,red onion,40.0
+2526,fresh parsley,15.0
+2527,bread,60.0
+2528,pesto,30.0
+2529,sun dried tomatoes,10.0
+2530,mozzarella,56.7
+2531,flour tortillas,360.0
+2532,basil pesto,60.0
+2533,mozzarella string cheese,112.0
+2534,active dry yeast,6.0
+2535,all purpose flour,240.0
+2536,pepperoni,56.7
+2537,pizza sauce,120.0
+2538,peeled deveined shrimp,340.2
+2539,angel hair pasta,226.8
+2540,frozen spinach,226.8
+2541,ricotta cheese,425.25
+2542,basil pesto,120.0
+2543,jumbo pasta shells,226.8
+2544,pasta sauce,680.4
+2545,olive oil,20.25
+2546,red bell pepper,120.0
+2547,minced garlic,8.5
+2548,ground beef,453.6
+2549,coarse salt,6.0
+2550,sazon seasoning,6.3
+2301,canola oil,7.0
+2302,unsalted peanuts,73.0
+2303,cooked rice,632.0
+2304,eggs,300.0
+2305,Nashville Hot Seasoning,18.0
+2306,salt & vinegar potato chips,6.0
+2307,green onion,3.0
+2308,cayenne pepper,10.6
+2309,dark brown sugar,0.5
+2310,smoked paprika,1.15
+2311,onion powder,0.6
+2312,sweet potato,180.0
+2313,apples,364.0
+2314,fresh strawberries,227.0
+2315,graham crackers,28.0
+2316,sweetened condensed milk,396.0
+2317,mint extract,6.3
+2318,chocolate syrup,68.0
+2319,all-purpose flour,250.0
+2320,instant yeast,0.4
+2321,all-purpose flour,281.25
+2322,instant yeast,7.0
+2323,bananas,236.0
+2324,unsweetened apple sauce,244.0
+2325,old fashioned rolled oats,486.0
+2326,unsweetened shredded coconut,85.0
+2327,banana chips,72.0
+2328,chia seeds,40.0
+2329,unsweetened applesauce,325.0
+2330,blueberries,148.0
+2331,almond extract,2.1
+2332,chicken breasts,567.0
+2333,tomato sauce,425.0
+2334,plain yogurt,123.0
+2335,jasmine rice,277.5
+2336,water,533.25
+2337,dry pinto beans,454.0
+2338,jalapeno,14.0
+2339,chili powder,4.0
+2340,black pepper,1.5
+2341,salt,18.0
+2342,dried rosemary,0.3
+2343,crushed red pepper,0.1
+2344,baking soda,2.3
+2345,butter,28.4
+2346,pumpkin puree,122.0
+2347,white sugar,67.0
+2348,rolled oats,121.5
+2349,salt,8.0
+2350,active dry yeast,6.75
+2601,fresh ginger,5.0
+2602,lemon juice,30.0
+2603,canola oil,40.8
+2604,plums,226.8
+2605,bulgur,360.0
+2606,chicken thighs boneless skinless,680.4
+2607,adobo seasoning,4.0
+2608,yellow onion,150.0
+2609,sazon seasoning,6.0
+2610,dried oregano,2.0
+2611,manzanilla olives,35.0
+2612,potato,300.0
+2613,carrots,200.0
+2614,chicken stock,720.0
+2615,butter,227.0
+2616,powdered sugar,120.0
+2617,ground cinnamon,5.2
+2618,long grain white rice,370.0
+2619,water,591.0
+2620,salt,1.5
+2621,pork sausage,340.2
+2622,Italian parsley,30.0
+2623,frozen sweet cherries,75.0
+2624,red wine,118.0
+2625,lemon juice,1.25
+2626,ground pork,226.8
+2627,green cabbage,500.0
+2628,sesame oil,1.15
+2629,green onion,10.0
+2630,carrot,25.0
+2631,wonton wrappers,450.0
+2632,bouillon cubes,15.0
+2633,non-stick cooking spray,10.0
+2634,shredded cabbage,280.0
+2635,canola oil,27.2
+2636,grated ginger,15.0
+2637,ground pork,226.8
+2638,gyoza wrappers,430.0
+2639,chili garlic sauce,68.0
+2640,ground pork,226.8
+2641,ramen noodles,170.1
+2642,unsalted peanuts,35.0
+2643,salt,6.0
+2644,everything bagel seasoning,5.0
+2645,whole chicken,1587.0
+2646,seasoning blend,30.0
+2647,long grain white rice,277.5
+2648,parsley,10.0
+2649,andouille sausage,226.8
+2650,dry red beans,453.6
+151,large eggs,50.0
+152,heavy cream,15.0
+153,large eggs,50.0
+154,unsweetened apple sauce,62.5
+155,lemon juice,5.0
+156,apples,182.0
+157,all-purpose flour,240.0
+158,baking powder,9.2
+159,ground ginger,0.9
+160,butter,71.0
+161,powdered sugar,60.0
+162,water,10.0
+163,russet potatoes,1361.0
+164,chicken broth,240.0
+165,seasoning blend,4.5
+166,butter,42.6
+167,thin cut pork chops,400.0
+168,olive oil,27.0
+169,apricot preserves,160.0
+170,dijon mustard,30.0
+171,apple cider vinegar,30.0
+172,garlic powder,0.4
+173,water,59.0
+174,salt,0.4
+175,adobo,5.0
+176,sazon,6.0
+177,yellow onion,40.0
+178,garlic,8.5
+179,sofrito,60.0
+180,tomato sauce,30.0
+181,pimiento stuffed spanish olives,20.0
+182,capers,8.0
+183,vienna sausages,283.0
+184,long-grain white rice,380.0
+185,chicken broth,600.0
+186,fresh cilantro,4.0
+187,swiss chard,36.0
+188,fresh spinach,30.0
+189,fresh parsley,60.0
+190,fresh cilantro,8.0
+191,olive oil,108.0
+192,garlic,9.0
+193,long grain white rice,380.0
+194,water,473.0
+195,salt,1.5
+196,frozen green peas,80.0
+197,scallions,25.0
+198,apples,182.0
+199,butter,4.7
+200,cloves,0.1
+101,cayenne,0.1125
+102,salt,0.375
+103,butter,42.6
+104,unsweetened applesauce,244.0
+105,all-purpose flour,247.5
+106,baking soda,4.6
+107,cinnamon,1.3
+108,ground cloves,1.0
+109,raisins,100.0
+110,salad greens,226.8
+111,artichoke hearts,340.0
+112,grape tomatoes,550.0
+113,mozzarella,226.8
+114,salami,226.8
+115,kalamata olives,170.0
+116,banana peppers,226.8
+117,red onion,100.0
+118,provolone,226.8
+119,extra virgin olive oil,108.0
+120,red wine vinegar,45.0
+121,lemon juice,15.0
+122,dijon mustard,10.0
+123,italian seasoning,3.4
+124,sugar,2.0
+125,salt,3.0
+126,grated parmesan,14.0
+127,apple cider,118.0
+128,sparkling wine,118.0
+129,fresh rosemary,5.0
+130,olive oil,72.0
+131,apple cider vinegar,60.0
+132,garlic cloves,3.0
+133,dijon mustard,22.5
+134,black pepper,1.0
+135,chopped kale,226.8
+136,granny smith apple,182.0
+137,raisins,37.5
+138,walnut halves,58.0
+139,quinoa,170.0
+140,apple juice,366.0
+141,ground cloves,0.125
+142,apple,182.0
+143,walnuts,58.0
+144,pie crust,400.0
+145,sugar,100.0
+146,cinnamon,2.6
+147,flour,22.5
+148,nutmeg,0.25
+149,lemon juice,30.0
+150,apples,660.0
+2651,cooked rice,948.0
+2652,pumpkin puree,61.0
+2653,pumpkin pie spice,1.3
+2654,cooking oil,73.0
+2655,sugar,150.0
+2656,old-fashioned rolled oats,27.0
+2657,pumpkin puree,61.0
+2658,garlic cloves,3.0
+2659,cooked rice,395.0
+2660,baby greens,113.0
+2661,beets,302.0
+2662,zucchini,454.0
+2663,carrots,340.0
+2664,red cabbage,907.0
+2665,green onion,25.0
+2666,pepitas,62.0
+2667,canned chickpeas,850.0
+2668,tomato sauce,567.0
+2669,flour tortilla,49.0
+2670,frozen broccoli florets,78.0
+2671,shredded mozzarella,57.0
+2672,crumbled feta,14.0
+2673,broccoli,454.0
+2674,olive oil,27.0
+2675,salt,1.0
+2676,canned black eyed peas,1275.0
+2677,five spice blend,3.0
+2678,cooked chicken,140.0
+2679,wide rice noodles,227.0
+2680,hoisin sauce,36.0
+2681,canned kidney beans,1275.0
+2682,dried oregano,0.25
+2683,cooked black beans,344.0
+2684,curly leaf parsley,60.0
+2685,all-purpose flour,281.0
+2686,instant yeast,7.0
+2687,ground ginger,2.0
+2688,water,355.0
+2689,ranch seasoning,8.0
+2690,chicken drumsticks,907.0
+2691,ranch seasoning,3.5
+2692,broccoli florets,454.0
+2693,garlic herb seasoning,6.0
+2694,buttermilk powder,24.0
+2695,all-purpose flour,281.0
+2696,heavy cream,473.0
+2697,butter,28.0
+2698,chicken wings,680.0
+2699,salt,1.0
+2700,raspberry jam,160.0
+2351,kalamata olives,50.0
+2352,dry thyme,1.0
+2353,bacon,113.4
+2354,medium cheddar,226.8
+2355,pasta,226.8
+2356,black pepper,0.3
+2357,chicken breasts,453.6
+2358,extra virgin olive oil,27.0
+2359,dried oregano,1.0
+2360,crushed red pepper,0.5
+2361,artichoke hearts,340.0
+2362,long grain white rice,185.0
+2363,chicken broth,354.0
+2364,feta cheese crumbles,28.4
+2365,parsley,8.0
+2366,vegetable broth,1105.0
+2367,fettuccine,453.6
+2368,vidalia onion,115.0
+2369,roasted red peppers,340.0
+2370,cream cheese,113.4
+2371,long grain white rice,92.5
+2372,frozen vegetables,150.0
+2373,soy sauce,10.0
+2374,toasted sesame oil,2.3
+2375,sriracha,15.0
+2376,orange,180.0
+2377,white sugar,18.75
+2378,butter,28.4
+2379,all-purpose flour,46.8
+2380,flour,240.0
+2381,white sugar,200.0
+2382,fresh cranberries,150.0
+2383,butter,29.8
+2384,pork chops,907.2
+2385,molasses,85.0
+2386,orange juice concentrate,60.0
+2387,apples,364.0
+2388,sweet Italian sausage,226.8
+2389,chicken legs,454.0
+2390,butter,14.2
+2391,lemon pepper seasoning,4.5
+2392,fresh corn,1200.0
+2393,Montreal steak seasoning,4.5
+2394,eggplant,453.6
+2395,zucchini,226.8
+2396,yellow squash,226.8
+2397,Roma tomatoes,180.0
+2398,black pepper,0.3
+2399,parsley,4.0
+2400,rice vinegar,30.0
+2151,pesto,120.0
+2152,lemon,150.0
+2153,ham,56.7
+2154,bell pepper,75.0
+2155,onion,40.0
+2156,rolled oats,106.4
+2157,ground flaxseed,28.0
+2158,hulled hemp seeds,44.0
+2159,chia seeds,24.0
+2160,salt,0.4
+2161,water,632.0
+2162,sweetener,12.0
+2164,russet potatoes,907.0
+2165,cooking oil,56.0
+2166,seasoning salt,6.0
+2167,frozen mango chunks,227.0
+2168,lite coconut milk,368.0
+2169,chia seeds,72.0
+2170,jasmine rice,277.5
+2171,corn starch,2.6
+2172,firm tofu,397.0
+2173,neutral oil,28.0
+2174,avocado,200.0
+2175,mangoes,400.0
+2176,canned pineapple,567.0
+2177,cider vinegar,119.0
+2178,garam masala,5.4
+2179,raisins,36.0
+2180,ground turkey,539.0
+2181,olive oil,108.0
+2182,red wine vinegar,60.0
+2183,black pepper,0.6
+2184,sliced black olives,63.8
+2185,banana pepper rings,170.0
+2186,red onion,53.0
+2187,parsley,30.0
+2188,feta,56.7
+2189,button mushrooms,454.0
+2190,fresh thyme,5.0
+2191,portobello mushroom caps,227.0
+2192,red onion,50.0
+2193,butter beans,850.0
+2194,vegetable oil,14.0
+2195,chicken breast,340.0
+2196,chicken broth,1422.0
+2197,fresh dill,5.0
+2198,vegetable oil,42.0
+2199,matzo meal,120.0
+2200,bouillon,12.0
+2851,egg,50.0
+2852,kale,454.0
+2853,spaghetti squash,680.0
+2854,Italian ground sausage,227.0
+2855,shredded mozzarella,56.5
+2856,Parmesan cheese,25.0
+2857,carrots,227.0
+2858,stewed tomatoes,425.0
+2859,cheese tortellini,227.0
+2860,green cabbage,454.0
+2861,steak seasoning,6.0
+2862,cooked rice,316.0
+2863,black pepper,2.0
+2864,frozen corn kernels,300.0
+2865,fresh parsley,10.0
+2866,egg,120.0
+2867,all-purpose flour,94.0
+2868,shredded green cabbage,400.0
+2869,oil,27.0
+2870,mushrooms,72.0
+2871,old-fashioned rolled oats,40.0
+2872,spinach,15.0
+2873,Greek yogurt,142.0
+2874,scallions,30.0
+2875,fresh parsley,8.0
+2876,fresh cilantro,8.0
+2877,green onion,15.0
+2878,turmeric,3.0
+2879,long grain white rice,370.0
+2880,frozen seafood mix,227.0
+2881,fresh parsley,10.0
+2882,neutral oil,108.0
+2883,tahini,15.0
+2884,lacinato kale,227.0
+2885,red pepper flakes,0.5
+2886,neutral salad oil,27.0
+2887,soy sauce,51.0
+2888,shredded red cabbage,534.0
+2889,frozen shelled edamame,130.0
+2890,sesame oil,14.0
+2891,cooked jasmine rice,632.0
+2892,toasted sesame oil,9.0
+2893,sesame seeds,3.0
+2894,chunk light tuna in water,284.0
+2895,BBQ sauce,102.0
+2896,pineapple slices in juice,567.0
+2897,long grain white rice,185.0
+2898,frozen broccoli florets,340.0
+2899,seasoning salt,2.0
+2900,bread crumbs,15.0
+301,brown sugar,27.6
+302,cornstarch,8.0
+303,boneless skinless chicken thighs,567.0
+304,green onions,45.0
+305,breadcrumbs,60.0
+306,smoked paprika,1.15
+307,cayenne pepper,0.9
+308,black pepper,0.5
+309,cooking oil,20.4
+310,plain yogurt,61.3
+311,hot sauce,5.7
+312,boneless skinless chicken breast,302.0
+313,cabbage slaw mix,255.0
+314,mayonnaise,27.6
+315,plain whole milk yogurt,81.7
+316,honey,10.5
+317,Dijon mustard,5.0
+318,apple cider vinegar,5.0
+319,hamburger buns,120.0
+320,natural peanut butter,24.0
+321,brown sugar,6.9
+322,garlic cloves,2.0
+323,fresh ginger,1.0
+324,lime,15.0
+325,soy sauce,5.4
+326,vegetable oil,27.2
+327,salt,0.4
+328,fresh cilantro,10.0
+329,peanuts,36.5
+330,crushed red pepper,0.2
+331,balsamic vinegar,64.0
+332,soy sauce,24.3
+333,dried thyme,0.25
+334,boneless skinless chicken thighs,567.0
+335,balsamic vinegar,64.0
+336,soy sauce,16.2
+337,black pepper,0.5
+338,boneless skinless chicken thighs,680.0
+339,whole milk mozzarella,113.0
+340,Roma tomatoes,200.0
+341,fresh parsley,15.0
+342,boneless skinless chicken thighs,453.0
+343,fresh parsley,5.0
+344,mushrooms,454.0
+345,balsamic vinegar,48.0
+346,russet potatoes,907.0
+347,chopped kale,170.0
+348,salt,4.5
+349,sour cream,115.0
+350,milk,122.0
+351,dried parsley,1.0
+352,dried oregano,0.5
+353,dried basil,0.5
+354,onion powder,0.6
+355,ripe bananas,170.0
+356,vanilla extract,2.1
+357,all-purpose flour,125.0
+358,ground flaxseed,25.5
+359,chopped walnuts,29.5
+360,farro,98.0
+361,milk,122.0
+362,brown sugar,2.5
+363,banana,118.0
+364,chopped walnuts,14.8
+365,carrots,122.0
+366,onion,110.0
+367,rice vinegar,119.0
+368,white sugar,50.0
+369,water,118.0
+370,ground pork,454.0
+371,plain breadcrumbs,30.0
+372,fresh ginger,12.0
+373,soy sauce,7.5
+374,jasmine rice,1080.0
+375,cucumber,200.0
+376,jalapeños,28.0
+377,cilantro,25.0
+378,yellow onion,70.0
+379,black beans,425.0
+380,pinto beans,425.0
+381,BBQ sauce,140.0
+382,smoked paprika,1.2
+383,coleslaw mix,198.0
+384,green onions,30.0
+385,mayonnaise,75.0
+386,red wine vinegar,5.0
+387,lean ground beef,227.0
+388,small onion,70.0
+389,shredded cabbage,280.0
+390,tomato sauce,226.0
+391,Worcestershire sauce,17.0
+392,shredded cheddar,56.0
+393,green onion,10.0
+394,russet potatoes,908.0
+395,vegetable oil,4.5
+396,shredded beef,140.0
+397,bbq sauce,105.0
+398,shredded cheddar,28.0
+399,green onion,10.0
+400,sour cream,30.0
+2801,parsley,60.0
+2802,boneless skinless chicken breast,454.0
+2803,black pepper,1.0
+2804,ranch dressing,120.0
+2805,water,414.0
+2806,fresh spinach,120.0
+2807,hummus,124.0
+2808,salted butter,113.6
+2809,potatoes,680.0
+2810,parsley,15.0
+2811,yellow onion,110.0
+2812,worcestershire sauce,34.0
+2813,beef broth,354.0
+2814,shredded sweetened coconut,240.0
+2815,granulated sugar,133.0
+2816,egg whites,132.0
+2817,orange,6.0
+2818,semi-sweet chocolate,85.0
+2819,coconut oil,1.0
+2820,long grain white rice,185.0
+2821,chicken breasts,680.0
+2822,brown rice,190.0
+2823,water,414.0
+2824,boneless skinless chicken breasts,590.0
+2825,salsa,454.0
+2826,chili powder,2.6
+2827,bell peppers,450.0
+2828,vegetable oil,14.0
+2829,sour cream,60.0
+2830,small red potatoes,907.0
+2831,white vinegar,237.0
+2832,kosher salt,12.0
+2833,chives,3.0
+2834,garlic cloves,3.0
+2835,kosher salt,0.75
+2836,tomato paste,85.0
+2837,ground cumin,4.2
+2838,boneless beef roast,1361.0
+2839,salt,3.0
+2840,italian sausage,454.0
+2841,frozen peppers and onions,227.0
+2842,frozen kale,113.0
+2843,seasoning salt,2.5
+2844,smoked sausage,397.0
+2845,bell peppers,450.0
+2846,red potatoes,454.0
+2847,olive oil,162.0
+2848,kosher salt,21.0
+2849,cherry tomatoes,300.0
+2850,italian ground sausage,454.0
+2101,celery stalk,40.0
+2102,chopped walnuts,58.0
+2103,red lentils,192.0
+2104,crushed tomatoes,425.0
+2105,tomato paste,48.0
+2106,dried basil,0.7
+2107,garlic powder,3.1
+2108,coconut milk,120.0
+2109,Italian sausage,227.0
+2110,celery,160.0
+2111,brown lentils,384.0
+2112,chicken broth,1422.0
+2113,frozen spinach,283.0
+2114,brown lentils,384.0
+2115,taco seasoning,35.0
+2116,corn tortillas,320.0
+2117,pico de gallo,452.0
+2118,avocados,300.0
+2119,dried sage,1.5
+2120,salt,3.0
+2121,cream cheese,170.0
+2122,baby spinach,120.0
+2123,champagne mangoes,800.0
+2124,lime,30.0
+2125,powdered ginger,0.25
+2126,frozen shrimp,227.0
+2127,ramen noodles,170.0
+2128,sriracha,30.0
+2129,cucumber,150.0
+2130,kalamata olives,32.0
+2131,chopped parsley,3.8
+2132,pitas,240.0
+2133,hummus,246.0
+2134,olive oil,9.0
+2135,jerk seasoning,4.6
+2136,black beans,255.0
+2137,jalapeño,14.0
+2138,cream cheese,227.0
+2139,imitation lobster,227.0
+2140,green onions,30.0
+2141,wonton wrappers,336.0
+2142,sriracha,2.5
+2143,non-stick spray,5.0
+2144,hard-boiled eggs,100.0
+2145,red bell pepper,60.0
+2146,celery,80.0
+2147,sweet pickle relish,15.0
+2148,whole milk,976.0
+2149,cinnamon,1.3
+2150,kale,180.0
+2701,green onion,15.0
+2702,tomato sauce,226.8
+2703,raspberry jam,340.0
+2704,cider vinegar,60.0
+2705,chipotle peppers in adobo,15.0
+2706,chicken thighs,1814.4
+2707,ravioli,255.2
+2708,walnuts,30.0
+2709,dried sage,0.5
+2710,fresh spinach,113.4
+2711,fresh cranberries,340.2
+2712,orange,131.0
+2713,lime,67.0
+2714,ground cumin,1.0
+2715,cayenne pepper,0.2
+2716,onion powder,1.2
+2717,brown sugar,4.2
+2718,salt,3.0
+2719,black pepper,0.5
+2720,tomato paste,85.0
+2721,macaroni,100.0
+2722,medium cheddar cheese,85.0
+2723,petite diced tomatoes,425.0
+2724,artichoke hearts,170.0
+2725,fresh parsley,15.0
+2726,raw medium shrimp,226.8
+2727,cooked rice,246.0
+2728,all-purpose flour,120.0
+2729,granulated sugar,12.5
+2730,ricotta cheese,246.0
+2731,vegetable oil,27.0
+2732,broccoli crowns,453.6
+2733,steak seasoning,5.0
+2734,whole wheat penne pasta,226.8
+2735,crumbled feta,28.4
+2736,frozen broccoli florets,453.6
+2737,vegetable oil,13.5
+2738,chow mein noodles,45.0
+2739,fresh brussels sprouts,453.6
+2740,vegetarian italian sausage,340.2
+2741,brussels sprouts,453.6
+2742,sweet potatoes,453.6
+2743,extra virgin olive oil,27.0
+2744,chopped pecans,33.0
+2745,goat cheese,56.7
+2746,quinoa,340.0
+2747,vegetable broth,720.0
+2748,fresh cilantro,1.0
+2749,black beans,425.0
+2750,fresh cilantro,25.0
+2001,Caesar dressing,124.0
+2002,pork ribs,907.0
+2003,water,2839.0
+2004,bay leaves,0.6
+2005,bacon,46.0
+2006,yellow onion,150.0
+2007,carrots,200.0
+2008,potatoes,1200.0
+2009,sauerkraut,640.0
+2010,salt,6.0
+2011,black pepper,1.2
+2012,fresh dill,3.0
+2013,whole grain mustard,22.5
+2014,kielbasa,397.0
+2015,cabbage,540.0
+2016,broccoli stem,85.0
+2017,kimchi,195.0
+2018,cooking oil,27.0
+2019,cooked rice,744.0
+2020,instant yeast,0.4
+2021,water,207.0
+2022,sauce,120.0
+2023,toppings,0.0
+2024,boneless chicken breasts,454.0
+2025,vegetable oil,40.5
+2026,soy sauce,48.0
+2027,rice wine,45.0
+2028,corn starch,16.0
+2029,sambal,32.0
+2030,minced garlic,5.6
+2031,bell pepper,120.0
+2032,carrots,227.0
+2033,unsalted peanuts,73.0
+2034,jasmine rice,277.5
+2035,butter,9.4
+2036,stuffing,180.0
+2037,chopped turkey,140.0
+2038,frozen spinach,113.0
+2039,black pepper,0.6
+2040,salted butter,85.0
+2041,granulated sugar,300.0
+2042,lemon juice,201.0
+2043,frozen mixed berries,340.0
+2044,cornstarch,12.0
+2045,cold butter,56.8
+2046,milk,73.5
+2047,yogurt,123.0
+2048,rolled oats,12.0
+2049,chia seeds,5.0
+2050,lemon curd,20.0
+3401,sriracha sauce,5.0
+3402,sesame oil,2.25
+3403,water,88.5
+3404,flour tortilla,60.0
+3405,cranberry sauce,70.0
+3406,turkey,35.0
+3407,stuffing,30.0
+3408,brie cheese,90.0
+3409,fresh parsley,3.8
+3410,fresh cilantro,3.0
+3411,mini bagels,180.0
+3412,cucumber,300.0
+3413,cheese,226.8
+3414,salami,113.4
+3415,crackers,60.0
+3416,dried apricots,128.0
+3417,walnuts,117.0
+3418,pita bread,120.0
+3419,peanut butter,192.0
+3420,mini pretzels,90.0
+3421,Medjool dates,176.0
+3422,lemon juice,5.0
+3423,provolone cheese,224.0
+3424,pepperoni,108.0
+3425,celery,120.0
+3426,mini sweet peppers,180.0
+3427,russet potatoes,600.0
+3428,active dry yeast,6.3
+3429,all-purpose flour,240.0
+3430,pepperoni,85.0
+3431,banana pepper rings,75.0
+3432,thin spaghetti,454.0
+3433,unsweetened shredded coconut,20.0
+3434,light coconut milk,414.0
+3435,dried basil,0.7
+3436,black pepper,1.0
+3437,tomato paste,85.0
+3438,active dry yeast,6.3
+3439,all-purpose flour,360.0
+3440,tomato paste,85.0
+3441,brown sugar,2.5
+3442,garlic cloves,6.0
+3443,russet potato,454.0
+3444,paprika,1.2
+3445,salt,18.0
+3446,fresh spinach,90.0
+3447,mozzarella cheese,226.8
+3448,whole wheat flour,30.0
+3449,frozen berries,150.0
+3450,butter,28.4
+251,dried thyme,0.5
+252,black pepper,0.3
+253,fresh parsley,3.8
+254,diced tomatoes,425.0
+255,garlic,9.0
+256,dried oregano,0.75
+257,lemon juice,7.5
+258,chicken breast,454.0
+259,salt,0.4
+260,artichoke hearts,397.0
+261,shredded mozzarella,112.0
+262,red cabbage,450.0
+263,carrot,61.0
+264,fresh cilantro,10.0
+265,lemon juice,30.0
+266,canola oil,14.0
+267,red wine vinegar,60.0
+268,Italian parsley,60.0
+269,cilantro,30.0
+270,dried oregano,1.0
+271,cumin,1.0
+272,red pepper flakes,0.5
+273,cod steaks,567.0
+274,rice,744.0
+275,fresh spinach,60.0
+276,eggs,200.0
+277,crushed red pepper,0.25
+278,heavy cream,30.0
+279,feta cheese,28.0
+280,heavy cream,238.0
+281,Italian seasoning,0.25
+282,shredded cheddar cheese,113.0
+283,shredded Italian cheese blend,112.0
+284,macaroni,227.0
+285,Panko breadcrumbs,30.0
+286,shredded cheddar,28.0
+287,peaches,300.0
+288,blueberries,74.0
+289,milk,366.0
+290,plain yogurt,245.0
+291,brown sugar,55.0
+292,old-fashioned oats,160.0
+293,baking powder,2.3
+294,baking soda,1.2
+295,ground ginger,1.8
+296,pineapple chunks in juice,425.0
+297,fresh ginger,10.0
+298,garlic,6.0
+299,soy sauce,60.0
+300,rice vinegar,22.5
+201,old-fashioned rolled oats,80.0
+202,dried cranberries,20.0
+203,chopped walnuts,30.0
+204,maple syrup,40.0
+205,sweet potatoes,907.0
+206,smoked paprika,0.6
+207,tahini,60.0
+208,kale,360.0
+209,apple,223.0
+210,pepitas,35.0
+211,chopped pecans,25.0
+212,dried cranberries,40.0
+213,quinoa,85.0
+214,almond butter,32.0
+215,water,45.0
+216,ground turmeric,0.5
+217,sugar,4.0
+218,black pepper,0.3
+219,baby greens,80.0
+220,Granny Smith apple,182.0
+221,pita pocket,30.0
+222,baby spinach,30.0
+223,avocado,50.0
+224,sriracha hot sauce,15.0
+225,salt,1.5
+226,dry navy beans,454.0
+227,bacon,170.0
+228,carrots,180.0
+229,celery,120.0
+230,potatoes,907.0
+231,chicken broth,1440.0
+232,tomato sauce,227.0
+233,bacon,85.0
+234,pineapple chunks in juice,227.0
+235,brown sugar,13.0
+236,pizza dough,450.0
+237,pizza sauce,130.0
+238,shredded Monterrey Jack cheese,113.0
+239,green onions,30.0
+240,bacon,224.0
+241,ground turkey,454.0
+242,ranch seasoning mix,24.0
+243,cheese slices,84.0
+244,hamburger buns,180.0
+245,tomato,123.0
+246,lettuce,60.0
+247,mayonnaise,60.0
+248,mushrooms,227.0
+249,butter,56.0
+250,pearled barley,200.0
+3451,yogurt,326.67
+3452,bananas,236.0
+3453,pineapple chunks in juice,567.0
+3454,shredded coconut,20.0
+3455,salt,4.5
+3456,mini shell pasta,340.2
+3457,chunk light tuna,284.0
+3458,pasta,453.6
+3459,minced garlic,12.0
+3460,chunk tuna,142.0
+3461,white beans,425.0
+3462,chunk light tuna in water,142.0
+3463,green onions,30.0
+3464,ground turkey,226.8
+3465,tomato paste,85.0
+3466,salt,3.0
+3467,sweet potatoes,1360.8
+3468,cilantro,10.0
+3469,apples,364.0
+3470,salt,2.0
+3471,french bread,400.0
+3472,chicken base,6.0
+3473,bone-in turkey pieces,2721.6
+3474,chicken breast,907.2
+3475,linguine,226.8
+3476,grape tomatoes,340.0
+3477,black pepper,0.6
+3478,baby spinach,113.4
+3479,shredded parmesan,85.0
+3480,cooked chicken,195.0
+3481,shredded cheddar,226.0
+3482,BBQ Sauce,140.0
+3483,flour tortillas,650.0
+3484,portobello mushroom,100.0
+3485,shredded mozzarella,113.4
+3486,parsley,10.0
+3487,beef broth,354.0
+3488,tomato sauce,226.8
+3489,dry red beans,453.6
+3490,vegetable broth,1416.0
+3491,black pepper,0.9
+3492,green onions,100.0
+3493,split peas,453.6
+3494,salt,9.0
+3495,carrots,180.0
+3496,frozen broccoli cauliflower,226.8
+3497,whole milk,976.0
+3498,grated parmesan,66.0
+3499,elbow pasta,453.6
+3500,shredded gouda,113.0
+2051,strawberries,24.0
+2052,cold butter,85.2
+2053,blueberries,74.0
+2054,milk,61.0
+2055,powdered sugar,120.0
+2056,green beans,454.0
+2057,salt,1.0
+2058,all-purpose flour,180.0
+2059,butter,113.5
+2060,granulated sugar,300.0
+2061,lemon juice,122.0
+2062,shredded coconut,63.75
+2063,water,59.0
+2064,chopped kale,170.0
+2065,canned salmon,170.0
+2066,asparagus,454.0
+2067,lemon,116.0
+2068,split chicken breasts,907.0
+2069,thin spaghetti,227.0
+2070,fresh parsley,30.0
+2071,lemon pepper seasoning,3.5
+2072,poppy seeds,6.0
+2073,salted butter,227.0
+2074,all-purpose flour,180.0
+2075,eggs,200.0
+2076,buttermilk,61.0
+2077,lemon,174.0
+2078,butter,9.4
+2079,old fashioned oats,243.0
+2080,plain yogurt,367.5
+2081,lemon,58.0
+2082,frozen raspberries,340.0
+2083,pasta,227.0
+2084,black pepper,0.6
+2085,crushed red pepper,0.2
+2086,nutmeg,1.1
+2087,lemon,58.0
+2088,vegetable shortening,13.0
+2089,canned artichoke hearts,369.0
+2090,fresh parsley,60.0
+2091,pearl couscous,259.5
+2092,English cucumber,300.0
+2093,parsley,30.0
+2094,feta cheese,85.0
+2095,Lacinato Kale,113.0
+2096,vegetable broth,360.0
+2097,feta cheese,28.0
+2098,red wine vinegar,7.5
+2099,Cannellini beans,850.0
+2100,red onion,40.0
+2751,chopped cooked chicken,210.0
+2752,frozen roasted corn kernels,150.0
+2753,diced green chiles,113.4
+2754,shredded cheese,113.4
+2755,8-inch tortillas,0.0
+2756,frozen corn,226.8
+2757,taco seasoning,28.35
+2758,salt,1.5
+2759,small corn tortillas,0.0
+2760,avocado,150.0
+2761,shredded monterrey jack cheese,113.4
+2762,delicata squash,302.4
+2763,Italian seasoning blend,0.5
+2764,eggplant,900.0
+2765,crushed tomatoes,793.8
+2766,sweet potatoes,1133.98
+2767,poblano peppers,200.0
+2768,red onion,27.5
+2769,poblano pepper,100.0
+2770,jalapeño pepper,14.0
+2771,tahini,60.0
+2772,olive oil,33.75
+2773,plain yogurt,122.5
+2774,potatoes,907.18
+2775,radishes,907.18
+2776,olive oil,20.25
+2777,roasted red peppers,170.1
+2778,feta,85.05
+2779,pitas,0.0
+2780,baby spinach,180.0
+2781,roasted red peppers,340.2
+2782,spaghetti squash,589.67
+2783,zucchini,566.99
+2784,yellow squash,226.8
+2785,red onion,226.8
+2786,fresh parsley,15.0
+2787,sweet potatoes,680.39
+2788,frozen corn kernels,453.59
+2789,red onion,27.5
+2790,Italian seasoning,3.4
+2791,water,0.0
+2792,shredded Italian cheese blend,224.0
+2793,fresh parsley,7.6
+2794,long grain white rice,277.5
+2795,large flour tortillas,0.0
+2796,shredded cheese,280.0
+2797,couscous,346.0
+2798,zucchini,566.99
+2799,garlic cloves,12.0
+2800,couscous,173.0
+1601,salt,0.75
+1602,granulated sugar,100.0
+1603,vanilla extract,1.05
+1604,all-purpose flour,40.0
+1605,rainbow sprinkles,4.0
+1606,milk,45.0
+1607,butter,14.2
+1608,bananas,413.0
+1609,natural peanut butter,64.0
+1610,old fashioned rolled oats,202.5
+1611,semi-sweet chocolate chips,58.0
+1612,ripe tomatoes,1816.0
+1613,salt,9.0
+1614,fresh basil,12.0
+1615,Worcestershire sauce,5.6
+1616,black pepper,0.3
+1617,lasagna noodles,454.0
+1618,ricotta cheese,425.0
+1619,zucchini,227.0
+1620,canned diced tomatoes,425.0
+1621,tomato sauce,425.0
+1622,Italian seasoning blend,5.4
+1623,lasagna noodles,227.0
+1624,frozen spinach,113.0
+1625,ricotta cheese,425.0
+1626,shredded mozzarella,112.0
+1627,grated Parmesan,25.0
+1628,uncooked quinoa,170.0
+1629,paprika,0.6
+1630,fresh parsley,8.0
+1631,boneless skinless chicken thighs,567.0
+1632,cream cheese,57.0
+1633,dried basil,0.5
+1634,onion powder,0.7
+1635,black pepper,0.3
+1636,dried oregano,1.5
+1637,boneless skinless chicken thighs,680.0
+1638,oyster sauce,80.0
+1639,butter,42.6
+1640,toasted sesame oil,13.6
+1641,spaghetti,227.0
+1642,crushed red pepper flakes,0.5
+1643,hearty bread,120.0
+1644,garlic cloves,5.0
+1645,balsamic vinegar,32.0
+1646,dried rosemary,0.2
+1647,salt,0.4
+1648,canned Cannellini beans,425.0
+1649,grated Parmesan,5.0
+1650,kale leaves,120.0
+1301,salt,9.0
+1302,wild rice mix,190.0
+1303,water,1422.0
+1304,whole milk,488.0
+1305,curry powder,6.3
+1306,brown lentils,192.0
+1307,vegetable broth,442.0
+1308,coconut milk,396.5
+1309,fresh baby spinach,90.0
+1310,fresh cilantro,4.0
+1311,dried dill,0.5
+1312,cucumber,300.0
+1313,mushrooms,226.8
+1314,boneless skinless chicken thighs,440.0
+1315,half and half,242.0
+1316,fresh parsley,3.8
+1317,plain Greek yogurt,141.75
+1318,dried dill,0.25
+1319,penne,454.0
+1320,cucumber,200.0
+1321,mushrooms,453.6
+1322,rubbed sage,0.5
+1323,dried rosemary,0.5
+1324,vegetable broth,663.0
+1325,full-fat coconut milk,411.75
+1326,baby bella mushrooms,226.8
+1327,boneless skinless chicken breast,590.0
+1328,butter,28.4
+1329,heavy cream,119.0
+1330,crispy fried onions,30.0
+1331,fresh parsley,3.8
+1332,fettuccine,340.2
+1333,vegetable broth,331.5
+1334,fresh thyme,3.0
+1335,half and half,121.0
+1336,yellow onion,110.0
+1337,white wine,118.0
+1338,half and half,121.0
+1339,Parmesan,56.7
+1340,uncooked macaroni,226.0
+1341,basil pesto,64.0
+1342,frozen spinach,227.0
+1343,bow tie pasta,226.8
+1344,frozen broccoli florets,226.8
+1345,basil pesto,85.0
+1346,roasted red peppers,453.6
+1347,sour cream,80.0
+1348,queso fresco,56.7
+1349,fresh cilantro,10.0
+1350,rice,632.0
+1351,boneless skinless chicken breasts,510.3
+1352,salt,0.75
+1353,artichoke hearts,340.0
+1354,Italian sausage,226.8
+1355,crushed tomatoes,794.0
+1356,Italian seasoning,2.0
+1357,pasta,226.8
+1358,frozen peas,134.0
+1359,half and half,242.0
+1360,shredded Parmesan,50.0
+1361,canned Albacore tuna,340.0
+1362,carrots,226.8
+1363,wild rice blend,190.0
+1364,coconut milk,368.0
+1365,canned green chiles,113.0
+1366,canned pinto beans,425.0
+1367,wide egg noodles,226.8
+1368,shredded pepper jack cheese,56.7
+1369,dry navy beans,453.6
+1370,celery,200.0
+1371,green bell peppers,300.0
+1372,chicken thighs,600.0
+1373,Creole Seasoning,12.0
+1374,smoked paprika,3.0
+1375,sriracha,68.0
+1376,baby potatoes,680.4
+1377,dried parsley,0.5
+1378,lemon juice,47.0
+1379,coleslaw mix,396.9
+1380,ramen noodles,85.0
+1381,mango,200.0
+1382,rice vinegar,63.0
+1383,red pepper flakes,0.2
+1384,cucumber,150.0
+1385,fresh ginger,5.0
+1386,ground coriander,0.5
+1387,fresh cilantro,10.0
+1388,white bread,336.0
+1389,cream cheese,226.8
+1390,English cucumber,300.0
+1391,canned chickpeas,850.0
+1392,carrots,226.8
+1393,cabbage,500.0
+1394,curry powder,12.0
+1395,fresh cilantro,10.0
+1396,curry powder,9.0
+1397,spinach,226.8
+1398,carrots,226.8
+1399,brown lentils,192.0
+1400,curry powder,12.0
+1651,toasted sesame oil,1.25
+1652,fresh salmon,453.6
+1653,dark molasses,113.0
+1654,ground cloves,0.5
+1655,old-fashioned oats,200.0
+1656,steel-cut oats,168.0
+1657,dark molasses,113.0
+1658,old-fashioned rolled oats,320.0
+1659,oat bran,94.0
+1660,sliced almonds,92.0
+1661,molasses,85.0
+1662,brown sugar,73.0
+1663,canola oil,54.0
+1664,powdered ginger,4.0
+1665,rice vinegar,45.0
+1666,cucumber,300.0
+1667,gochujang,18.0
+1668,brown sugar,20.6
+1669,rice vinegar,7.5
+1670,portobello mushrooms,200.0
+1671,chunk light tuna in water,340.0
+1672,cinnamon sticks,12.0
+1673,fresh ginger,30.0
+1674,ground turmeric,6.8
+1675,honey,85.0
+1676,milk,976.0
+1677,olive oil,13.5
+1678,fresh ginger,15.0
+1679,ground turmeric,3.4
+1680,carrots,200.0
+1681,red lentils,192.0
+1682,salt,9.0
+1683,unsweetened coconut flakes,27.0
+1684,jasmine rice,390.0
+1685,turmeric,0.5
+1686,cloves,0.1
+1687,vanilla,0.5
+1688,chicken broth,747.0
+1689,spinach,453.6
+1690,apple cider vinegar,45.0
+1691,Romaine lettuce,550.0
+1692,red seedless grapes,151.0
+1693,feta,56.7
+1694,boneless skinless chicken thighs,240.0
+1695,pasta,226.8
+1696,bell pepper,150.0
+1697,grape tomatoes,113.4
+1698,cucumber,150.0
+1699,parsley,15.0
+1700,boneless skinless chicken thighs,816.5
+951,toasted sesame oil,13.6
+952,fresh ginger,6.0
+953,ground chicken,454.0
+954,canned water chestnuts,226.8
+955,lettuce,120.0
+956,fresh ginger,0.5
+957,lime,15.0
+958,vegetable oil,27.0
+959,vegetable oil,27.0
+960,soy sauce,20.0
+961,fresh ginger,2.0
+962,sesame seeds,4.5
+963,mixed salad greens,120.0
+964,canned mandarin oranges,311.8
+965,rotisserie chicken,172.0
+966,sliced almonds,23.0
+967,red onion,25.0
+968,avocado,100.0
+969,taco seasoning,6.8
+970,boneless skinless chicken breast,454.0
+971,corn tortilla chips,425.2
+972,shredded Mexican cheese blend,339.0
+973,fresh cilantro,8.0
+974,lime,58.0
+975,queso fresco,28.0
+976,Italian parsley,15.0
+977,boneless skinless chicken breasts,908.0
+978,salt,0.4
+979,chicken broth,120.0
+980,capers,8.6
+981,chicken broth,1200.0
+982,chicken breast,340.0
+983,canned pumpkin puree,425.2
+984,frozen corn kernels,75.0
+985,chipotle peppers in adobo,15.0
+986,ground cumin,6.0
+987,green cabbage,450.0
+988,broccoli,225.0
+989,chicken breast,226.0
+990,ramen noodles,170.0
+991,sesame oil,4.5
+992,worcestershire sauce,68.0
+993,ketchup,34.0
+994,vegetable oil,54.0
+995,corn tortillas,184.0
+996,red enchilada sauce,283.5
+997,queso fresco,56.0
+998,Oaxaca cheese,56.0
+999,fresh cilantro,4.0
+1000,green onions,30.0
+1251,shredded coconut,5.0
+1252,banana,29.5
+1253,unsweetened cocoa powder,2.5
+1254,vanilla extract,0.6
+1255,granola,30.0
+1256,cucumber,52.0
+1257,imitation crab,85.0
+1258,everything bagel seasoning,0.85
+1259,sriracha,1.25
+1260,sliced almonds,46.0
+1261,lemon,1.0
+1262,dried cranberries,60.0
+1263,orange,131.0
+1264,all-purpose flour,156.0
+1265,powdered sugar,90.0
+1266,water,296.0
+1267,cornmeal,20.0
+1268,whole milk,366.0
+1269,ground nutmeg,0.3
+1270,frozen chopped spinach,340.0
+1271,feta cheese,56.7
+1272,frozen chopped spinach,340.0
+1273,grated Parmesan,33.0
+1274,salt,0.75
+1275,lime,30.0
+1276,water,59.0
+1277,cream cheese,113.0
+1278,diced green chiles,113.0
+1279,hot sauce,1.25
+1280,salt,0.75
+1281,corn tortillas,450.0
+1282,cooking oil,41.0
+1283,dried sage,0.5
+1284,frozen peas and carrots,227.0
+1285,heavy cream,80.0
+1286,shredded cheddar,113.0
+1287,boneless skinless chicken breast,340.0
+1288,chili powder,1.8
+1289,fresh spinach,60.0
+1290,flour tortillas,224.0
+1291,chili powder,5.0
+1292,cayenne pepper,0.2
+1293,boneless skinless chicken breast,340.0
+1294,fire roasted diced tomatoes,425.0
+1295,cream cheese,113.0
+1296,pasta,227.0
+1297,carrots,227.0
+1298,celery,200.0
+1299,chicken breast,454.0
+1300,black pepper,0.3
+1551,shredded cheese,113.0
+1552,black beans,510.0
+1553,chipotle peppers in adobo sauce,22.0
+1554,sweet onion,115.0
+1555,chicken broth,480.0
+1556,corn tortillas,360.0
+1557,cheese,113.0
+1558,active dry yeast,3.0
+1559,sugar,12.5
+1560,water,118.0
+1561,all-purpose flour,375.0
+1562,cornmeal,40.0
+1563,distilled white vinegar,30.0
+1564,salt,0.75
+1565,black pepper,0.1
+1566,cilantro,5.0
+1567,tomatoes,246.0
+1568,yellow onion,110.0
+1569,avocados,400.0
+1570,salt,2.25
+1571,long grain rice,185.0
+1572,salted butter,71.0
+1573,yellow onion,115.0
+1574,fresh spinach,226.0
+1575,Everything Bagel seasoning,5.0
+1576,fresh parsley,15.0
+1577,fresh cilantro,15.0
+1578,flour,62.5
+1579,neutral cooking oil,54.0
+1580,tahini,80.0
+1581,garlic cloves,6.0
+1582,flat leaf parsley,60.0
+1583,chickpeas,400.0
+1584,bulgur,85.0
+1585,tomatoes,340.0
+1586,Roma tomatoes,794.0
+1587,poblano pepper,118.0
+1588,jalapeño pepper,14.0
+1589,garlic cloves,18.0
+1590,whole wheat flour,90.0
+1591,lard,71.0
+1592,water,177.0
+1593,baking powder,7.0
+1594,vegetable oil,9.0
+1595,French loaf,400.0
+1596,shredded mozzarella,113.0
+1597,toppings,0.0
+1598,pasta,340.0
+1599,grape tomatoes,680.0
+1600,whole milk ricotta,124.0
+1501,evaporated milk,252.0
+1502,pickled jalapeno,15.0
+1503,fire roasted diced tomatoes,425.0
+1504,white fish fillets,454.0
+1505,fresh parsley,3.8
+1506,boneless skinless chicken breast,589.7
+1507,frozen green beans,150.0
+1508,pesto,85.0
+1509,salt,0.75
+1510,black pepper,0.3
+1511,grated Parmesan,5.0
+1512,puff pastry,245.0
+1513,bacon,112.0
+1514,heavy cream,57.0
+1515,eggs,250.0
+1516,shredded Swiss cheese,226.0
+1517,ground nutmeg,0.5
+1518,black pepper,0.6
+1519,fresh Italian parsley,7.6
+1520,ricotta cheese,425.0
+1521,olive oil,4.5
+1522,all-purpose flour,240.0
+1523,black pepper,1.0
+1524,fettuccine,227.0
+1525,whole milk ricotta,246.0
+1526,frozen chopped spinach,113.0
+1527,sambal oelek,15.0
+1528,cornstarch,4.0
+1529,long grain white rice,360.0
+1530,chili powder,4.5
+1531,boneless skinless chicken thighs,793.8
+1532,russet potato,340.0
+1533,Italian seasoning,1.5
+1534,beef broth,960.0
+1535,Worcestershire sauce,34.0
+1536,frozen vegetables,340.0
+1537,eggplant,550.0
+1538,Italian seasoning,1.0
+1539,marinara sauce,250.0
+1540,rolls,200.0
+1541,mozzarella,113.0
+1542,pizza dough,450.0
+1543,frozen spinach,113.0
+1544,cornmeal,4.5
+1545,salt,1.5
+1546,water,59.0
+1547,active dry yeast,3.1
+1548,all-purpose flour,180.0
+1549,cooked chicken,280.0
+1550,black beans,260.0
+1201,salt,3.0
+1202,red lentils,454.0
+1203,light coconut milk,457.5
+1204,water,355.5
+1205,jasmine rice,277.5
+1206,coconut milk,457.5
+1207,frozen peas and carrots,454.0
+1208,canned pineapple chunks,425.25
+1209,sriracha sauce,17.0
+1210,jasmine rice,277.5
+1211,curry powder,12.6
+1212,carrots,227.0
+1213,frozen broccoli and cauliflower,454.0
+1214,light coconut milk,427.0
+1215,fresh cilantro,4.0
+1216,pork shoulder,1589.0
+1217,coffee beans,28.35
+1218,brown sugar,110.0
+1219,cayenne pepper,2.65
+1220,salt,9.0
+1221,black pepper,0.175
+1222,minced garlic,5.6
+1223,russet potatoes,1362.0
+1224,green onions,68.0
+1225,cabbage,450.0
+1226,natural peanut butter,48.0
+1227,fresh ginger,2.0
+1228,lime,67.0
+1229,soy sauce,10.0
+1230,vegetable oil,54.5
+1231,whole wheat spaghetti,226.8
+1232,red cabbage,280.0
+1233,fresh cilantro,8.0
+1234,green onions,50.0
+1235,peanuts,73.0
+1236,2% cottage cheese,56.5
+1237,apple,90.0
+1238,chopped walnuts,7.5
+1239,maple syrup,20.0
+1240,cinnamon,0.4
+1241,cottage cheese,113.0
+1242,rolled oats,20.25
+1243,jam,20.0
+1244,hard boiled egg,50.0
+1245,grape tomatoes,60.0
+1246,cucumber,50.0
+1247,black pepper,0.1
+1248,vanilla extract,0.525
+1249,frozen blueberries,37.5
+1250,canned pineapple tidbits,82.5
+901,water,44.37
+902,panko breadcrumbs,30.0
+903,black pepper,0.525
+904,heavy cream,476.0
+905,Italian shredded cheese blend,226.0
+906,rotini pasta,226.8
+907,frozen broccoli florets,283.5
+908,salted butter,56.8
+909,ground chicken,453.6
+910,rubbed sage,1.4
+911,carrots,183.0
+912,celery,120.0
+913,chicken broth,360.0
+914,salted butter,42.6
+915,buttermilk,122.5
+916,granulated sugar,2.1
+917,frozen broccoli florets,226.8
+918,boneless skinless chicken thighs,302.4
+919,salt,0.5
+920,olive oil,27.0
+921,grated Parmesan,5.0
+922,Panko breadcrumbs,15.0
+923,Romaine lettuce,94.0
+924,grated Parmesan,50.0
+925,Caesar dressing,80.0
+926,large flour tortillas,200.0
+927,split chicken breasts,1134.0
+928,chicken broth,1440.0
+929,frozen peas,72.0
+930,fresh parsley,15.0
+931,yellow onion,110.0
+932,chicken breast,453.6
+933,enchilada sauce,252.0
+934,pasta,340.2
+935,shredded monterrey jack,113.0
+936,green onions,37.5
+937,fresh ginger,20.0
+938,vegetable oil,13.6
+939,boneless skinless chicken breast,453.6
+940,coconut milk,414.0
+941,natural peanut butter,128.0
+942,sriracha sauce,2.5
+943,lime,67.0
+944,fresh cilantro,15.0
+945,lacinato kale,160.0
+946,rotisserie chicken,280.0
+947,Caesar dressing,60.0
+948,large tortillas,200.0
+949,hoisin sauce,68.0
+950,rice vinegar,14.9
+1001,avocado,200.0
+1002,Mexican crema,30.0
+1003,Corn bread mix,482.0
+1004,chili powder,24.0
+1005,shredded cheddar,113.0
+1006,canned beans,1275.0
+1007,chili powder,8.0
+1008,water,237.0
+1009,yellow cornmeal,138.0
+1010,sugar,50.0
+1011,baking powder,16.0
+1012,kale,200.0
+1013,firm tofu,397.0
+1014,chili garlic sauce,30.0
+1015,brown rice,780.0
+1016,cantaloupe,550.0
+1017,lime,15.0
+1018,pork loin,907.0
+1019,chili powder,8.0
+1020,lime,50.0
+1021,vegetable oil,56.0
+1022,minced garlic,4.5
+1023,peeled shrimp,454.0
+1024,chili powder,2.6
+1025,cooking oil,18.0
+1026,honey,7.0
+1027,garlic cloves,9.0
+1028,lime,100.0
+1029,canned black beans,850.0
+1030,crushed pineapple,567.0
+1031,fresh cilantro,15.0
+1032,long grain white rice,370.0
+1033,potatoes,1361.0
+1034,black pepper,0.5
+1035,salt,1.5
+1036,Italian parsley,60.0
+1037,cilantro,30.0
+1038,boneless skinless chicken breast,397.0
+1039,button mushrooms,227.0
+1040,extra virgin olive oil,54.0
+1041,red pepper flakes,0.5
+1042,fresh parsley,30.0
+1043,fresh cilantro,30.0
+1044,boneless skinless chicken breast,340.0
+1045,Roma tomatoes,200.0
+1046,long grain white rice,185.0
+1047,water,355.5
+1048,fresh parsley,30.0
+1049,fresh cilantro,15.0
+1050,olive oil,54.0
+1701,Greek yogurt,123.0
+1702,flatbread,180.0
+1703,hummus,283.5
+1704,lemon,58.0
+1705,chicken pieces,1701.0
+1706,red onion,110.0
+1707,eggplant,432.0
+1708,green bell peppers,238.0
+1709,boneless skinless chicken breast,340.0
+1710,olive oil,40.5
+1711,black pepper,0.3
+1712,feta cheese,113.0
+1713,pita bread,240.0
+1714,Greek yogurt,123.0
+1715,dried dill,0.1
+1716,ground turkey,539.0
+1717,sun dried tomatoes,27.0
+1718,red onion,40.0
+1719,frozen spinach,57.0
+1720,feta cheese,38.0
+1721,hamburger buns,265.0
+1722,lean ground turkey,539.0
+1723,long grain white rice,185.0
+1724,frozen spinach,113.0
+1725,sun dried tomatoes,36.0
+1726,kalamata olives,67.0
+1727,feta cheese,28.0
+1728,Monterey Jack cheese,113.0
+1729,diced green chiles,113.0
+1730,fresh cilantro,15.0
+1731,fajita tortillas,196.0
+1732,macaroni,227.0
+1733,Monterey Jack cheese,227.0
+1734,diced green chiles,227.0
+1735,corn tortillas,144.0
+1736,large eggs,400.0
+1737,queso fresco,57.0
+1738,salt,0.4
+1739,ground turkey,539.0
+1740,diced green chiles,113.0
+1741,pepper jack cheese,57.0
+1742,tomato,182.0
+1743,avocado,201.0
+1744,cucumbers,402.0
+1745,white onion,110.0
+1746,green bell pepper,119.0
+1747,avocado,150.0
+1748,fresh basil,24.0
+1749,Italian parsley,15.0
+1750,fennel,10.0
+1751,green onions,60.0
+1752,lemon,34.0
+1753,sour cream,230.0
+1754,salt,0.75
+1755,black pepper,0.1
+1756,salt,0.375
+1757,mayonnaise,28.0
+1758,penne pasta,454.0
+1759,Italian parsley,15.0
+1760,quick cooking grits,45.0
+1761,collard greens,20.0
+1762,toasted sesame oil,7.0
+1763,red pepper flakes,0.1
+1764,bell peppers,240.0
+1765,spinach,56.7
+1766,cooking oil,28.0
+1767,chopped peanuts,37.0
+1768,brown rice,487.5
+1769,yellow onion,110.0
+1770,celery,120.0
+1771,carrots,244.0
+1772,smoked ham hocks,900.0
+1773,16 bean mix,454.0
+1774,chicken base,22.5
+1775,all-purpose flour,312.5
+1776,heavy cream,473.0
+1777,cheese slices,168.0
+1778,deli ham,336.0
+1779,harissa paste,60.0
+1780,red potatoes,816.0
+1781,broccoli crown,225.0
+1782,cilantro,10.0
+1783,Hatch chiles,227.0
+1784,sweet potato,340.0
+1785,yellow cornmeal,207.0
+1786,milk,183.0
+1787,cooking oil,42.0
+1788,cream cheese,227.0
+1789,green onions,45.0
+1790,red pepper flakes,0.25
+1791,pineapple chunks in juice,425.0
+1792,smoked ham,227.0
+1793,flour tortillas,360.0
+1794,carrots,227.0
+1795,tomato sauce,794.0
+1796,beef bouillon,20.0
+1797,dry pasta,170.0
+1798,turkey meatballs,180.0
+1799,parmesan,142.0
+1800,water,829.5
+1051,dried oregano,0.5
+1052,canned chickpeas,850.0
+1053,fresh cilantro,8.0
+1054,dried oregano,1.0
+1055,water,237.0
+1056,quinoa,170.0
+1057,fresh parsley,60.0
+1058,fresh cilantro,8.0
+1059,chipotle powder,2.0
+1060,chicken breast,340.0
+1061,V8 juice,946.0
+1062,canned diced tomatoes,425.0
+1063,chipotle peppers in adobo sauce,56.5
+1064,sweet potatoes,907.0
+1065,milk,30.0
+1066,chipotle peppers in adobo sauce,20.0
+1067,salt,1.0
+1068,fresh peaches,907.0
+1069,chipotle peppers in adobo sauce,20.0
+1070,salt,3.0
+1071,chipotle powder,1.0
+1072,canned pumpkin puree,425.0
+1073,heavy cream,60.0
+1074,sweet potato,454.0
+1075,chipotle peppers in adobo sauce,10.0
+1076,cornmeal,75.0
+1077,vegetable oil,14.0
+1078,wheat rolls,200.0
+1079,mayonnaise,58.0
+1080,old-fashioned rolled oats,160.0
+1081,shredded coconut,27.0
+1082,unsweetened cocoa powder,15.0
+1083,water,30.0
+1084,whole wheat flour,180.0
+1085,all-purpose flour,219.0
+1086,salt,7.5
+1087,instant yeast,7.0
+1088,ground cinnamon,8.0
+1089,water,296.0
+1090,chocolate chips,85.0
+1091,large eggs,100.0
+1092,white sugar,25.0
+1093,butter,61.0
+1094,semi-sweet chocolate,57.0
+1095,all-purpose flour,16.0
+1096,semi-sweet chocolate,227.0
+1097,heavy whipping cream,473.0
+1098,egg whites,90.0
+1099,powdered sugar,60.0
+1100,Mexican Chorizo,227.0
+1851,chicken breast,340.0
+1852,honey,31.5
+1853,dijon mustard,15.0
+1854,apple cider vinegar,2.5
+1855,chicken breast,680.0
+1856,honey,113.0
+1857,mustard,60.0
+1858,panko breadcrumbs,120.0
+1859,chicken wings,907.0
+1860,cornstarch,24.0
+1861,yellow mustard,7.5
+1862,honey,31.5
+1863,paprika,0.2
+1864,salt,0.3
+1865,black pepper,0.3
+1866,chicken thighs,1814.0
+1867,apple cider vinegar,15.0
+1868,garlic powder,4.5
+1869,boneless skinless chicken thighs,907.0
+1870,sriracha sauce,30.0
+1871,soy sauce,22.5
+1872,cornstarch,16.0
+1873,cilantro,15.0
+1874,active dry yeast,6.0
+1875,raw sunflower seeds,64.0
+1876,all-purpose flour,240.0
+1877,large egg,50.0
+1878,all-purpose flour,240.0
+1879,active dry yeast,6.0
+1880,butter,170.0
+1881,honey,339.0
+1882,sour cream,288.0
+1883,cornmeal,138.0
+1884,canola oil,14.0
+1885,red cabbage,200.0
+1886,soy sauce,7.5
+1887,rice vinegar,30.0
+1888,chili garlic sauce,15.0
+1889,extra firm tofu,397.0
+1890,farro,190.0
+1891,water,946.0
+1892,old-fashioned rolled oats,81.0
+1893,fresh cilantro,60.0
+1894,stuffing mix,170.0
+1895,bone-in skin on turkey breast,1134.0
+1896,sweet potato,340.0
+1897,butter,21.0
+1898,brussels sprouts,227.0
+1899,salt,0.75
+1900,russet potato,454.0
+1151,instant yeast,6.98
+1152,water,295.75
+1153,baking powder,6.0
+1154,butter,56.8
+1155,cannellini beans,425.0
+1156,frozen green beans,225.0
+1157,red onion,40.0
+1158,tomato,90.0
+1159,white bread,56.0
+1160,mayonnaise,42.0
+1161,chunk light tuna in water,680.0
+1162,celery,120.0
+1163,mayonnaise,115.0
+1164,boneless skinless chicken breast,302.0
+1165,chickpeas,425.0
+1166,cheddar,113.0
+1167,spring mix,57.0
+1168,salad dressing,120.0
+1169,lemongrass,20.0
+1170,coconut milk,806.0
+1171,boneless skinless chicken breasts,340.0
+1172,cilantro,50.0
+1173,boneless skinless chicken breasts,590.0
+1174,salt,1.5
+1175,coconut milk,60.0
+1176,panko breadcrumbs,60.0
+1177,sweetened flaked coconut,85.0
+1178,cooking oil,109.0
+1179,sweet chili sauce,300.0
+1180,vanilla wafers,227.0
+1181,salted butter,113.0
+1182,unsweetened flaked coconut,90.0
+1183,sweetened condensed milk,397.0
+1184,evaporated milk,354.0
+1185,granulated sugar,25.0
+1186,all-purpose flour,90.0
+1187,cornstarch,32.0
+1188,eggs,54.0
+1189,salted butter,56.8
+1190,whipped cream,120.0
+1191,extra firm tofu,397.0
+1192,cornstarch,16.0
+1193,salt,0.5
+1194,unsweetened coconut flakes,60.0
+1195,virgin coconut oil,27.0
+1196,sweet chili sauce,85.0
+1197,frozen black eyed peas,454.0
+1198,jerk seasoning,8.55
+1199,salt,1.5
+1200,pineapple,328.0
+1101,boneless skinless chicken thighs,567.0
+1102,frozen onion bell pepper celery mix,340.0
+1103,tomato paste,32.0
+1104,long grain white rice,462.5
+1105,chicken broth,960.0
+1106,green onions,100.0
+1107,Mexican chorizo,340.0
+1108,chili powder,8.0
+1109,olive oil,40.5
+1110,pork chops bone-in,907.0
+1111,adobo seasoning,4.0
+1112,sofrito,90.0
+1113,tomato sauce,227.0
+1114,white distilled vinegar,14.0
+1115,sazon seasoning,1.5
+1116,chicken broth,480.0
+1117,pimento stuffed green olives,35.0
+1118,dried oregano,2.0
+1119,bay leaf,0.6
+1120,onion,110.0
+1121,bell pepper,120.0
+1122,cooked ham,454.0
+1123,cannellini beans,1275.0
+1124,chicken broth,480.0
+1125,carrots,227.0
+1126,brown lentils,192.0
+1127,black pepper,1.0
+1128,petite diced tomatoes,425.0
+1129,vegetable broth,960.0
+1130,split turkey breast bone-in skin on,1134.0
+1131,apple cider,120.0
+1132,chicken drumsticks,794.0
+1133,baking powder,1.0
+1134,chopped pecans,7.0
+1135,butter,7.0
+1136,milk,30.0
+1137,powdered sugar,8.0
+1138,milk,2.5
+1139,rolled oats,40.0
+1140,riced cauliflower,50.0
+1141,milk,120.0
+1142,chopped pecans,7.0
+1143,all purpose flour,500.0
+1144,salt,9.0
+1145,honey,21.0
+1146,active dry yeast,4.5
+1147,ground cinnamon,5.0
+1148,raisins,75.0
+1149,whole wheat flour,120.0
+1150,bread flour,285.75
+1801,brown sugar,52.5
+1802,boneless skinless chicken thighs,755.0
+1803,Italian seasoning,2.7
+1804,fresh parsley,15.0
+1805,baby potatoes,680.0
+1806,salt,6.0
+1807,fresh basil,10.0
+1808,green onion,15.0
+1809,natural peanut butter,64.0
+1810,cooking oil,7.0
+1811,ground pork,227.0
+1812,carrot,80.0
+1813,hoisin sauce,85.0
+1814,rice,744.0
+1815,peanuts,37.0
+1816,hoisin sauce,128.0
+1817,rice,186.0
+1818,dried sage,1.0
+1819,frozen seasoning mix,340.0
+1820,wild rice mix,270.0
+1821,water,1183.0
+1822,chicken bouillon,14.0
+1823,fresh thyme,3.0
+1824,Greek yogurt,85.0
+1825,anchovy fillets,12.0
+1826,Dijon mustard,30.0
+1827,active dry yeast,6.0
+1828,all-purpose flour,240.0
+1829,shredded cheese,113.0
+1830,salted butter,113.0
+1831,dried parsley,1.5
+1832,French bread,400.0
+1833,garlic powder,0.8
+1834,grated Parmesan,14.0
+1835,plain yogurt,61.0
+1836,garlic powder,0.6
+1837,fresh parsley,3.8
+1838,green onion,15.0
+1839,sugar,0.5
+1840,milk,15.0
+1841,chicken breasts,680.0
+1842,honey,63.0
+1843,chipotle peppers in adobo,45.0
+1844,lime juice,30.0
+1845,green onions,30.0
+1846,yellow mustard,15.0
+1847,paprika,0.3
+1848,broccoli,550.0
+1849,red onion,55.0
+1850,slivered almonds,30.0
