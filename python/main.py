@@ -42,53 +42,8 @@ def _write_blank_kroger_upc_csv():
     ingredients_kroger_upc['product_grams'] = pd.NA
     ingredients_kroger_upc['product_uri'] = pd.NA
     ingredients_kroger_upc['product_local_price'] = pd.NA
+    ingredients_kroger_upc['product_categories'] = pd.NA
     ingredients_kroger_upc.to_csv(PROJECT_ROOT / 'data' / 'ingredients_kroger_upc.csv', index=False)
-
-def _fix_zero_result_queries():
-    kroger_searches = pd.read_csv(PROJECT_ROOT / 'data' / 'ingredients_kroger_upc.csv')
-    kroger_searches_edit = kroger_searches
-
-    queries_to_update = [
-        #old llm generated query, new human corrected query
-        ('coleslaw mix', 'coleslaw kit'),
-        ('ground beef 15% fat', 'ground beef 80%'),
-        ('macaroni noodles', 'dry macaroni'),
-        ('aquafaba', 'canned chickpeas'),
-        ('5 spice powder', 'five spice powder'),
-        ('canned tuna', 'canned tuna'),
-        ('cooked farro', 'ready rice'),
-        ('melted butter', 'butter'),
-        ('fresh lime juice', 'lime juice'),
-        ('grated fresh ginger', 'ginger root'),
-        ('cooked black beans', 'canned black beans'),
-        ('neutral oil', 'vegetable oil'),
-        ('ripe bananas', 'bananas'),
-        ('small onion', 'onion'),
-        ('celery stalk', 'celery'),
-        ('powdered ginger', 'ground ginger'),
-        ('broccoli stem', 'broccoli'),
-        ('cold butter', 'butter'),
-        ('cod steaks', 'cod fillet'),
-        ('canned Albacore tuna', 'canned albacore tuna'),
-        ('quick cooking grits', 'instant grits'),
-        ('smoked ham hocks', 'smoked bacon'),
-        ('Mexican Chorizo', 'chorizo'),
-        ('frozen black eyed peas', 'frozen peas blackeye'),
-        ('frozen onion bell pepper celery mix', 'frozen mirepoix'),
-        ('Mexican chorizo', 'chorizo')
-    ]
-    'sunflower seeds'
-    'harissa'
-    'ground chipotle'
-    ''
-    for old_query, new_query in queries_to_update:
-        _replace_llm_kroger_query(kroger_searches_edit, old_query, new_query)
-
-    kroger_searches_edit.to_csv(PROJECT_ROOT / 'data' / 'ingredients_kroger_upc.csv', index=False)
-
-def _replace_llm_kroger_query(query_df, llm_generated_kroger_query, new_kroger_query):
-    mask = query_df['llm_generated_query'] == llm_generated_kroger_query
-    query_df.loc[mask, ['query', 'kroger_upc', 'product_grams', 'product_uri' , 'product_local_price']] = [new_kroger_query, pd.NA, pd.NA, pd.NA, pd.NA,]
 
 def _search_kroger_for_all_queries():
     starting_ingredients_kroger_upc = pd.read_csv(PROJECT_ROOT / 'data' / 'ingredients_kroger_upc.csv')
@@ -101,13 +56,13 @@ def _search_kroger_for_all_queries():
             try:
                 print(f"Searching for {query}")
                 kroger_handler = KrogerAPIHandler(os.getenv('KROGER_CLIENT_ID'), os.getenv('KROGER_API_KEY'))
-                upc, grams, uri, price = pick_best_kroger_result(query, kroger_handler.query_to_df_of_results(query))
+                upc, grams, uri, price, categories = pick_best_kroger_result(query, kroger_handler.query_to_df_of_results(query))
 
-                edited_ingredients_kroger_upc.loc[index, ['kroger_upc', 'product_grams', 'product_uri', 'product_local_price']] = upc, grams, uri, price
+                edited_ingredients_kroger_upc.loc[index, ['kroger_upc', 'product_grams', 'product_uri', 'product_local_price', 'product_categories']] = upc, grams, uri, price, categories
 
             except Exception as e:
                 print(f"Error processing {query}: {str(e)}")
-                edited_ingredients_kroger_upc.loc[index, ['kroger_upc', 'product_grams', 'product_uri', 'product_local_price']] = pd.NA
+                edited_ingredients_kroger_upc.loc[index, ['kroger_upc', 'product_grams', 'product_uri', 'product_local_price', 'product_categories']] = pd.NA
 
             print("Editing the ingested csv")
             edited_ingredients_kroger_upc.to_csv(PROJECT_ROOT / 'data' / 'ingredients_kroger_upc.csv', index=False)
@@ -126,9 +81,9 @@ def _retry_searches_on_failed_queries():
                 try:
                     kroger_handler = KrogerAPIHandler(os.getenv('KROGER_CLIENT_ID'), os.getenv('KROGER_API_KEY'))
 
-                    upc, grams, uri, price = pick_best_kroger_result(food_name, kroger_handler.query_to_df_of_results(alt_q))
+                    upc, grams, uri, price, categories = pick_best_kroger_result(food_name, kroger_handler.query_to_df_of_results(alt_q))
 
-                    ingredients_to_kroger_products_df.loc[index, ['query', 'kroger_upc', 'product_grams', 'product_uri', 'product_local_price']] = alt_q, upc, grams, uri, price
+                    ingredients_to_kroger_products_df.loc[index, ['query', 'kroger_upc', 'product_grams', 'product_uri', 'product_local_price', 'product_categories']] = alt_q, upc, grams, uri, price, categories
 
                     break
                 except Exception as e:
