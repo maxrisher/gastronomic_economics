@@ -48,7 +48,7 @@ class KrogerAPIHandler:
                 'kroger_api_categories': ', '.join(product.get('categories', [])),
                 'kroger_api_country_origin': product.get('countryOrigin', ''),
                 'kroger_api_description': product.get('description', ''),
-                'kroger_api_size': product['items'][0].get('size', '') if product.get('items') else '',
+                'kroger_api_pricing_unit': product['items'][0].get('size', '') if product.get('items') else '',
                 'kroger_api_temperature_indicator': product.get('temperature', {}).get('indicator', '')
             }
 

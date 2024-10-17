@@ -51,10 +51,39 @@ ingredients_clean <-
          price = case_when(
            recipe_ingredient_price == 0 ~ 0,
            TRUE ~ product_local_price
-         ))
+         ),
+         vegetarian = if_else(grepl("Meat & Seafood", product_categories), FALSE, TRUE))
+
+# Make sure ingredients data are correct ----------------------------------
+error_detect <- 
+  ingredients_clean %>% 
+  filter(!is.na(kroger_upc)) %>% 
+  select(product_name, claude_product_grams_estimate, product_sold_by_unit) %>% 
+  distinct() %>% 
+  mutate(claude_ounces = claude_product_grams_estimate * 0.035274) %>% 
+  mutate(fl_oz = grepl("fl oz", product_sold_by_unit),
+         gal = grepl("gal", product_sold_by_unit),
+         pound = grepl("pound", product_sold_by_unit),
+         lb = grepl("lb", product_sold_by_unit),
+         count = grepl("ct", product_sold_by_unit),
+         ounces = grepl("oz", product_sold_by_unit)) %>% 
+  mutate(unknown = !lb & !gal & !count & !ounces & !pound & !fl_oz,
+         only_ounces = ounces & !count & !lb & !gal & !pound & !fl_oz,
+         only_count = count & !lb & !gal & !ounces & !pound & !fl_oz,
+         very_tough = only_count | unknown,
+         tough = very_tough | gal | fl_oz)
+
+# This item seems to be wrong: private-selection-heritage-boneless-pork-shoulder-roast-natural-duroc-pork
+# ounces it seems to get right
+# just arrange them from estimated ounces high to low and check the descriptions
+
+# Create final ingredients dataset ----------------------------------------
 
 ingredients_final <- 
   ingredients_clean %>% 
+  # Fix a clearly incorrect sell_by_unit from count to lb.
+  mutate(claude_product_grams_estimate = case_when(product_name == "private-selection-heritage-boneless-pork-shoulder-roast-natural-duroc-pork" ~ 453.59200,
+                                                   .default = claude_product_grams_estimate)) %>% 
   mutate(product_price_per_g = price / claude_product_grams_estimate,
          ingredient_price = product_price_per_g * claude_ingredient_gram_estimate,
          bb_underspend = ingredient_price - recipe_ingredient_price)
@@ -73,7 +102,8 @@ recipe_costs <-
   group_by(recipe_name) %>% 
   summarise(bb_price = sum(recipe_ingredient_price),
             total_grams = sum(claude_ingredient_gram_estimate),
-            kroger_price = sum(ingredient_price))
+            kroger_price = sum(ingredient_price),
+            vegetarian = all(vegetarian))
 
 clean_recipes <- 
   recipe_descriptions %>% 
@@ -95,7 +125,7 @@ high_protein_g_per_cal <- high_g_protein / calories_consumed
 recipes_with_cost <- 
   clean_recipes %>% 
   left_join(recipe_costs, by = join_by(recipe_name)) %>% 
-  mutate(cost_per_calorie = bb_price / total_calories,
+  mutate(cost_per_calorie = kroger_price / total_calories,
          cost_per_2500_cal = 2500 * cost_per_calorie,
          protein_g_per_cal = total_protein / total_calories,
          protein_per_2500_cal = 2500 * protein_g_per_cal,
@@ -105,4 +135,25 @@ recipes_with_cost <-
 
 # Visualization -----------------------------------------------------------
 
+recipe_costs %>% 
+  mutate(bb_underest = kroger_price - bb_price) %>% 
+  view()
+
+ingredients_to_kroger %>% 
+  mutate(category_list = strsplit(product_categories, ",")) %>% 
+  filter(map_lgl(category_list, ~ "Produce" %in% .x)) %>% 
+  view()
+
+ingredients_to_kroger %>% 
+  mutate(category_list = strsplit(product_categories, ",")) %>% 
+  count(product_categories) %>% 
+  arrange(desc(n)) %>% 
+  print(n=500)
+
+ingredients_to_kroger %>% 
+  filter(!is.na(kroger_upc))
+
+# Further -----------------------------------------------------------------
+
+Substitute beyond beef and impossible beef for ground beef and see what happens
 

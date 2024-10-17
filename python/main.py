@@ -17,18 +17,18 @@ def main():
 
     chunked_ingredients_file_paths = [os.path.join(chunked_ingredients_folder, filename) for filename in os.listdir(chunked_ingredients_folder)]
 
-    # for ingredient_chunk in chunked_ingredients_file_paths:
-    #     print(ingredient_chunk)
-    #     processed_df_name = ingredient_chunk.replace('chunked_ingredients_data/ingredients_chunk_', 'processed_ingredients_chunks/processed_ingredients_chunk_')
-    #     processed_df = ingredients_to_query_and_mass_df(ingredient_chunk)
-    #     processed_df.to_csv(processed_df_name, index=False)
-    #     print(processed_df_name)
+    for ingredient_chunk in chunked_ingredients_file_paths:
+        print(ingredient_chunk)
+        processed_df_name = ingredient_chunk.replace('chunked_ingredients_data/ingredients_chunk_', 'processed_ingredients_chunks/processed_ingredients_chunk_')
+        processed_df = ingredients_to_query_and_mass_df(ingredient_chunk)
+        processed_df.to_csv(processed_df_name, index=False)
+        print(processed_df_name)
 
     merge_mass_query_csv_files(PROJECT_ROOT / 'data' / 'processed_ingredients_chunks', PROJECT_ROOT / 'data' / 'full_processed_ingredients.csv')
 
-    # _write_blank_kroger_upc_csv()
+    _write_blank_kroger_upc_csv()
 
-    # _search_kroger_for_all_queries()
+    _search_kroger_for_all_queries()
 
     _retry_searches_on_failed_queries()
 
@@ -37,12 +37,13 @@ def _write_blank_kroger_upc_csv():
     unique_query_array = full_processed_ingredients['query'].unique()
     ingredients_kroger_upc = pd.DataFrame(unique_query_array, columns=['food_name'])
     ingredients_kroger_upc['query'] = ingredients_kroger_upc['food_name']
-    ingredients_kroger_upc['alternate_query_inbox'] = []
+    ingredients_kroger_upc['alternate_query_inbox'] = pd.NA
     ingredients_kroger_upc['kroger_upc'] = pd.NA
     ingredients_kroger_upc['product_grams'] = pd.NA
     ingredients_kroger_upc['product_uri'] = pd.NA
     ingredients_kroger_upc['product_local_price'] = pd.NA
     ingredients_kroger_upc['product_categories'] = pd.NA
+    ingredients_kroger_upc['product_sold_by_unit'] = pd.NA
     ingredients_kroger_upc.to_csv(PROJECT_ROOT / 'data' / 'ingredients_kroger_upc.csv', index=False)
 
 def _search_kroger_for_all_queries():
@@ -56,13 +57,13 @@ def _search_kroger_for_all_queries():
             try:
                 print(f"Searching for {query}")
                 kroger_handler = KrogerAPIHandler(os.getenv('KROGER_CLIENT_ID'), os.getenv('KROGER_API_KEY'))
-                upc, grams, uri, price, categories = pick_best_kroger_result(query, kroger_handler.query_to_df_of_results(query))
+                upc, grams, uri, price, categories, sold_by = pick_best_kroger_result(query, kroger_handler.query_to_df_of_results(query))
 
-                edited_ingredients_kroger_upc.loc[index, ['kroger_upc', 'product_grams', 'product_uri', 'product_local_price', 'product_categories']] = upc, grams, uri, price, categories
+                edited_ingredients_kroger_upc.loc[index, ['kroger_upc', 'product_grams', 'product_uri', 'product_local_price', 'product_categories', 'product_sold_by_unit']] = upc, grams, uri, price, categories, sold_by
 
             except Exception as e:
                 print(f"Error processing {query}: {str(e)}")
-                edited_ingredients_kroger_upc.loc[index, ['kroger_upc', 'product_grams', 'product_uri', 'product_local_price', 'product_categories']] = pd.NA
+                edited_ingredients_kroger_upc.loc[index, ['kroger_upc', 'product_grams', 'product_uri', 'product_local_price', 'product_categories', 'product_sold_by_unit']] = pd.NA
 
             print("Editing the ingested csv")
             edited_ingredients_kroger_upc.to_csv(PROJECT_ROOT / 'data' / 'ingredients_kroger_upc.csv', index=False)
@@ -81,9 +82,9 @@ def _retry_searches_on_failed_queries():
                 try:
                     kroger_handler = KrogerAPIHandler(os.getenv('KROGER_CLIENT_ID'), os.getenv('KROGER_API_KEY'))
 
-                    upc, grams, uri, price, categories = pick_best_kroger_result(food_name, kroger_handler.query_to_df_of_results(alt_q))
+                    upc, grams, uri, price, categories, sold_by = pick_best_kroger_result(food_name, kroger_handler.query_to_df_of_results(alt_q))
 
-                    ingredients_to_kroger_products_df.loc[index, ['query', 'kroger_upc', 'product_grams', 'product_uri', 'product_local_price', 'product_categories']] = alt_q, upc, grams, uri, price, categories
+                    ingredients_to_kroger_products_df.loc[index, ['query', 'kroger_upc', 'product_grams', 'product_uri', 'product_local_price', 'product_categories', 'product_sold_by_unit']] = alt_q, upc, grams, uri, price, categories, sold_by
 
                     break
                 except Exception as e:

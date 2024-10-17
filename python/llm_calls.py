@@ -43,7 +43,7 @@ def ingredients_to_query_and_mass_df(csv_file):
 def pick_best_kroger_result(query, results_df):
     client = anthropic.Anthropic()
 
-    filtered_results_df = results_df[['kroger_api_categories', 'kroger_api_description', 'kroger_api_size']]
+    filtered_results_df = results_df[['kroger_api_categories', 'kroger_api_description', 'kroger_api_pricing_unit']]
     kroger_results_text = filtered_results_df.to_csv()
 
     user_prompt = "<UserQuery>\n"+query+"\n</UserQuery>"+"\n<KrogerResults>\n"+"id"+kroger_results_text+"</KrogerResults>"
@@ -81,8 +81,9 @@ def pick_best_kroger_result(query, results_df):
     result_kroger_api_uri = results_df.loc[result_index, 'kroger_api_uri']
     result_kroger_api_local_price = results_df.loc[result_index, 'kroger_api_local_regular_price']
     result_kroger_api_categories = results_df.loc[result_index, 'kroger_api_categories']
+    result_kroger_api_pricing_unit = results_df.loc[result_index, 'kroger_api_pricing_unit']
 
-    return result_kroger_api_upc, result_grams, result_kroger_api_uri, result_kroger_api_local_price
+    return result_kroger_api_upc, result_grams, result_kroger_api_uri, result_kroger_api_local_price, result_kroger_api_categories, result_kroger_api_pricing_unit
 
 def write_alternate_query_list(food_name):
     client = anthropic.Anthropic()
