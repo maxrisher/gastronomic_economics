@@ -119,7 +119,7 @@ def write_alternate_query_list(food_name):
 def test_for_animal_products(recipe_name, ingredients_list):
     client = anthropic.Anthropic()
 
-    user_prompt = "<Recipe>\n"+recipe_name+"\n</Recipe>/n"+"<Ingredients>\n"+str(ingredients_list)+"\n</Ingredients>/n"
+    user_prompt = "<Recipe>\n"+recipe_name+"\n</Recipe>\n"+"<Ingredients>\n"+str(ingredients_list)+"\n</Ingredients>"
     print(user_prompt)
 
     with open(PROJECT_ROOT / 'llm_prompts' / 'categorize_vegetarian_vegan.txt', 'r') as text_file:
@@ -144,10 +144,10 @@ def test_for_animal_products(recipe_name, ingredients_list):
     print(response)
     response_text = response.content[0].text
 
-    answer_tag_content = json.loads(_extract_xml_tag(response_text, 'Answer'))
+    answer_tag_content = _extract_xml_tag(response_text, 'Answer')
     is_vegetarian = _extract_xml_tag(answer_tag_content, 'Vegetarian')
     is_vegan = _extract_xml_tag(answer_tag_content, 'Vegan')
-    return is_vegetarian, is_vegan
+    return str_to_bool(is_vegetarian), str_to_bool(is_vegan)
 
 def _extract_xml_tag(llm_response, xml_tag):
     xml_tag_pattern = fr'<{xml_tag}>(.*?)</{xml_tag}>'
@@ -155,3 +155,6 @@ def _extract_xml_tag(llm_response, xml_tag):
     #Assume there is only one match
     clean_xml_content = matches[0].strip()
     return clean_xml_content
+
+def str_to_bool(value):
+    return value.strip().lower() == 'true'

@@ -110,8 +110,12 @@ def _write_tagged_veggie_recipes():
 
 def _tag_vegetarian_recipes():
     # Get the recipe dataset
-    recipes_df = pd.read_csv(PROJECT_ROOT / 'data' / 'tagged_veggie_recipes.csv', index=False)
+    recipes_df = pd.read_csv(PROJECT_ROOT / 'data' / 'tagged_veggie_recipes.csv')
 
+    # First, explicitly convert the columns to boolean type
+    recipes_df['vegetarian'] = recipes_df['vegetarian'].astype('boolean')
+    recipes_df['vegan'] = recipes_df['vegan'].astype('boolean')
+    
     for index, row in recipes_df.iterrows():
         if pd.isna(row['vegetarian']):
             is_vegetarian, is_vegan = test_for_animal_products(row['recipe_name'], row['ingredients'])

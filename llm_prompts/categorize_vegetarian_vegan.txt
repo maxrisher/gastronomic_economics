@@ -9,7 +9,7 @@ Step 2: output your answers as 'True' or 'False'. Put your vegetarian determinat
 Avocado Breakfast Pita
 </Recipe>
 <Ingredients>
-'1/2 round pita pocket', '1 large egg', '1 handful baby spinach', '1/4 medium avocado', 'to taste sriracha hot sauce', 'to taste salt & pepper'
+['1/2 round pita pocket', '1 large egg', '1 handful baby spinach', '1/4 medium avocado', 'to taste sriracha hot sauce', 'to taste salt & pepper']
 </Ingredients>
 <Thinking>
 Let me analyze each ingredient: - Pita bread: Usually vegan (made from flour, water, yeast) - Egg: Vegetarian but not vegan (animal product) - Spinach: Vegan - Avocado: Vegan - Sriracha: Vegan (made from chili peppers, vinegar, garlic) - Salt & pepper: Vegan
