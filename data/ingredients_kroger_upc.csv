@@ -4,7 +4,7 @@ apple cider vinegar,apple cider vinegar,,1111086203.0,3823.26,/p/kroger-apple-ci
 honey,honey,,1111012497.0,1133.98,/p/kroger-clover-honey-twin-pack/0001111012497?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,23.99,Condiment & Sauces,2 ct / 40 oz
 broccoli florets,broccoli florets,,1111079549.0,907.184,/p/kroger-broccoli-florets-big-deal-/0001111079549?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,6.49,Produce,32 oz
 dried cranberries,dried cranberries,,1111012696.0,907.184,/p/kroger-dried-cranberries/0001111012696?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,8.99,Snacks,32 oz
-raw sunflower seeds,raw sunflower seeds,,,,,,,
+raw sunflower seeds,unsalted sunflower seeds,"['raw sunflower seeds', 'unsalted sunflower seeds', 'sunflower kernels', 'hulled sunflower seeds', 'shelled sunflower seeds', 'unroasted sunflower seeds', 'sunflower seeds']",0007248899989,283.495,/p/torn-glasser-organic-sunflower-hulled/0007248899989?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.49,Natural & Organic,10 oz
 broccoli,broccoli,,3082.0,453.592,/p/broccoli-crowns/0000000003082?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.79,Produce,1 lb
 sesame oil,sesame oil,,1111090121.0,204.0,/p/kroger-pure-sesame-oil/0001111090121?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,"International, Baking Goods",7.5 fl oz
 sambal,sambal,,2446306107.0,226.796,/p/huy-fong-sambal-oelek-chili-paste/0002446306107?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.49,International,8 oz
@@ -29,7 +29,7 @@ fresh parsley,fresh parsley,,4899.0,60.0,/p/parsley/0000000004899?cid=dis.api.tp
 lemon,lemon,,4053.0,58.0,/p/fresh-lemon-each/0000000004053?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,0.89,Produce,1 ct
 bacon,bacon,,1111097210.0,680.388,/p/kroger-hardwood-smoked-thick-cut-sugar-cured-bacon/0001111097210?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,9.99,Meat & Seafood,24 oz
 mayonnaise,mayonnaise,,1111001988.0,807.36,/p/kroger-real-mayo/0001111001988?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,Condiment & Sauces,30 fl oz
-chipotle chili powder,chipotle chili powder,,,,,,,
+chipotle chili powder,smoked chili powder,"['chipotle chili powder', 'ground chipotle pepper', 'chipotle powder', 'smoked chili powder', 'chipotle seasoning', 'dried chipotle pepper', 'chipotle chile powder', 'ancho chili powder', 'chili powder']",0001111005051,422.41,/p/private-selection-six-chili-powder/0001111005051?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,9.99,Baking Goods,14.9 oz
 brioche buns,brioche buns,,1111011457.0,680.388,/p/private-selection-brioche-buns-extra-large/0001111011457?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.79,Bakery,8 ct / 24 oz
 eggs,eggs,,1111085724.0,3420.0,/p/kroger-large-white-eggs/0001111085724?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,19.95,"Breakfast, Dairy",60 ct
 tomato,tomato,,4664.0,453.592,/p/fresh-on-the-vine-red-tomatoes-order-by-the-bunch-4-5-tomatoes-per-bunch-/0000000004664?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.19,"Produce, Produce",1 lb
@@ -43,7 +43,7 @@ hot sauce,hot sauce,,1111013788.0,354.882,/p/kroger-louisiana-style-hot-sauce/00
 smoked paprika,smoked paprika,,5210002276.0,49.61,/p/mccormick-smoked-paprika/0005210002276?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.79,Natural & Organic,1.75 oz
 garlic powder,garlic powder,,1111070039.0,700.23,/p/kroger-garlic-powder/0001111070039?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,14.99,Baking Goods,24.7 oz
 tempeh,tempeh,,4345403050.0,226.796,/p/lightlife-original-organic-plant-based-tempeh/0004345403050?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,Natural & Organic,8 oz
-coleslaw mix,coleslaw mix,,,,,,,
+coleslaw mix,coleslaw kit,"['coleslaw mix', 'coleslaw kit', 'shredded cabbage mix', 'slaw mix', 'cabbage and carrot mix', 'pre-cut coleslaw vegetables', 'shredded cabbage and carrots']",0001111091040,453.592,/p/kroger-coleslaw/0001111091040?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.29,Produce,16 oz
 hoagie rolls,hoagie rolls,,1111011514.0,411.06775,/p/kroger-white-hoagie-rolls/0001111011514?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.19,Bakery,6 ct / 14.5 oz
 avocado,avocado,,4046.0,150.0,/p/medium-ripe-avocado/0000000004046?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.25,Produce,1 ct
 ground pork,ground pork,,5161300362.0,453.592,/p/ground-pork/0005161300362?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,5.49,Meat & Seafood,1 lb
@@ -142,7 +142,7 @@ sriracha,sriracha,,1111013136.0,910.866,/p/kroger-sriracha-hot-chili-sauce/00011
 pepper,pepper,,1111070041.0,484.77,/p/kroger-coarse-ground-black-pepper/0001111070041?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,15.99,Baking Goods,17.1 oz
 plain breadcrumbs,plain breadcrumbs,,1111013526.0,425.2425,/p/kroger-plain-bread-crumbs/0001111013526?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.49,Baking Goods,15 oz
 green cabbage,green cabbage,,4069.0,453.592,/p/green-cabbage/0000000004069?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,0.89,Produce,1 lb
-chipotle powder,chipotle powder,,,,,,,
+chipotle powder,smoked jalapeño powder,"['ground chipotle pepper', 'chipotle chile powder', 'dried chipotle', 'smoked jalapeño powder', 'ground smoked chili pepper', 'chipotle seasoning', 'ancho chili powder']",0001111072461,198.4465,/p/kroger-chili-powder/0001111072461?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,5.99,Baking Goods,7 oz
 cayenne,cayenne,,1111000316.0,155.92225,/p/kroger-ground-red-cayenne-pepper/0001111000316?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,5.99,"Baking Goods, Baking Goods",5.5 oz
 onion powder,onion powder,,1111000321.0,212.62125,/p/kroger-onion-powder/0001111000321?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,Baking Goods,7.5 oz
 salmon,salmon,,21544150000.0,453.592,/p/fresh-atlantic-salmon-fillet-never-frozen-family-pack/0021544150000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,9.99,Meat & Seafood,1 lb
@@ -182,7 +182,7 @@ jerk seasoning,jerk seasoning,,81007011060.0,208.08543,/p/newman-s-own-caribbean
 orange juice,orange juice,,1111048482.0,3936.83,/p/kroger-100-orange-juice-from-concentrate-original/0001111048482?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,7.99,"Beverages, Breakfast",1 gallon
 chopped collard greens,chopped collard greens,,7056087677.0,396.893,/p/pictsweet-farms-frozen-chopped-collard-greens/0007056087677?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.29,Frozen,14 oz
 bone-in skin-on chicken thighs,bone-in skin-on chicken thighs,,28334750000.0,453.592,/p/heritage-farm-bone-in-skin-on-chicken-thighs/0028334750000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.99,Meat & Seafood,1 lb
-hot water,hot water,,,,,,,
+hot water,bottled water,"['bottled water', 'spring water', 'purified water', 'distilled water', 'filtered water', 'drinking water', 'kettle', 'electric water heater']",0001111083228,499.79215,/p/king-soopers-purified-bottled-water/0001111083228?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,0.69,Beverages,16.9 fl oz
 minced ginger,minced ginger,,7457483225.0,120.48,/p/christopher-ranch-chopped-ginger/0007457483225?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,Produce,4.25 oz
 ground beef 90/10,ground beef 90/10,,21251990000.0,453.592,/p/private-selection-angus-ground-sirloin-90-10/0021251990000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,9.29,Meat & Seafood,1 lb
 dried oregano,dried oregano,,1111001996.0,55.0,/p/kroger-oregano-leaves/0001111001996?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.39,Baking Goods,1.94 oz
@@ -240,7 +240,7 @@ tomato sauce,tomato sauce,,1111081660.0,822.1355,/p/kroger-tomato-sauce/00011110
 Brussels sprouts,Brussels sprouts,,3338370154.0,453.592,/p/brussels-sprouts/0003338370154?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.49,Produce,1 lb
 sweet potato,sweet potato,,4816.0,453.592,/p/sweet-potato/0000000004816?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.69,Produce,1 lb
 boneless skinless chicken breast,boneless skinless chicken breast,,28334900000.0,453.592,/p/heritage-farm-boneless-skinless-chicken-breasts/0028334900000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.69,Meat & Seafood,1 lb
-sweet paprika,sweet paprika,,,,,,,
+sweet paprika,paprika,"['paprika', 'sweet paprika', 'hungarian paprika', 'mild paprika', 'spanish paprika', 'ground paprika', 'pimenton dulce', 'ground red pepper']",0001111068309,106.31,/p/kroger-ground-paprika/0001111068309?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.79,Baking Goods,3.75 oz
 milk chocolate chips,milk chocolate chips,,1111004748.0,325.95,/p/kroger-milk-chocolate-baking-chips/0001111004748?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.59,Baking Goods,11.5 oz
 vanilla wafers,vanilla wafers,,1111000704.0,311.8445,/p/kroger-original-vanilla-wafer-cookies/0001111000704?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.69,Snacks,11 oz
 lemons,lemons,,1111091188.0,907.184,/p/kroger-fresh-lemons-bag/0001111091188?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,Produce,2 lb
@@ -250,12 +250,12 @@ plain Greek yogurt,plain Greek yogurt,,1111010717.0,907.184,/p/kroger-plain-nonf
 curry powder,curry powder,,1111068368.0,45.92619,/p/kroger-curry-powder/0001111068368?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,Baking Goods,1.62 oz
 extra firm tofu,extra firm tofu,,1111082294.0,878.83,/p/simple-truth-organic-extra-firm-tofu-twin-pack/0001111082294?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.99,"Natural & Organic, Produce",2 ct / 15.5 oz
 turmeric,turmeric,,1111068337.0,42.52425,/p/kroger-ground-turmeric/0001111068337?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.49,Baking Goods,1.5 oz
-ground beef 15% fat,ground beef 15% fat,,,,,,,
+ground beef 15% fat,85% lean ground beef,"['85% lean ground beef', 'lean ground beef', 'ground chuck', 'ground beef', 'hamburger meat', 'ground sirloin']",0061266961086,453.592,/p/laura-s-beef-85-15-all-natural-ground-beef/0061266961086?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,7.99,Meat & Seafood,16 oz
 russet potato,russet potato,,1111091754.0,4535.92,/p/kroger-russet-potatoes-big-deal-in-10-lb-bag/0001111091754?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.29,Produce,10 lb
 cooked chicken,cooked chicken,,1111020791.0,453.592,/p/kroger-hardwood-smoked-pulled-chicken/0001111020791?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,8.79,Meat & Seafood,16 oz
 plain yogurt,plain yogurt,,7527041052.0,1814.368,/p/mountain-high-plain-yogurt-tub/0007527041052?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,7.99,Dairy,64 oz
 tahini,tahini,,7426500156.0,453.592,/p/ziyad-tahini-sesame-paste/0007426500156?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,11.99,International,16 oz
-dry brown lentils,dry brown lentils,,,,,,,
+dry brown lentils,dried lentils,"['brown lentils', 'dried lentils', 'whole brown lentils', 'dry lentils', 'green lentils', 'lentils', 'pulses']",0007152401253,453.592,/p/la-preferida-lentils-dry-beans/0007152401253?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.99,"International, Pasta, Sauces, Grain, International",16 oz
 evaporated milk,evaporated milk,,1111088301.0,360.0,/p/kroger-evaporated-milk/0001111088301?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.29,Baking Goods,12 fl oz
 sweet potatoes,sweet potatoes,,4816.0,453.592,/p/sweet-potato/0000000004816?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.69,Produce,1 lb
 medjool dates,medjool dates,,9792354401.0,907.184,/p/bard-valley-natural-delights-whole-fresh-medjool-dates/0009792354401?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,12.99,Produce,32 oz
@@ -274,7 +274,7 @@ shallot,shallot,,4662.0,453.592,/p/shallots/0000000004662?cid=dis.api.tpi_produc
 lemongrass,lemongrass,,87520800067.0,113.398,/p/gourmet-garden-lemongrass-stir-in-paste/0087520800067?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,Produce,4 oz
 fish sauce,fish sauce,,73762800100.0,199.92,/p/thai-kitchen-premium-fish-sauce/0073762800100?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,"International, Condiment & Sauces",6.76 fl oz
 lime juice,lime juice,,1111072822.0,443.6025,/p/kroger-lime-juice/0001111072822?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.99,Beverages,15 fl oz
-thai red chili pepper,thai red chili pepper,,,,,,,
+thai red chili pepper,red chili pepper,"['thai chili pepper', ""bird's eye chili"", 'red chili pepper', 'fresh red chili', 'fresno pepper', 'serrano pepper', 'cayenne pepper', 'red jalapeño', 'thai chili sauce', 'red curry paste']",0000000004712,453.592,/p/red-fresno-chile/0000000004712?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,Produce,1 lb
 rice vermicelli noodles,rice vermicelli noodles,,7065080084.0,249.4756,/p/a-taste-of-thai-vermicelli-rice-noodles/0007065080084?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.49,"Pasta, Sauces, Grain, International",8.8 oz
 butter lettuce,butter lettuce,,1111080470.0,163.0,/p/simple-truth-organic-living-butter-lettuce/0001111080470?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.49,"Natural & Organic, Produce",1 ct
 cucumber,cucumber,,4062.0,200.0,/p/cucumber/0000000004062?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,0.89,Produce,1 ct
@@ -302,7 +302,7 @@ black tea bags,black tea bags,,4100000287.0,200.0,/p/lipton-black-tea-bags/00041
 cinnamon sticks,cinnamon sticks,,1111068399.0,28.3495,/p/kroger-cinnamon-sticks/0001111068399?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.79,Baking Goods,1 oz
 whole cloves,whole cloves,,1111001057.0,35.43687,/p/kroger-whole-cloves/0001111001057?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,Baking Goods,1.25 oz
 ground cardamom,ground cardamom,,1111002369.0,56.98,/p/private-selection-ground-cardamom/0001111002369?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,6.29,Baking Goods,2.01 oz
-high heat oil,high heat oil,,,,,,,
+high heat oil,vegetable oil,"['vegetable oil', 'canola oil', 'peanut oil', 'refined coconut oil', 'avocado oil', 'grapeseed oil', 'frying oil', 'cooking oil']",0001111085606,3482.58,/p/kroger-pure-vegetable-oil/0001111085606?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,9.99,Baking Goods,1 gal
 fresh sweet corn,fresh sweet corn,,1111018183.0,892.0,/p/fresh-sweet-corn-on-the-cob-4-count/0001111018183?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,5.99,"Produce, Produce, Produce",4 ct
 ketchup,ketchup,,1111089232.0,2271.25,/p/kroger-original-tomato-ketchup/0001111089232?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.49,Condiment & Sauces,64 oz
 yellow mustard,yellow mustard,,1111081240.0,566.99,/p/kroger-yellow-mustard/0001111081240?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.29,Condiment & Sauces,20 oz
@@ -337,7 +337,7 @@ chili powder,chili powder,,1111072461.0,198.4465,/p/kroger-chili-powder/00011110
 jalapenos,jalapenos,,4693.0,453.592,/p/fresh-jalapeno-peppers/0000000004693?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.79,"Produce, International",1 lb
 kidney beans,kidney beans,,1111012146.0,439.41725,/p/kroger-dark-red-kidney-beans/0001111012146?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,0.89,Canned & Packaged,15.5 oz
 frozen corn kernels,frozen corn kernels,,1111009159.0,1360.776,/p/simple-truth-organic-frozen-corn-whole-kernel-cut-big-deal-/0001111009159?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,8.49,"Frozen, Natural & Organic",48 oz
-macaroni noodles,macaroni noodles,,,,,,,
+macaroni noodles,elbow macaroni,"['elbow macaroni', 'elbow pasta', 'macaroni pasta', 'pasta elbows', 'short pasta', 'curved pasta']",0001111090664,453.592,/p/kroger-large-elbow-macaroni-pasta/0001111090664?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.33,"Pasta, Sauces, Grain",16 oz
 bone-in chicken,bone-in chicken,,28334850000.0,453.592,/p/heritage-farm-bone-in-skin-on-whole-young-chicken/0028334850000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.49,Meat & Seafood,1 lb
 minced garlic,minced garlic,,7096900111.0,907.184,/p/spice-world-fat-free-minced-garlic-32-oz/0007096900111?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,6.99,Baking Goods,32 oz
 black peppercorns,black peppercorns,,1111070022.0,532.9706,/p/kroger-whole-black-peppercorns/0001111070022?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,16.99,Baking Goods,18.8 oz
@@ -364,7 +364,7 @@ rice vinegar,rice vinegar,,1111000517.0,375.58345,/p/kroger-seasoned-rice-vinega
 beef shoulder roast,beef shoulder roast,,24189700000.0,453.592,/p/beef-choice-boneless-cross-rib-shoulder-roast-1-roast-/0024189700000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,8.49,"Meat & Seafood, Natural & Organic",1 lb
 cumin,cumin,,1111068304.0,45.92619,/p/kroger-ground-cumin/0001111068304?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,Baking Goods,1.62 oz
 shrimp,shrimp,,26944540000.0,453.592,/p/raw-white-shrimp/0026944540000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,7.99,Meat & Seafood,1 lb
-unsweetened coconut shreds,unsweetened coconut shreds,,,,,,,
+unsweetened coconut shreds,unsweetened coconut flakes,"['unsweetened coconut flakes', 'unsweetened shredded coconut', 'shredded coconut', 'desiccated coconut', 'coconut flakes', 'dried coconut', 'grated coconut']",0001111013793,226.796,/p/simple-truth-organic-unsweetened-coconut-flakes/0001111013793?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.49,Natural & Organic,8 oz
 seasoning,seasoning,,2460001058.0,212.62,/p/morton-nature-s-seasons-seasoning-blend/0002460001058?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.69,Baking Goods,7.5 oz
 taco blend cheese,taco blend cheese,,1111050176.0,226.796,/p/kroger-nacho-taco-blend-shredded-cheese/0001111050176?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.49,Dairy,8 oz
 frozen mixed vegetables,frozen mixed vegetables,,1111086585.0,907.184,/p/kroger-meal-ready-sides-frozen-vegetables-mixed/0001111086585?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.99,Frozen,32 oz
@@ -388,10 +388,10 @@ shredded brussels sprouts,shredded brussels sprouts,,4550.0,453.592,/p/brussels-
 d'anjou pear,d'anjou pear,,4417.0,453.592,/p/fresh-large-d-anjou-red-pear-each/0000000004417?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.99,"Produce, Produce",1 lb
 rice paper wrappers,rice paper wrappers,,71146401581.0,133.24265,/p/blue-dragon-spring-roll-wrappers/0071146401581?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.29,International,4.7 oz
 red leaf lettuce,red leaf lettuce,,4075.0,300.0,/p/red-leaf-lettuce/0000000004075?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.49,Produce,1 ct
-bean threads,bean threads,,,,,,,
+bean threads,glass noodles,"['glass noodles', 'cellophane noodles', 'mung bean noodles', 'bean thread noodles', 'Chinese vermicelli', 'Asian transparent noodles', 'vermicelli noodles', 'rice sticks']",0081007555030,99.22325,/p/o-food-korean-style-sweet-potato-glass-noodles/0081007555030?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.49,"Canned & Packaged, International",3.5 oz
 mango,mango,,4959.0,336.0,/p/large-mangos/0000000004959?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.5,Produce,1 ct
 imitation crab meat,imitation crab meat,,1111061834.0,453.592,/p/kroger-flake-style-crab-select-imitation-crab-meat/0001111061834?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,5.79,Meat & Seafood,16 oz
-smooth natural peanut butter,smooth natural peanut butter,,,,,,,
+smooth natural peanut butter,natural creamy peanut butter,"['natural creamy peanut butter', 'smooth natural peanut butter', 'organic creamy peanut butter', 'all-natural peanut butter', 'no-stir natural peanut butter', 'unsweetened peanut butter', 'pure peanut butter']",0001111001649,425.2425,/p/kroger-natural-peanut-butter-creamy/0001111001649?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.29,"Condiment & Sauces, Condiment & Sauces",15 oz
 sriracha hot sauce,sriracha hot sauce,,1111087588.0,481.9415,/p/kroger-sriracha-sauce/0001111087588?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.99,"International, Condiment & Sauces",17 oz
 panko breadcrumbs,panko breadcrumbs,,1111012936.0,226.796,/p/private-selection-traditional-panko-bread-crumbs/0001111012936?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.59,Baking Goods,8 oz
 large flour tortillas,large flour tortillas,,7373107200.0,1133.98,/p/mission-large-flour-burrito-tortillas/0007373107200?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,6.99,"International, Bakery",16 ct / 40 oz
@@ -446,13 +446,13 @@ eggplant,eggplant,,4081.0,548.0,/p/eggplant/0000000004081?cid=dis.api.tpi_produc
 cannellini beans,cannellini beans,,1111012142.0,439.41725,/p/kroger-cannellini-beans/0001111012142?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,0.89,Canned & Packaged,15.5 oz
 sun dried tomatoes in oil,sun dried tomatoes in oil,,1111082350.0,198.4465,/p/private-selection-halved-sun-dried-seasoned-pure-olive-oil-tomatoes/0001111082350?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,6.49,Canned & Packaged,7 oz
 fresh kale,fresh kale,,1111018170.0,453.592,/p/kale-bag/0001111018170?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,Produce,16 oz
-aquafaba,aquafaba,,,,,,,
+aquafaba,chickpea liquid,"['chickpea liquid', 'canned chickpeas', 'garbanzo beans', 'vegan egg substitute', 'plant-based egg replacer', 'chickpeas in water', 'low sodium chickpeas']",0001111012143,439.42,/p/kroger-garbanzo-beans-chickpeas/0001111012143?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,0.89,Canned & Packaged,15.5 oz
 oat bran,oat bran,,4119210399.0,467.77,/p/kellogg-s-cracklin-oat-bran-original-cereal/0004119210399?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,6.49,Breakfast,16.5 oz
 slivered almonds,slivered almonds,,1111002468.0,340.194,/p/simple-truth-slivered-blanched-almonds/0001111002468?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,7.99,Snacks,12 oz
 cucumbers,cucumbers,,4062.0,301.0,/p/cucumber/0000000004062?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,0.89,Produce,1 ct
-short grain white rice,short grain white rice,,,,,,,
+short grain white rice,sushi rice,"['short grain white rice', 'sushi rice', 'pearl rice', 'Japanese rice', 'Calrose rice', 'Arborio rice', 'glutinous rice', 'white rice']",0007341604003,907.184,/p/lundberg-organic-california-sushi-rice/0007341604003?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,12.49,"Pasta, Sauces, Grain, Natural & Organic",32 oz
 imitation crab,imitation crab,,1111061834.0,453.592,/p/kroger-flake-style-crab-select-imitation-crab-meat/0001111061834?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,5.79,Meat & Seafood,16 oz
-nori snack,nori snack,,,,,,,
+nori snack,roasted seaweed snacks,"['roasted seaweed snacks', 'seaweed snacks', 'nori sheets', 'dried seaweed sheets', 'seaweed crisps', 'Korean seaweed snacks', 'crispy seaweed', 'seasoned seaweed snacks']",0001111008837,11.3398,/p/kroger-korean-inspirations-sea-salted-roasted-seaweed-snack/0001111008837?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.49,International,0.4 oz
 refried beans,refried beans,,1111086503.0,453.592,/p/kroger-traditional-refried-beans/0001111086503?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.19,"Canned & Packaged, International",16 oz
 shredded pepper jack cheese,shredded pepper jack cheese,,1111012844.0,226.796,/p/private-selection-jalapeno-pepper-jack-thick-cut-shredded-cheese/0001111012844?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.29,Dairy,8 oz
 canned great northern beans,canned great northern beans,,1111012110.0,439.41725,/p/kroger-great-northern-beans/0001111012110?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,0.89,Canned & Packaged,15.5 oz
@@ -481,10 +481,10 @@ burger seasoning,burger seasoning,,5210014259.0,77.96,/p/mccormick-grill-mates-h
 American cheese,American cheese,,21634100000.0,453.592,/p/kroger-yellow-american-cheese-fresh-sliced-deli-cheese/0021634100000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,10.99,Deli,1 lb
 Hawaiian sweet rolls,Hawaiian sweet rolls,,7343500230.0,680.388,/p/king-s-hawaiian-original-hawaiian-sweet-dinner-rolls-party-pack/0007343500230?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,8.99,Bakery,24 ct / 24 oz
 everything bagel seasoning,everything bagel seasoning,,1111010562.0,450.75705,/p/private-selection-everything-bagel-seasoning/0001111010562?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,9.99,Baking Goods,15.9 oz
-brown lentils,brown lentils,,,,,,,
+brown lentils,dried lentils,"['brown lentils', 'dried lentils', 'whole lentils', 'green lentils', 'organic lentils', 'French lentils', 'Pardina lentils']",0007152401253,453.592,/p/la-preferida-lentils-dry-beans/0007152401253?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.99,"International, Pasta, Sauces, Grain, International",16 oz
 lean ground beef,lean ground beef,,1111096923.0,453.592,/p/kroger-93-7-lean-ground-beef-chili-meat/0001111096923?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,8.29,"Meat & Seafood, Natural & Organic",1 lb
 hamburger buns,hamburger buns,,1111011511.0,340.194,/p/kroger-white-hamburger-buns/0001111011511?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.99,Bakery,8 ct / 12 oz
-5 spice powder,5 spice powder,,,,,,,
+5 spice powder,chinese five spice,"['five spice powder', 'chinese five spice', 'five spice blend', 'chinese spice mix', 'star anise powder', 'anise pepper powder', 'asian spice blend']",0001111002371,46.77,/p/private-selection-chinese-five-spice-blend/0001111002371?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.79,Baking Goods,1.65 oz
 bone-in skin-on chicken pieces,bone-in skin-on chicken pieces,,28334850000.0,453.592,/p/heritage-farm-bone-in-skin-on-whole-young-chicken/0028334850000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.49,Meat & Seafood,1 lb
 rice wine,rice wine,,1115202140.0,295.735,/p/kikkoman-manjo-aji-mirin-cooking-rice-wine/0001115202140?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,"International, Baking Goods",10 fl oz
 chopped cabbage,chopped cabbage,,1111062870.0,283.495,/p/kroger-angel-hair-coleslaw-cabbage/0001111062870?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.29,Produce,10 oz
@@ -518,7 +518,7 @@ mild chili powder,mild chili powder,,1111072461.0,198.4465,/p/kroger-chili-powde
 brown rice,brown rice,,1111089874.0,907.184,/p/kroger-long-grain-brown-rice/0001111089874?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.89,"Pasta, Sauces, Grain",2 lb
 yellow cornmeal,yellow cornmeal,,1111071419.0,680.388,/p/kroger-yellow-corn-meal/0001111071419?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.19,Baking Goods,24 oz
 bulgur,bulgur,,3997811124.0,680.388,/p/bob-s-red-mill-bulgur/0003997811124?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.49,Natural & Organic,24 oz
-yellow grits,yellow grits,,,,,,,
+yellow grits,stone ground yellow grits,"['yellow corn grits', 'corn grits', 'yellow grits', 'stone ground yellow grits', 'polenta', 'yellow corn meal', 'hominy grits', 'instant grits']",0003000004170,680.388,/p/quaker-quick-5-minute-grits/0003000004170?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.29,Breakfast,24 oz
 masa harina,masa harina,,3000002970.0,1995.8048,/p/quaker-corn-tortilla-mix-masa-harina-de-maiz/0003000002970?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,5.99,Bakery,70.4 oz
 iceberg lettuce,iceberg lettuce,,4061.0,539.0,/p/iceberg-lettuce/0000000004061?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.99,Produce,1 ct
 taco seasoning,taco seasoning,,1111009543.0,538.6405,/p/kroger-taco-seasoning/0001111009543?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,7.49,"Baking Goods, International",19 oz
@@ -550,7 +550,7 @@ smoked gouda cheese,smoked gouda cheese,,27617900000.0,453.592,/p/boar-s-head-sm
 shredded Italian cheese,shredded Italian cheese,,1111050205.0,226.796,/p/kroger-italian-style-blend-shredded-cheese/0001111050205?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.49,Dairy,8 oz
 frozen seafood mix,frozen seafood mix,,1111062940.0,453.592,/p/kroger-mercado-seafood-medley/0001111062940?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,5.99,"Meat & Seafood, Meat & Seafood",16 oz
 peeled deveined shrimp,peeled deveined shrimp,,1111096220.0,453.592,/p/kroger-large-raw-shrimp-peeled-deveined-tail-off/0001111096220?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,8.99,Frozen,16 ounces
-crushed red pepper flakes,crushed red pepper flakes,,,,,,,
+crushed red pepper flakes,crushed red pepper,"['crushed red pepper', 'red pepper flakes', 'dried red pepper flakes', 'chili flakes', 'crushed chili flakes', 'red chili flakes', 'cayenne pepper flakes', 'ground red pepper']",0001111000320,120.48,/p/kroger-crushed-red-pepper/0001111000320?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,Baking Goods,4.25 oz
 cooked rice,cooked rice,,64517589041.0,209.7863,/p/ottogi-cooked-rice/0064517589041?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.29,"International, Pasta, Sauces, Grain",7.4 oz
 crumbled feta,crumbled feta,,7027729000.0,340.194,/p/athenos-traditional-crumbled-feta-cheese/0007027729000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,10.99,Deli,12 oz
 lean ground turkey,lean ground turkey,,1111096875.0,453.592,/p/kroger-85-lean-15-fat-ground-turkey/0001111096875?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.49,"Meat & Seafood, Natural & Organic",1 lb
@@ -607,7 +607,7 @@ baby portobello mushrooms,baby portobello mushrooms,,1111062467.0,680.388,/p/kro
 fettuccini,fettuccini,,1111009005.0,453.592,/p/private-selection-italian-fettuccine/0001111009005?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.99,"Pasta, Sauces, Grain",16 oz
 Italian parsley,Italian parsley,,4901.0,60.0,/p/parsley-italian/0000000004901?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,0.99,Produce,1 ct
 pumpkin puree,pumpkin puree,,1111081401.0,822.1355,/p/kroger-100-pure-canned-pumpkin-puree/0001111081401?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.79,"Baking Goods, Canned & Packaged",29 oz
-anchovy filets,anchovy filets,,,,,,,
+anchovy filets,canned anchovies,"['anchovy fillets', 'canned anchovies', 'anchovies in olive oil', 'flat anchovy fillets', 'salted anchovies', 'marinated anchovies', 'anchovy paste', 'sardines']",0001111090561,56.699,/p/kroger-flat-anchovies-in-olive-oil-salt/0001111090561?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.49,Canned & Packaged,2 oz
 capers,capers,,1111082527.0,103.5,/p/private-selection-non-pareil-capers/0001111082527?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.79,Canned & Packaged,3.5 fl oz
 boneless skinless chicken,boneless skinless chicken,,28334900000.0,453.592,/p/heritage-farm-boneless-skinless-chicken-breasts/0028334900000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.69,Meat & Seafood,1 lb
 orange,orange,,3107.0,140.0,/p/navel-oranges/0000000003107?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,0.99,Produce,1 ct
@@ -622,7 +622,7 @@ cloves,cloves,,1111001057.0,35.43687,/p/kroger-whole-cloves/0001111001057?cid=di
 black eyed peas,black eyed peas,,1111071785.0,439.41725,/p/kroger-black-eyed-peas/0001111071785?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.39,Canned & Packaged,15.5 oz
 fresh greens,fresh greens,,4061.0,539.0,/p/iceberg-lettuce/0000000004061?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.99,Produce,1 ct
 burger buns,burger buns,,1111011511.0,340.194,/p/kroger-white-hamburger-buns/0001111011511?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.99,Bakery,8 ct / 12 oz
-cooked farro,cooked farro,,,,,,,
+cooked farro,farro,"['farro', 'whole grain farro', 'pearled farro', 'quick cook farro', 'emmer wheat', 'wheat berries', 'barley', 'ancient grains']",0001111086720,907.184,/p/kroger-low-fat-farro/0001111086720?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,6.49,"Pasta, Sauces, Grain",16 oz
 ground pepper,ground pepper,,1111070023.0,510.291,/p/kroger-pure-ground-black-pepper/0001111070023?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,15.99,Baking Goods,18 oz
 sofrito,sofrito,,4133109063.0,396.893,/p/goya-frozen-sofrito/0004133109063?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,5.49,"Frozen, International, International",14 oz
 pimento-stuffed green olives,pimento-stuffed green olives,,1111011597.0,595.3395,/p/kroger-pimiento-stuffed-green-manzanilla-olives/0001111011597?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,5.49,Canned & Packaged,21 oz
@@ -637,14 +637,14 @@ frozen banana,frozen banana,,1111012577.0,453.592,/p/private-selection-frozen-sl
 ground flaxseed,ground flaxseed,,1111008287.0,453.592,/p/simple-truth-organic-whole-ground-flaxseed-meal/0001111008287?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,"Baking Goods, Natural & Organic",16 oz
 unsweetened almond milk,unsweetened almond milk,,2529300149.0,2082.0,/p/silk-unsweetened-almond-milk/0002529300149?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.49,"Natural & Organic, Dairy",.5 gal
 cooked jasmine rice,cooked jasmine rice,,1111001950.0,249.48,/p/kroger-90-second-jasmine-rice-pouch/0001111001950?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.59,"Pasta, Sauces, Grain",8.8 oz
-pineapple jam,pineapple jam,,,,,,,
+pineapple jam,crushed pineapple,"['pineapple preserves', 'pineapple spread', 'pineapple fruit spread', 'pineapple jam', 'tropical fruit jam', 'pineapple jelly', 'crushed pineapple']",0001111083129,566.99,/p/kroger-canned-crushed-pineapple-in-pineapple-juice/0001111083129?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.49,Canned & Packaged,20 oz
 bone-in chicken thighs,bone-in chicken thighs,,28334750000.0,453.592,/p/heritage-farm-bone-in-skin-on-chicken-thighs/0028334750000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.99,Meat & Seafood,1 lb
 whole wheat flour,whole wheat flour,,1111084498.0,2267.96,/p/kroger-traditional-whole-wheat-flour/0001111084498?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.69,Baking Goods,5 lb
 yeast,yeast,,1792900020.0,21.26,/p/red-star-all-natural-active-dry-yeast/0001792900020?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.19,Baking Goods,3 ct / 0.25 oz
 pepperoni,pepperoni,,1111099380.0,170.097,/p/kroger-sliced-pepperoni/0001111099380?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.99,Meat & Seafood,6 oz
 sliced black olives,sliced black olives,,70581472836.0,184.27,/p/early-california-sliced-ripe-black-olives/0070581472836?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,"Natural & Organic, Canned & Packaged",6.5 oz
 canned mushrooms,canned mushrooms,,1111012712.0,226.796,/p/kroger-canned-mushrooms/0001111012712?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.79,Canned & Packaged,8 oz
-melted butter,melted butter,,,,,,,
+melted butter,butter,"['butter', 'unsalted butter', 'salted butter', 'liquid butter', 'clarified butter', 'ghee', 'drawn butter', 'butter spread']",0001111089305,453.592,/p/kroger-unsalted-butter-sticks/0001111089305?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.49,Dairy,16 oz
 pecan pieces,pecan pieces,,1111010703.0,453.592,/p/kroger-pecan-pieces/0001111010703?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,13.99,Baking Goods,16 oz
 ground turkey,ground turkey,,1111096875.0,453.592,/p/kroger-85-lean-15-fat-ground-turkey/0001111096875?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.49,"Meat & Seafood, Natural & Organic",1 lb
 dry macaroni,dry macaroni,,1111085021.0,453.592,/p/kroger-elbow-macaroni/0001111085021?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.33,"Pasta, Sauces, Grain",16 oz
@@ -656,8 +656,8 @@ old-fashioned oats,old-fashioned oats,,1111076655.0,1190.679,/p/kroger-old-fashi
 boneless beef rump roast,boneless beef rump roast,,28227900000.0,453.592,/p/beef-choice-bottom-round-roast-1-roast-/0028227900000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,8.49,"Meat & Seafood, Natural & Organic",1 lb
 long-grain white rice,long-grain white rice,,1111089875.0,907.184,/p/kroger-enriched-long-grain-white-rice/0001111089875?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.89,"Pasta, Sauces, Grain",32 oz
 jalapeños,jalapeños,,4693.0,453.592,/p/fresh-jalapeno-peppers/0000000004693?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.79,"Produce, International",1 lb
-fresh lime juice,fresh lime juice,,,,,,,
-grated fresh ginger,grated fresh ginger,,,,,,,
+fresh lime juice,lime juice,"['lime juice', '100% lime juice', 'pure lime juice', 'bottled lime juice', 'squeezed lime juice', 'natural lime juice', 'unsweetened lime juice']",0001111072822,443.55,/p/kroger-lime-juice/0001111072822?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.99,Beverages,15 fl oz
+grated fresh ginger,minced ginger,"['minced ginger', 'fresh ginger root', 'ginger paste', 'crushed ginger', 'chopped ginger', 'ground ginger']",0000000004612,453.592,/p/ginger-root/0000000004612?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.69,Produce,1 lb
 linguine,linguine,,1111008991.0,453.592,/p/private-selection-italian-linguine/0001111008991?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.99,"Pasta, Sauces, Grain",16 oz
 baby spinach,baby spinach,,1111091151.0,453.592,/p/simple-truth-organic-baby-spinach-big-deal-/0001111091151?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,5.99,"Produce, Produce",16 oz
 flour,flour,,1111085403.0,4535.92,/p/kroger-bleached-all-purpose-enriched-flour/0001111085403?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,Baking Goods,10 lb
@@ -672,14 +672,14 @@ ricotta cheese,ricotta cheese,,1111048987.0,850.485,/p/kroger-whole-milk-ricotta
 raspberry jam,raspberry jam,,1111012377.0,510.291,/p/kroger-raspberry-jam-seedless/0001111012377?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,Condiment & Sauces,18 oz
 English muffins,English muffins,,1111002510.0,340.194,/p/kroger-english-muffins-original/0001111002510?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.69,Breakfast,6 ct / 12 oz
 ham slices,ham slices,,26387250000.0,453.592,/p/kentucky-legend-quarter-sliced-ham-limit-1-at-sale-price/0026387250000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,Meat & Seafood,1 lb
-ginger powder,ginger powder,,,,,,,
+ginger powder,ground ginger,"['ground ginger', 'powdered ginger', 'dried ginger', 'ginger spice', 'ground dried ginger root', 'ginger root powder', 'ginger seasoning']",0001111068284,42.52425,/p/kroger-ground-ginger/0001111068284?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,Baking Goods,1.5 oz
 banana pepper rings,banana pepper rings,,1111009092.0,473.0,/p/kroger-mild-banana-pepper-rings/0001111009092?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.49,Produce,16 fl oz
 farro,farro,,1111086720.0,453.592,/p/kroger-low-fat-farro/0001111086720?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,6.49,"Pasta, Sauces, Grain",16 oz
 English cucumber,English cucumber,,4593.0,325.0,/p/english-cucumber/0000000004593?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.5,Produce,1 ct
 chunk light tuna,chunk light tuna,,1111089084.0,141.7475,/p/kroger-wild-caught-chunk-light-tuna-in-water/0001111089084?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,0.89,Canned & Packaged,5 oz
-uncooked rice,uncooked rice,,,,,,,
+uncooked rice,rice,"['rice', 'white rice', 'long grain rice', 'brown rice', 'raw rice', 'dry rice', 'jasmine rice', 'basmati rice', 'instant rice', 'short grain rice']",0001111084706,4535.92,/p/kroger-long-grain-rice/0001111084706?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,6.99,"Pasta, Sauces, Grain",10 lb
 butter beans,butter beans,,7227313410.0,255.0,/p/kuner-s-butter-beans/0007227313410?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.19,Canned & Packaged,15 oz
-dry red lentils,dry red lentils,,,,,,,
+dry red lentils,red lentils,"['red lentils', 'dry red lentils', 'split red lentils', 'red split lentils', 'masoor dal', 'organic red lentils', 'lentils', 'red split peas']",0001111089816,453.592,/p/kroger-red-lentils/0001111089816?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.29,"Pasta, Sauces, Grain",16 oz
 corn cobs,corn cobs,,1111018183.0,892.0,/p/fresh-sweet-corn-on-the-cob-4-count/0001111018183?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,5.99,"Produce, Produce, Produce",4 ct
 pita bread,pita bread,,7312400106.0,340.194,/p/toufayan-classic-white-pita-loaves-6-count/0007312400106?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.99,Bakery,12 oz
 Italian dressing,Italian dressing,,1111009903.0,1171.17,/p/kroger-zesty-italian-salad-dressing-marinade/0001111009903?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,"Condiment & Sauces, Condiment & Sauces",36 fl oz
@@ -710,7 +710,7 @@ pork sausage,pork sausage,,7790011553.0,453.592,/p/jimmy-dean-premium-pork-regul
 frozen sweet cherries,frozen sweet cherries,,1111008222.0,453.592,/p/private-selection-frozen-dark-sweet-cherries/0001111008222?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.49,Frozen,16 oz
 wonton wrappers,wonton wrappers,,1115223004.0,340.194,/p/dynasty-won-ton-wrappers/0001115223004?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,Frozen,12 oz
 non-stick cooking spray,non-stick cooking spray,,1111012242.0,337.14,/p/kroger-non-stick-vegetable-oil-cooking-spray-twin-pack/0001111012242?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,Baking Goods,2 ct / 6 oz
-grated ginger,grated ginger,,,,,,,
+grated ginger,minced ginger,"['minced ginger', 'grated ginger', 'fresh ginger root', 'ginger paste', 'crushed ginger', 'chopped ginger', 'ground ginger']",0007457483225,120.48,/p/christopher-ranch-chopped-ginger/0007457483225?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,Produce,4.25 oz
 gyoza wrappers,gyoza wrappers,,1115223001.0,283.495,/p/dynasty-gyoza-potsticker-wrappers/0001115223001?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.29,Frozen,10 oz
 seasoning blend,seasoning blend,,2460001058.0,212.62125,/p/morton-nature-s-seasons-seasoning-blend/0002460001058?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.69,Baking Goods,7.5 oz
 dry red beans,dry red beans,,1111089622.0,453.592,/p/kroger-small-red-beans/0001111089622?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.99,"Pasta, Sauces, Grain",16 oz
@@ -740,10 +740,10 @@ beets,beets,,94539.0,453.592,/p/organic-red-beets/0000000094539?cid=dis.api.tpi_
 pepitas,pepitas,,1111002758.0,411.06775,/p/pre-packaged-bulk-raw-pepitas/0001111002758?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,7.29,Snacks,14.5 oz
 canned black eyed peas,canned black eyed peas,,1111071785.0,439.41725,/p/kroger-black-eyed-peas/0001111071785?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.49,Canned & Packaged,15.5 oz
 five spice blend,five spice blend,,1111002371.0,46.77,/p/private-selection-chinese-five-spice-blend/0001111002371?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.79,Baking Goods,1.65 oz
-wide rice noodles,wide rice noodles,,,,,,,
+wide rice noodles,pad thai noodles,"['wide rice noodles', 'pad thai noodles', 'flat rice noodles', 'stir-fry rice noodles', 'asian-style rice noodles', 'rice stick noodles', 'banh pho noodles', 'gluten-free rice noodles']",0001341202172,396.893,/p/butterfly-brand-pad-thai-noodle/0001341202172?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.29,"International, Pasta, Sauces, Grain",14 oz
 hoisin sauce,hoisin sauce,,1111085181.0,433.75,/p/kroger-hoisin-sauce/0001111085181?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,International,15.3 oz
 canned kidney beans,canned kidney beans,,1111012146.0,439.42,/p/kroger-dark-red-kidney-beans/0001111012146?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,0.89,Canned & Packaged,15.5 oz
-cooked black beans,cooked black beans,,,,,,,
+cooked black beans,canned black beans,"['canned black beans', 'black beans', 'ready-to-eat black beans', 'prepared black beans', 'no salt added black beans', 'organic black beans', 'bean medley']",0001111012115,439.42,/p/kroger-black-beans/0001111012115?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,0.89,Canned & Packaged,15.5 oz
 curly leaf parsley,curly leaf parsley,,94899.0,60.0,/p/organic-parsley-curly/0000000094899?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.59,Produce,each
 ranch seasoning,ranch seasoning,,1111068848.0,28.3495,/p/kroger-ranch-salad-dressing-seasoning-mix-packet/0001111068848?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,0.79,Condiment & Sauces,1 oz
 chicken drumsticks,chicken drumsticks,,7496096808.0,2041.164,/p/kroger-fresh-chicken-drumsticks/0007496096808?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,5.0,Meat & Seafood,4.5 lbs
@@ -764,7 +764,7 @@ hulled hemp seeds,hulled hemp seeds,,1111000677.0,226.796,/p/simple-truth-organi
 sweetener,sweetener,,7210002600.0,907.184,/p/imperial-pure-granulated-cane-sugar/0007210002600?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.99,Baking Goods,2 lb
 frozen mango chunks,frozen mango chunks,,1111008288.0,1360.776,/p/private-selection-frozen-tropical-mango-chunks/0001111008288?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,9.99,Frozen,48 oz
 lite coconut milk,lite coconut milk,,1111090415.0,411.2172,/p/kroger-lite-coconut-milk/0001111090415?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.49,"International, Dairy",13.5 fl oz
-neutral oil,neutral oil,,,,,,,
+neutral oil,vegetable oil,"['vegetable oil', 'canola oil', 'cooking oil', 'all-purpose oil', 'grapeseed oil', 'sunflower oil', 'light olive oil']",0001111085606,3482.58,/p/kroger-pure-vegetable-oil/0001111085606?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,9.99,Baking Goods,1 gal
 mangoes,mangoes,,4959.0,336.0,/p/large-mangos/0000000004959?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.5,Produce,1 ct
 canned pineapple,canned pineapple,,1111083141.0,566.99,/p/kroger-canned-pineapple-chunks-in-pineapple-juice/0001111083141?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.69,Canned & Packaged,20 oz
 cider vinegar,cider vinegar,,1111086203.0,3596.14,/p/kroger-apple-cider-vinegar/0001111086203?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,6.49,Baking Goods,1 gal
@@ -776,7 +776,7 @@ Italian ground sausage,Italian ground sausage,,1111097272.0,453.592,/p/kroger-mi
 cheese tortellini,cheese tortellini,,1111012404.0,538.6405,/p/kroger-cheese-tortellini/0001111012404?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.79,Frozen,19 oz
 shredded green cabbage,shredded green cabbage,,1111062870.0,283.495,/p/kroger-angel-hair-coleslaw-cabbage/0001111062870?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.29,Produce,10 oz
 lacinato kale,lacinato kale,,98301.0,453.592,/p/organic-lacinato-kale/0000000098301?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.99,"Natural & Organic, Produce",1 lb
-neutral salad oil,neutral salad oil,,0004133536380,435.27,/p/ken-s-steak-house-simply-vinaigrette-classic-oil-vinegar-salad-dressing/0004133536380?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.69,Condiment & Sauces,16 fl oz
+neutral salad oil,neutral salad oil,,4133536380.0,435.27,/p/ken-s-steak-house-simply-vinaigrette-classic-oil-vinegar-salad-dressing/0004133536380?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.69,Condiment & Sauces,16 fl oz
 shredded red cabbage,shredded red cabbage,,4554.0,453.592,/p/red-cabbage/0000000004554?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.29,Produce,1 lb
 frozen shelled edamame,frozen shelled edamame,,1111085661.0,453.592,/p/private-selection-frozen-edamame/0001111085661?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.29,Frozen,16 oz
 chunk light tuna in water,chunk light tuna in water,,1111089084.0,141.7475,/p/kroger-wild-caught-chunk-light-tuna-in-water/0001111089084?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,0.89,Canned & Packaged,5 oz
@@ -784,8 +784,8 @@ bread crumbs,bread crumbs,,1111013526.0,425.2425,/p/kroger-plain-bread-crumbs/00
 plain whole milk yogurt,plain whole milk yogurt,,1111013600.0,907.184,/p/kroger-plain-whole-milk-greek-yogurt-cultured-dairy-blend-tub/0001111013600?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.29,Dairy,32 oz
 balsamic vinegar,balsamic vinegar,,1111000522.0,503.28,/p/kroger-balsamic-vinegar/0001111000522?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.49,Baking Goods,12.7 fl oz
 whole milk mozzarella,whole milk mozzarella,,1111001798.0,226.796,/p/kroger-whole-milk-mozzarella-shredded-cheese/0001111001798?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.49,Dairy,8 oz
-ripe bananas,ripe bananas,,,,,,,
-small onion,small onion,,,,,,,
+ripe bananas,bananas,"['bananas', 'yellow bananas', 'fresh bananas', 'ripe bananas', 'banana bunch', 'single bananas', 'Cavendish bananas', 'ready-to-eat bananas']",0000000004011,453.592,/p/fresh-banana-single/0000000004011?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,0.55,Produce,1 lb
+small onion,yellow onion,"['yellow onion', 'white onion', 'red onion', 'pearl onions', 'boiling onions', 'shallots', 'sweet onion', 'cipollini onions', 'onion']",0000000004093,115,/p/medium-yellow-onions/0000000004093?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,0.99,Produce,1 lb
 Worcestershire sauce,Worcestershire sauce,,1111071928.0,487.96275,/p/kroger-worcestershire-sauce/0001111071928?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.19,"Condiment & Sauces, Meat & Seafood",15 oz
 bbq sauce,bbq sauce,,1111067459.0,510.291,/p/kroger-this-is-the-original-bbq-sauce/0001111067459?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.69,"Condiment & Sauces, Meat & Seafood",18 oz
 shredded sweetened coconut,shredded sweetened coconut,,1111013796.0,396.893,/p/kroger-sweetened-coconut-flakes/0001111013796?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.59,Natural & Organic,14 oz
@@ -796,12 +796,12 @@ italian sausage,italian sausage,,1111097272.0,453.592,/p/kroger-mild-italian-gro
 frozen peppers and onions,frozen peppers and onions,,1111089786.0,340.194,/p/kroger-recipe-beginnings-frozen-peppers-onions-blend/0001111089786?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.59,Frozen,12 oz
 frozen kale,frozen kale,,1111001134.0,340.194,/p/simple-truth-organic-frozen-kale-chopped/0001111001134?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.69,"Frozen, Natural & Organic",12 oz
 italian ground sausage,italian ground sausage,,1111097272.0,453.592,/p/kroger-mild-italian-ground-sausage/0001111097272?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,"Meat & Seafood, Meat & Seafood, Natural & Organic",16 oz
-celery stalk,celery stalk,,,,,,,
+celery stalk,celery,"['celery', 'fresh celery', 'celery stalks', 'whole celery', 'celery ribs', 'green celery', 'pascal celery', 'celery hearts']",0000000004070,453.592,/p/celery/0000000004070?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.69,Produce,1 lb
 red lentils,red lentils,,1111089816.0,453.592,/p/kroger-red-lentils/0001111089816?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.29,"Pasta, Sauces, Grain",16 oz
 pico de gallo,pico de gallo,,71752479115.0,340.194,/p/medium-pico-de-gallo/0071752479115?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,Produce,12 oz
 avocados,avocados,,1111018180.0,600.0,/p/kroger-fresh-avocados-in-4-count-bag/0001111018180?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,Produce,4 ct
 champagne mangoes,champagne mangoes,,4959.0,336.0,/p/large-mangos/0000000004959?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.5,Produce,1 ct
-powdered ginger,powdered ginger,,,,,,,
+powdered ginger,ground ginger,"['ground ginger', 'ginger powder', 'dried ginger powder', 'ginger spice', 'dried ground ginger', 'pulverized ginger']",0001111068284,42.52425,/p/kroger-ground-ginger/0001111068284?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,Baking Goods,1.5 oz
 frozen shrimp,frozen shrimp,,1111096605.0,453.592,/p/kroger-medium-raw-shrimp-shell-on/0001111096605?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,8.99,"Frozen, Meat & Seafood",16 ounces
 pitas,pitas,,7312400106.0,340.194,/p/toufayan-classic-white-pita-loaves-6-count/0007312400106?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.99,Bakery,12 oz
 imitation lobster,imitation lobster,,1111022116.0,198.4465,/p/kroger-chunk-style-lobster-select-imitation-lobster-meat/0001111022116?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.49,Meat & Seafood,7 oz
@@ -822,14 +822,14 @@ chopped pecans,chopped pecans,,1111010703.0,453.592,/p/kroger-pecan-pieces/00011
 Caesar dressing,Caesar dressing,,1111004867.0,473.176,/p/kroger-classic-caesar-salad-dressing/0001111004867?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.49,Condiment & Sauces,16 fl oz
 sauerkraut,sauerkraut,,1111081423.0,907.184,/p/kroger-shredded-sauerkraut/0001111081423?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.49,Canned & Packaged,32 oz
 whole grain mustard,whole grain mustard,,1111078395.0,248.058,/p/private-selection-garlic-whole-grain-mustard/0001111078395?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.69,Condiment & Sauces,8.75 oz
-broccoli stem,broccoli stem,,,,,,,
+broccoli stem,broccoli stems,"['broccoli stems', 'broccoli stalks', 'whole broccoli', 'fresh broccoli', 'broccoli florets and stems', 'cut broccoli', 'broccoli crowns', 'broccoli slaw']",0001111010301,907.184,/p/kroger-traditional-favorites-frozen-broccoli-cuts/0001111010301?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.99,Frozen,32 oz
 sauce,sauce,,1111013410.0,680.388,/p/kroger-classic-tomato-traditional-pasta-sauce/0001111013410?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.99,"Pasta, Sauces, Grain",24 oz
 toppings,toppings,,7069027127.0,141.75,/p/fisher-nut-mixed-nut-variety-topping/0007069027127?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.69,Frozen,5 oz
 boneless chicken breasts,boneless chicken breasts,,28334900000.0,453.592,/p/heritage-farm-boneless-skinless-chicken-breasts/0028334900000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.69,Meat & Seafood,1 lb
 stuffing,stuffing,,1111089300.0,170.097,/p/kroger-turkey-flavored-stuffing-mix/0001111089300?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.29,Canned & Packaged,6 oz
-chopped turkey,chopped turkey,,,,,,,
+chopped turkey,turkey breast pieces,"['diced turkey', 'turkey chunks', 'cubed turkey', 'turkey breast pieces', 'sliced turkey breast', 'oven roasted turkey breast', 'ground turkey', 'turkey breast']",0005190001602,453.592,/p/land-o-frost-premium-oven-roasted-turkey-breast-lunch-meat/0005190001602?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,6.79,Meat & Seafood,16 oz
 frozen mixed berries,frozen mixed berries,,7120206429.0,1133.98,/p/dole-mixed-berries-pre-portioned-frozen-fruit-bags/0007120206429?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,13.49,Frozen,40 oz
-cold butter,cold butter,,,,,,,
+cold butter,butter,"['butter', 'unsalted butter', 'salted butter', 'stick butter', 'sweet cream butter', 'European-style butter']",0001111089301,453.592,/p/kroger-salted-butter-sticks/0001111089301?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.49,Dairy,16 oz
 yogurt,yogurt,,89470001013.0,907.184,/p/chobani-plain-nonfat-greek-yogurt-tub/0089470001013?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,6.49,Dairy,32 oz
 turkey,turkey,,21006250000.0,453.592,/p/kroger-whole-frozen-turkey-10-14-lb-limit-1-at-sale-price/0021006250000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.89,Meat & Seafood,1 lb
 brie cheese,brie cheese,,29647680000.0,453.592,/p/murray-s-brie-cheese-sold-in-pound-units-/0029647680000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,12.99,Deli,1 lb
@@ -842,7 +842,7 @@ mini sweet peppers,mini sweet peppers,,1111018181.0,453.592,/p/kroger-mini-sweet
 thin spaghetti,thin spaghetti,,1111085020.0,453.592,/p/kroger-thin-spaghetti/0001111085020?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.33,"Pasta, Sauces, Grain",16 oz
 light coconut milk,light coconut milk,,1111090415.0,399.24,/p/kroger-lite-coconut-milk/0001111090415?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.49,"International, Dairy",13.5 fl oz
 frozen berries,frozen berries,,1111008254.0,1360.776,/p/private-selection-triple-berry-blend-frozen-fruit/0001111008254?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,10.99,Frozen,48 oz
-cod steaks,cod steaks,,,,,,,
+cod steaks,cod fillets,"['cod steaks', 'cod fillets', 'fresh cod', 'frozen cod', 'wild-caught cod', 'white fish steaks', 'pacific cod', 'atlantic cod', 'haddock steaks']",0001111077998,907.184,/p/kroger-frozen-wild-caught-cod-fillets-big-deal-/0001111077998?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,13.99,Meat & Seafood,32 oz
 shredded Italian cheese blend,shredded Italian cheese blend,,1111050205.0,226.796,/p/kroger-italian-style-blend-shredded-cheese/0001111050205?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.49,Dairy,8 oz
 Panko breadcrumbs,Panko breadcrumbs,,1111012936.0,226.796,/p/private-selection-traditional-panko-bread-crumbs/0001111012936?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.59,Baking Goods,8 oz
 maple syrup,maple syrup,,1111085820.0,946.352,/p/private-selection-100-pure-grade-a-amber-maple-syrup/0001111085820?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,18.99,Breakfast,32 fl oz
@@ -873,9 +873,9 @@ Lacinato Kale,Lacinato Kale,,98301.0,453.592,/p/organic-lacinato-kale/0000000098
 Cannellini beans,Cannellini beans,,1111012142.0,439.41725,/p/kroger-cannellini-beans/0001111012142?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,0.89,Canned & Packaged,15.5 oz
 chopped cooked chicken,chopped cooked chicken,,1111013619.0,623.689,/p/kroger-grilled-chicken-breast-dices/0001111013619?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,7.99,"Meat & Seafood, Frozen",22 oz
 frozen roasted corn kernels,frozen roasted corn kernels,,1111014023.0,340.194,/p/simple-truth-organic-steamable-fire-roasted-corn/0001111014023?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.49,"Natural & Organic, Frozen",12 oz
-8-inch tortillas,8-inch tortillas,,,,,,,
+8-inch tortillas,soft taco size tortillas,"['soft taco size tortillas', '8 inch tortillas', 'fajita size tortillas', 'medium size tortillas', 'flour tortillas', 'taco tortillas', 'wraps', 'corn tortillas']",0001111005265,496.11625,/p/kroger-soft-taco-size-flour-tortillas/0001111005265?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.99,International,10 ct / 17.5 oz
 small corn tortillas,small corn tortillas,,1111099028.0,680.388,/p/kroger-white-corn-tortillas/0001111099028?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.19,"International, International",30 ct / 24 oz
-delicata squash,delicata squash,,,,,,,
+delicata squash,butternut squash,"['delicata squash', 'sweet potato squash', 'peanut squash', 'bohemian squash', 'winter squash', 'acorn squash', 'butternut squash', 'kabocha squash']",0000000004759,453.592,/p/butternut-squash/0000000004759?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.29,"Produce, Produce",1 lb
 poblano pepper,poblano pepper,,4705.0,453.592,/p/fresh-poblano-peppers/0000000004705?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.69,"Produce, International",1 lb
 jalapeño pepper,jalapeño pepper,,4693.0,453.592,/p/fresh-jalapeno-peppers/0000000004693?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.79,"Produce, International",1 lb
 couscous,couscous,,1111012270.0,198.4465,/p/kroger-original-couscous/0001111012270?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.49,"Pasta, Sauces, Grain",7 oz
@@ -922,8 +922,8 @@ granola,granola,,1111013881.0,311.8445,/p/kroger-oats-honey-granola/000111101388
 chipotle peppers in adobo sauce,chipotle peppers in adobo sauce,,1111088003.0,198.4465,/p/kroger-gluten-free-whole-chipotle-peppers-in-adobo-sauce/0001111088003?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.49,Canned & Packaged,7 oz
 tomatoes,tomatoes,,4087.0,453.592,/p/fresh-roma-tomato/0000000004087?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.49,"Produce, Produce",1 lb
 Everything Bagel seasoning,Everything Bagel seasoning,,1111010562.0,450.75705,/p/private-selection-everything-bagel-seasoning/0001111010562?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,9.99,Baking Goods,15.9 oz
-neutral cooking oil,neutral cooking oil,,,,,,,
-flat leaf parsley,flat leaf parsley,,,,,,,
+neutral cooking oil,vegetable oil,"['vegetable oil', 'canola oil', 'cooking oil', 'all-purpose oil', 'corn oil', 'frying oil', 'sunflower oil', 'grapeseed oil', 'baking oil']",0001111085606,3484.16,/p/kroger-pure-vegetable-oil/0001111085606?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,9.99,Baking Goods,1 gal
+flat leaf parsley,Italian parsley,"['flat leaf parsley', 'Italian parsley', 'fresh parsley', 'parsley', 'organic parsley', 'curly parsley', 'fresh herbs', 'cilantro']",0000000004901,60,/p/parsley-italian/0000000004901?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,0.99,Produce,1 ct
 lard,lard,,7010007090.0,1814.368,/p/morrell-manteca-snow-cap-lard/0007010007090?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,9.79,Baking Goods,4 lb
 French loaf,French loaf,,89049700043.0,524.47,/p/ace-bakery-french-loaf/0089049700043?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,"Bakery, Bakery",18.5 oz
 pickled jalapeno,pickled jalapeno,,7639710515.0,1814.368,/p/la-costena-pickled-jalapeno-nacho-slices/0007639710515?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,6.99,"International, Canned & Packaged",64 oz
@@ -933,61 +933,61 @@ shredded Swiss cheese,shredded Swiss cheese,,1111008388.0,226.796,/p/private-sel
 fresh Italian parsley,fresh Italian parsley,,4901.0,60.0,/p/parsley-italian/0000000004901?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,0.99,Produce,1 ct
 sambal oelek,sambal oelek,,2446306107.0,226.796,/p/huy-fong-sambal-oelek-chili-paste/0002446306107?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.49,International,8 oz
 rolls,rolls,,1111011047.0,340.194,/p/kroger-carbmaster-white-dinner-rolls/0001111011047?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.29,Bakery,12 ct / 12 oz
-canned pineapple chunks,canned pineapple chunks,,0001111083141,566.99,/p/kroger-canned-pineapple-chunks-in-pineapple-juice/0001111083141?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.69,Canned & Packaged,20 oz
-frozen broccoli and cauliflower,frozen broccoli and cauliflower,,0001450002132,306.1746,/p/birds-eye-steamfresh-broccoli-and-cauliflower-frozen-vegetables/0001450002132?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.99,Frozen,10.800 oz
-pork shoulder,pork shoulder,,0023896500000,453.592,/p/kroger-natural-fresh-pork-boneless-shoulder-butt/0023896500000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.79,Meat & Seafood,1 lb
-coffee beans,coffee beans,,0001111006368,566.99,/p/private-selection-kona-blend-medium-roast-whole-bean-coffee/0001111006368?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,14.49,Beverages,20 oz
-whole wheat spaghetti,whole wheat spaghetti,,0007680800584,453.592,/p/barilla-whole-grain-spaghetti-non-gmo-and-kosher-pasta-made-with-whole-wheat/0007680800584?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.99,"Pasta, Sauces, Grain",16 oz
-2% cottage cheese,2% cottage cheese,,0001111045045,680.388,/p/kroger-2-low-fat-small-curd-cottage-cheese/0001111045045?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.29,Dairy,24 oz
-jam,jam,,0001111012376,510.291,/p/kroger-strawberry-jam/0001111012376?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.19,Condiment & Sauces,18 oz
-hard boiled egg,hard boiled egg,,0074602520246,263.65,/p/easy-eggs-peeled-hard-cooked-eggs/0074602520246?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,Dairy,9.3 oz
-canned pineapple tidbits,canned pineapple tidbits,,0001111083155,566.99,/p/kroger-canned-pineapple-tidbits-in-pineapple-juice/0001111083155?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.49,Canned & Packaged,20 oz
-Italian shredded cheese blend,Italian shredded cheese blend,,0001111050205,226.796,/p/kroger-italian-style-blend-shredded-cheese/0001111050205?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.49,Dairy,8 oz
-shredded monterrey jack,shredded monterrey jack,,0001111058086,907.184,/p/kroger-monterey-jack-shredded-cheese/0001111058086?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,7.99,Dairy,32 oz
-large tortillas,large tortillas,,0007373107200,1133.98,/p/mission-large-flour-burrito-tortillas/0007373107200?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,6.99,"International, Bakery",16 ct / 40 oz
-Mexican crema,Mexican crema,,0004274312308,425.2425,/p/el-mexicano-crema-mexicana-grade-a-sour-cream/0004274312308?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,Dairy,15 oz
+canned pineapple chunks,canned pineapple chunks,,1111083141.0,566.99,/p/kroger-canned-pineapple-chunks-in-pineapple-juice/0001111083141?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.69,Canned & Packaged,20 oz
+frozen broccoli and cauliflower,frozen broccoli and cauliflower,,1450002132.0,306.1746,/p/birds-eye-steamfresh-broccoli-and-cauliflower-frozen-vegetables/0001450002132?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.99,Frozen,10.800 oz
+pork shoulder,pork shoulder,,23896500000.0,453.592,/p/kroger-natural-fresh-pork-boneless-shoulder-butt/0023896500000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.79,Meat & Seafood,1 lb
+coffee beans,coffee beans,,1111006368.0,566.99,/p/private-selection-kona-blend-medium-roast-whole-bean-coffee/0001111006368?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,14.49,Beverages,20 oz
+whole wheat spaghetti,whole wheat spaghetti,,7680800584.0,453.592,/p/barilla-whole-grain-spaghetti-non-gmo-and-kosher-pasta-made-with-whole-wheat/0007680800584?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.99,"Pasta, Sauces, Grain",16 oz
+2% cottage cheese,2% cottage cheese,,1111045045.0,680.388,/p/kroger-2-low-fat-small-curd-cottage-cheese/0001111045045?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.29,Dairy,24 oz
+jam,jam,,1111012376.0,510.291,/p/kroger-strawberry-jam/0001111012376?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.19,Condiment & Sauces,18 oz
+hard boiled egg,hard boiled egg,,74602520246.0,263.65,/p/easy-eggs-peeled-hard-cooked-eggs/0074602520246?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,Dairy,9.3 oz
+canned pineapple tidbits,canned pineapple tidbits,,1111083155.0,566.99,/p/kroger-canned-pineapple-tidbits-in-pineapple-juice/0001111083155?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.49,Canned & Packaged,20 oz
+Italian shredded cheese blend,Italian shredded cheese blend,,1111050205.0,226.796,/p/kroger-italian-style-blend-shredded-cheese/0001111050205?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.49,Dairy,8 oz
+shredded monterrey jack,shredded monterrey jack,,1111058086.0,907.184,/p/kroger-monterey-jack-shredded-cheese/0001111058086?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,7.99,Dairy,32 oz
+large tortillas,large tortillas,,7373107200.0,1133.98,/p/mission-large-flour-burrito-tortillas/0007373107200?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,6.99,"International, Bakery",16 ct / 40 oz
+Mexican crema,Mexican crema,,4274312308.0,425.2425,/p/el-mexicano-crema-mexicana-grade-a-sour-cream/0004274312308?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,Dairy,15 oz
 Corn bread mix,Corn bread mix,,4144947533.0,453.592,/p/krusteaz-sweet-corn-muffin-cornbread-mix/0004144947533?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.19,"Baking Goods, Baking Goods",16 oz
-canned beans,canned beans,,0001111012142,439.41725,/p/kroger-cannellini-beans/0001111012142?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,0.89,Canned & Packaged,15.5 oz
-cantaloupe,cantaloupe,,0000000004050,552.0,/p/cantaloupe/0000000004050?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.5,"Produce, Produce",1 ct
-pork loin,pork loin,,0029380800000,453.592,/p/pork-boneless-half-loin/0029380800000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.99,"Meat & Seafood, Natural & Organic",1 lb
-peeled shrimp,peeled shrimp,,0001111096220,453.592,/p/kroger-large-raw-shrimp-peeled-deveined-tail-off/0001111096220?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,8.99,Frozen,16 ounces
-flatbread,flatbread,,0087668100352,399.73,/p/stonefire-artisan-flatbread/0087668100352?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.49,Bakery,14.1 oz
-Monterey Jack cheese,Monterey Jack cheese,,0001111058754,907.184,/p/kroger-monterey-jack-block-cheese-big-deal-/0001111058754?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,7.99,Dairy,32 oz
-fajita tortillas,fajita tortillas,,0001111013951,680.388,/p/kroger-fajita-size-flour-tortillas/0001111013951?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.49,"International, Bakery",20 ct / 24 oz
-fennel,fennel,,0000000094515,234,/p/organic-fennel/0000000094515?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.99,"Produce, Natural & Organic",1 ct
-quick cooking grits,quick cooking grits,,,,,,,
-smoked ham hocks,smoked ham hocks,,,,,,,
-16 bean mix,16 bean mix,,,,,,,
-deli ham,deli ham,,0001111097419,453.592,/p/kroger-smoked-deli-style-lean-ham/0001111097419?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,Meat & Seafood,16 oz
-harissa paste,harissa paste,,,,,,,
-Hatch chiles,Hatch chiles,,0066138969019,680.388,/p/new-mexico-select-mild-green-chile-peppers/0066138969019?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,"Frozen, International, International",24 oz
-smoked ham,smoked ham,,0001111097419,453.592,/p/kroger-smoked-deli-style-lean-ham/0001111097419?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,Meat & Seafood,16 oz
-beef bouillon,beef bouillon,,0001111083767,92.13,/p/kroger-beef-bouillon-cubes/0001111083767?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.49,Canned & Packaged,3.25 oz
-dry pasta,dry pasta,,0001111014163,453.592,/p/kroger-radiatore-dry-pasta/0001111014163?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.33,"Pasta, Sauces, Grain",16 oz
-turkey meatballs,turkey meatballs,,0004132255802,793.786,/p/farm-rich-flame-broiled-turkey-meatballs/0004132255802?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,8.49,Frozen,28 oz
-parmesan,parmesan,,0001111050195,170.097,/p/kroger-parmesan-shredded-cheese/0001111050195?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.49,Dairy,6 oz
-V8 juice,V8 juice,,0005100006992,1892.48,/p/v8-original-100-vegetable-juice/0005100006992?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,Beverages,64 fl oz
-wheat rolls,wheat rolls,,0007343500005,340.194,/p/king-s-hawaiian-honey-wheat-dinner-rolls/0007343500005?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,Bakery,12 ct / 12 oz
-chocolate chips,chocolate chips,,0001111013949,1020.582,/p/kroger-semi-sweet-chocolate-baking-chips/0001111013949?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,8.99,Baking Goods,36 oz
-Mexican Chorizo,Mexican Chorizo,,,,,,,
-mustard,mustard,,0001111081240,566.99,/p/kroger-yellow-mustard/0001111081240?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.29,Condiment & Sauces,20 oz
-stuffing mix,stuffing mix,,0001111089300,170.097,/p/kroger-turkey-flavored-stuffing-mix/0001111089300?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.29,Canned & Packaged,6 oz
-bone-in skin on turkey breast,bone-in skin on turkey breast,,0021031900000,453.592,/p/honeysuckle-white-frozen-bone-in-turkey-breast-with-gravy-limit-2-at-sale-price/0021031900000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.79,Meat & Seafood,1 lb
-cheddar,cheddar,,0001111058604,907.184,/p/kroger-sharp-cheddar-block-cheese-big-deal-/0001111058604?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,7.99,Dairy,32 oz
-salad dressing,salad dressing,,0001111066912,473,/p/kroger-creamy-ranch-salad-dressing/0001111066912?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.49,Condiment & Sauces,16 fl oz
-sweetened flaked coconut,sweetened flaked coconut,,0001111013796,396.893,/p/kroger-sweetened-coconut-flakes/0001111013796?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.59,Natural & Organic,14 oz
-unsweetened flaked coconut,unsweetened flaked coconut,,0001111013793,226.796,/p/simple-truth-organic-unsweetened-coconut-flakes/0001111013793?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.49,Natural & Organic,8 oz
-whipped cream,whipped cream,,0001111080909,368.5435,/p/kroger-original-dairy-whipped-cream-topping/0001111080909?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,Dairy,13 oz
-virgin coconut oil,virgin coconut oil,,0001111086306,382.563,/p/simple-truth-organic-unrefined-cold-pressed-virgin-coconut-oil/0001111086306?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,6.99,"Natural & Organic, Baking Goods",14 fl oz
-frozen black eyed peas,frozen black eyed peas,,,,,,,
-pineapple,pineapple,,0000000004430,1588,/p/fresh-ripe-whole-pineapple/0000000004430?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.79,Produce,1 ct
-frozen onion bell pepper celery mix,frozen onion bell pepper celery mix,,0001111089787,340.194,/p/kroger-recipe-beginnings-frozen-mirepoix-blend-cajun-style-onions-celery-green-peppers/0001111089787?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.59,Frozen,12 oz
-Mexican chorizo,Mexican chorizo,,,,,,,
-pork chops bone-in,pork chops bone-in,,0029315900000,453.592,/p/kroger-bone-in-pork-center-cut-chop-family-pack/0029315900000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,5.49,"Meat & Seafood, Natural & Organic",1 lb
-white distilled vinegar,white distilled vinegar,,0001111003113,3823.26,/p/kroger-distilled-white-vinegar/0001111003113?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,Baking Goods,1 gal
-pimento stuffed green olives,pimento stuffed green olives,,0001111011597,595.3395,/p/kroger-pimiento-stuffed-green-manzanilla-olives/0001111011597?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,5.49,Canned & Packaged,21 oz
-cooked ham,cooked ham,,0021386300000,453.592,/p/kroger-fully-cooked-boneless-half-ham/0021386300000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,Meat & Seafood,1 lb
-split turkey breast bone-in skin on,split turkey breast bone-in skin on,,0026009200000,453.592,/p/honeysuckle-white-frozen-bone-in-turkey-breast-with-gravy/0026009200000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.79,Meat & Seafood,1 lb
-bread flour,bread flour,,0001600010640,2267.96,/p/gold-medal-unbleached-bread-flour/0001600010640?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,6.99,Baking Goods,5 lbs
-anchovy fillets,anchovy fillets,,,,,,,
-French bread,French bread,,0004157322506,453.592,/p/bakery-fresh-goodness-crisp-soft-french-bread/0004157322506?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.99,"Bakery, Bakery",16 oz
+canned beans,canned beans,,1111012142.0,439.41725,/p/kroger-cannellini-beans/0001111012142?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,0.89,Canned & Packaged,15.5 oz
+cantaloupe,cantaloupe,,4050.0,552.0,/p/cantaloupe/0000000004050?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.5,"Produce, Produce",1 ct
+pork loin,pork loin,,29380800000.0,453.592,/p/pork-boneless-half-loin/0029380800000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.99,"Meat & Seafood, Natural & Organic",1 lb
+peeled shrimp,peeled shrimp,,1111096220.0,453.592,/p/kroger-large-raw-shrimp-peeled-deveined-tail-off/0001111096220?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,8.99,Frozen,16 ounces
+flatbread,flatbread,,87668100352.0,399.73,/p/stonefire-artisan-flatbread/0087668100352?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.49,Bakery,14.1 oz
+Monterey Jack cheese,Monterey Jack cheese,,1111058754.0,907.184,/p/kroger-monterey-jack-block-cheese-big-deal-/0001111058754?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,7.99,Dairy,32 oz
+fajita tortillas,fajita tortillas,,1111013951.0,680.388,/p/kroger-fajita-size-flour-tortillas/0001111013951?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.49,"International, Bakery",20 ct / 24 oz
+fennel,fennel,,94515.0,234.0,/p/organic-fennel/0000000094515?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.99,"Produce, Natural & Organic",1 ct
+quick cooking grits,quick grits,"['quick grits', 'instant grits', '5-minute grits', 'fast-cooking grits', 'quick hominy grits', 'corn grits', 'quick polenta']",0003000004180,680.388,/p/quaker-quick-5-minute-grits/0003000004180?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.59,Breakfast,24 oz
+smoked ham hocks,smoked ham hocks,"['smoked ham hocks', 'smoked pork hocks', 'ham hocks', 'pork hocks', 'smoked ham shanks', 'smoked pork knuckles', 'smoked pork trotters']",,,,,,
+16 bean mix,15 bean soup mix,"['16 bean soup mix', '15 bean soup mix', 'multi-bean mix', 'dried bean soup mix', 'mixed dry beans', 'bean and lentil mix', 'dried legume mix']",0002520000113,566.99,/p/hurst-s-hambeens-regular-15-bean-soup/0002520000113?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,"Pasta, Sauces, Grain",20 oz
+deli ham,deli ham,,1111097419.0,453.592,/p/kroger-smoked-deli-style-lean-ham/0001111097419?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,Meat & Seafood,16 oz
+harissa paste,harissa sauce,"['harissa paste', 'harissa sauce', 'spicy red pepper paste', 'North African hot sauce', 'Tunisian hot sauce', 'red pepper paste', 'Middle Eastern chili paste', 'chili paste']",0085295500705,283.495,/p/mina-harissa-spicy-moroccan-red-pepper-hot-sauce/0085295500705?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,6.99,Condiment & Sauces,10 oz
+Hatch chiles,Hatch chiles,,66138969019.0,680.388,/p/new-mexico-select-mild-green-chile-peppers/0066138969019?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,"Frozen, International, International",24 oz
+smoked ham,smoked ham,,1111097419.0,453.592,/p/kroger-smoked-deli-style-lean-ham/0001111097419?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,Meat & Seafood,16 oz
+beef bouillon,beef bouillon,,1111083767.0,92.13,/p/kroger-beef-bouillon-cubes/0001111083767?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.49,Canned & Packaged,3.25 oz
+dry pasta,dry pasta,,1111014163.0,453.592,/p/kroger-radiatore-dry-pasta/0001111014163?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.33,"Pasta, Sauces, Grain",16 oz
+turkey meatballs,turkey meatballs,,4132255802.0,793.786,/p/farm-rich-flame-broiled-turkey-meatballs/0004132255802?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,8.49,Frozen,28 oz
+parmesan,parmesan,,1111050195.0,170.097,/p/kroger-parmesan-shredded-cheese/0001111050195?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.49,Dairy,6 oz
+V8 juice,V8 juice,,5100006992.0,1892.48,/p/v8-original-100-vegetable-juice/0005100006992?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,Beverages,64 fl oz
+wheat rolls,wheat rolls,,7343500005.0,340.194,/p/king-s-hawaiian-honey-wheat-dinner-rolls/0007343500005?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,Bakery,12 ct / 12 oz
+chocolate chips,chocolate chips,,1111013949.0,1020.582,/p/kroger-semi-sweet-chocolate-baking-chips/0001111013949?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,8.99,Baking Goods,36 oz
+Mexican Chorizo,chorizo sausage,"['Mexican chorizo', 'chorizo sausage', 'pork chorizo', 'beef chorizo', 'fresh chorizo', 'Mexican-style sausage', 'spicy Mexican sausage', 'spicy ground sausage']",0001111060556,453.592,/p/kroger-mercado-ground-sausage-chorizo/0001111060556?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,Meat & Seafood,1 lb
+mustard,mustard,,1111081240.0,566.99,/p/kroger-yellow-mustard/0001111081240?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.29,Condiment & Sauces,20 oz
+stuffing mix,stuffing mix,,1111089300.0,170.097,/p/kroger-turkey-flavored-stuffing-mix/0001111089300?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.29,Canned & Packaged,6 oz
+bone-in skin on turkey breast,bone-in skin on turkey breast,,21031900000.0,453.592,/p/honeysuckle-white-frozen-bone-in-turkey-breast-with-gravy-limit-2-at-sale-price/0021031900000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.79,Meat & Seafood,1 lb
+cheddar,cheddar,,1111058604.0,907.184,/p/kroger-sharp-cheddar-block-cheese-big-deal-/0001111058604?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,7.99,Dairy,32 oz
+salad dressing,salad dressing,,1111066912.0,473.0,/p/kroger-creamy-ranch-salad-dressing/0001111066912?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.49,Condiment & Sauces,16 fl oz
+sweetened flaked coconut,sweetened flaked coconut,,1111013796.0,396.893,/p/kroger-sweetened-coconut-flakes/0001111013796?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.59,Natural & Organic,14 oz
+unsweetened flaked coconut,unsweetened flaked coconut,,1111013793.0,226.796,/p/simple-truth-organic-unsweetened-coconut-flakes/0001111013793?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.49,Natural & Organic,8 oz
+whipped cream,whipped cream,,1111080909.0,368.5435,/p/kroger-original-dairy-whipped-cream-topping/0001111080909?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,Dairy,13 oz
+virgin coconut oil,virgin coconut oil,,1111086306.0,382.563,/p/simple-truth-organic-unrefined-cold-pressed-virgin-coconut-oil/0001111086306?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,6.99,"Natural & Organic, Baking Goods",14 fl oz
+frozen black eyed peas,frozen field peas,"['frozen black eyed peas', 'black eyed peas frozen', 'frozen field peas', 'frozen cowpeas', 'black eyed peas', 'canned black eyed peas', 'dried black eyed peas']",0001111089737,340.194,/p/kroger-southern-style-frozen-peas-blackeye/0001111089737?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.79,Frozen,12 oz
+pineapple,pineapple,,4430.0,1588.0,/p/fresh-ripe-whole-pineapple/0000000004430?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.79,Produce,1 ct
+frozen onion bell pepper celery mix,frozen onion bell pepper celery mix,,1111089787.0,340.194,/p/kroger-recipe-beginnings-frozen-mirepoix-blend-cajun-style-onions-celery-green-peppers/0001111089787?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,1.59,Frozen,12 oz
+Mexican chorizo,chorizo,"['Mexican chorizo', 'chorizo', 'pork chorizo', 'fresh chorizo', 'chorizo sausage', 'Mexican-style sausage', 'spicy Mexican sausage', 'spicy pork sausage']",0001111060556,453.592,/p/kroger-mercado-ground-sausage-chorizo/0001111060556?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,Meat & Seafood,1 lb
+pork chops bone-in,pork chops bone-in,,29315900000.0,453.592,/p/kroger-bone-in-pork-center-cut-chop-family-pack/0029315900000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,5.49,"Meat & Seafood, Natural & Organic",1 lb
+white distilled vinegar,white distilled vinegar,,1111003113.0,3823.26,/p/kroger-distilled-white-vinegar/0001111003113?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.99,Baking Goods,1 gal
+pimento stuffed green olives,pimento stuffed green olives,,1111011597.0,595.3395,/p/kroger-pimiento-stuffed-green-manzanilla-olives/0001111011597?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,5.49,Canned & Packaged,21 oz
+cooked ham,cooked ham,,21386300000.0,453.592,/p/kroger-fully-cooked-boneless-half-ham/0021386300000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,4.99,Meat & Seafood,1 lb
+split turkey breast bone-in skin on,split turkey breast bone-in skin on,,26009200000.0,453.592,/p/honeysuckle-white-frozen-bone-in-turkey-breast-with-gravy/0026009200000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.79,Meat & Seafood,1 lb
+bread flour,bread flour,,1600010640.0,2267.96,/p/gold-medal-unbleached-bread-flour/0001600010640?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,6.99,Baking Goods,5 lbs
+anchovy fillets,canned anchovies,"['anchovy fillets', 'canned anchovies', 'anchovies in olive oil', 'flat anchovies', 'tinned anchovies', 'salted anchovies', 'marinated anchovies', 'anchovy paste', 'sardines']",0001111090561,56.699,/p/kroger-flat-anchovies-in-olive-oil-salt/0001111090561?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,3.49,Canned & Packaged,2 oz
+French bread,French bread,,4157322506.0,453.592,/p/bakery-fresh-goodness-crisp-soft-french-bread/0004157322506?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f,2.99,"Bakery, Bakery",16 oz

@@ -17,20 +17,22 @@ def main():
 
     chunked_ingredients_file_paths = [os.path.join(chunked_ingredients_folder, filename) for filename in os.listdir(chunked_ingredients_folder)]
 
-    for ingredient_chunk in chunked_ingredients_file_paths:
-        print(ingredient_chunk)
-        processed_df_name = ingredient_chunk.replace('chunked_ingredients_data/ingredients_chunk_', 'processed_ingredients_chunks/processed_ingredients_chunk_')
-        processed_df = ingredients_to_query_and_mass_df(ingredient_chunk)
-        processed_df.to_csv(processed_df_name, index=False)
-        print(processed_df_name)
+    # for ingredient_chunk in chunked_ingredients_file_paths:
+    #     print(ingredient_chunk)
+    #     processed_df_name = ingredient_chunk.replace('chunked_ingredients_data/ingredients_chunk_', 'processed_ingredients_chunks/processed_ingredients_chunk_')
+    #     processed_df = ingredients_to_query_and_mass_df(ingredient_chunk)
+    #     processed_df.to_csv(processed_df_name, index=False)
+    #     print(processed_df_name)
 
     merge_mass_query_csv_files(PROJECT_ROOT / 'data' / 'processed_ingredients_chunks', PROJECT_ROOT / 'data' / 'full_processed_ingredients.csv')
 
-    _write_blank_kroger_upc_csv()
+    # _write_blank_kroger_upc_csv()
 
-    _search_kroger_for_all_queries()
+    # _search_kroger_for_all_queries()
 
     _retry_searches_on_failed_queries()
+
+    _tag_vegetarian_recipes()
 
 def _write_blank_kroger_upc_csv():
     full_processed_ingredients = pd.read_csv(PROJECT_ROOT / 'data' / 'full_processed_ingredients.csv')
@@ -93,5 +95,17 @@ def _retry_searches_on_failed_queries():
             print("Editing the ingested csv")
             ingredients_to_kroger_products_df.to_csv(PROJECT_ROOT / 'data' / 'ingredients_kroger_upc.csv', index=False)
 
+def _tag_vegetarian_recipes():
+    # Get the recipe dataset
+    ingredients_df = pd.read_csv(PROJECT_ROOT / 'data' / 'budget_bytes_ingredients_prices.csv')
+
+    # Make wider by moving ingredient entries into a list
+    recipes_df = ingredients_df.groupby('recipe_name')['ingredient'].agg(list).reset_index()
+    recipes_df = recipes_df.rename(columns={'ingredient': 'ingredients'})
+
+    print(recipes_df)
+    # for all recipes, pass the recipe name and ingredients to claude. Ask if vegetarian or not.
+    # write a recipes_vegetarian csv
+
 if __name__ == "__main__":
-    main()
+    _tag_vegetarian_recipes()

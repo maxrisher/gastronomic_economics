@@ -51,8 +51,8 @@ ingredients_clean <-
          price = case_when(
            recipe_ingredient_price == 0 ~ 0,
            TRUE ~ product_local_price
-         ),
-         vegetarian = if_else(grepl("Meat & Seafood", product_categories), FALSE, TRUE))
+         ))
+#vegetarian = if_else(grepl("Meat & Seafood", product_categories), FALSE, TRUE)
 
 # Make sure ingredients data are correct ----------------------------------
 error_detect <- 
@@ -90,10 +90,14 @@ ingredients_final <-
 
 # Detect anomalies --------------------------------------------------------
 
+ingredients_final %>% 
+  distinct(claude_query_for_kroger, product_price_per_g) %>% 
+  arrange(desc(product_price_per_g)) %>% 
+  view()
+
 ingredients_to_kroger %>% 
   count(query) %>% 
   arrange(desc(n))
-
 
 # Recipe analysis ---------------------------------------------------------
 
@@ -102,8 +106,7 @@ recipe_costs <-
   group_by(recipe_name) %>% 
   summarise(bb_price = sum(recipe_ingredient_price),
             total_grams = sum(claude_ingredient_gram_estimate),
-            kroger_price = sum(ingredient_price),
-            vegetarian = all(vegetarian))
+            kroger_price = sum(ingredient_price))
 
 clean_recipes <- 
   recipe_descriptions %>% 
