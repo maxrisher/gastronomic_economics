@@ -1,5 +1,5 @@
 from ingredient_csv_processor import split_ingredients_csv, merge_mass_query_csv_files
-from llm_calls import ingredients_to_query_and_mass_df, pick_best_kroger_result, write_alternate_query_list
+from llm_calls import ingredients_to_query_and_mass_df, pick_best_kroger_result, write_alternate_query_list, test_for_animal_products
 from kroger_api_handler import KrogerAPIHandler
 import os
 import pandas as pd
@@ -95,17 +95,34 @@ def _retry_searches_on_failed_queries():
             print("Editing the ingested csv")
             ingredients_to_kroger_products_df.to_csv(PROJECT_ROOT / 'data' / 'ingredients_kroger_upc.csv', index=False)
 
-def _tag_vegetarian_recipes():
+def _write_tagged_veggie_recipes():
     # Get the recipe dataset
     ingredients_df = pd.read_csv(PROJECT_ROOT / 'data' / 'budget_bytes_ingredients_prices.csv')
 
     # Make wider by moving ingredient entries into a list
     recipes_df = ingredients_df.groupby('recipe_name')['ingredient'].agg(list).reset_index()
     recipes_df = recipes_df.rename(columns={'ingredient': 'ingredients'})
+    recipes_df['vegetarian'] = pd.NA
+    recipes_df['vegan'] = pd.NA
 
+    recipes_df.to_csv(PROJECT_ROOT / 'data' / 'tagged_veggie_recipes.csv', index=False)
     print(recipes_df)
-    # for all recipes, pass the recipe name and ingredients to claude. Ask if vegetarian or not.
-    # write a recipes_vegetarian csv
+
+def _tag_vegetarian_recipes():
+    # Get the recipe dataset
+    recipes_df = pd.read_csv(PROJECT_ROOT / 'data' / 'tagged_veggie_recipes.csv', index=False)
+
+    for index, row in recipes_df.iterrows():
+        if pd.isna(row['vegetarian']):
+            is_vegetarian, is_vegan = test_for_animal_products(row['recipe_name'], row['ingredients'])
+
+            try:
+                recipes_df.loc[index, ['vegetarian', 'vegan']] = is_vegetarian, is_vegan
+
+            except Exception as e:
+                print(f"Error classifying animal products in {row['recipe_name']}: {str(e)}")
+
+            recipes_df.to_csv(PROJECT_ROOT / 'data' / 'tagged_veggie_recipes.csv', index=False)
 
 if __name__ == "__main__":
     _tag_vegetarian_recipes()

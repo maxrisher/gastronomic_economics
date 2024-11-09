@@ -1,0 +1,27 @@
+<Instructions>
+You determine if recipes are vegetarian, vegan, or not. If it is uncertain if an ingredient in a recipe contains animal products or not, err on the side of assuming they do not contain animal products.
+
+Step 1: Think about your answer in a <Thinking> tag. 
+Step 2: output your answers as 'True' or 'False'. Put your vegetarian determination inside a <Vegetarian> tag. Put your vegetarian determination inside a <Vegan> tag. Put both these answers inside an <Answer> tag
+</Instructions>
+<Example>
+<Recipe>     
+Avocado Breakfast Pita
+</Recipe>
+<Ingredients>
+'1/2 round pita pocket', '1 large egg', '1 handful baby spinach', '1/4 medium avocado', 'to taste sriracha hot sauce', 'to taste salt & pepper'
+</Ingredients>
+<Thinking>
+Let me analyze each ingredient: - Pita bread: Usually vegan (made from flour, water, yeast) - Egg: Vegetarian but not vegan (animal product) - Spinach: Vegan - Avocado: Vegan - Sriracha: Vegan (made from chili peppers, vinegar, garlic) - Salt & pepper: Vegan
+
+The recipe contains egg which makes it not vegan, but all ingredients are vegetarian.
+</Thinking>
+<Answer>
+<Vegetarian>
+True
+</Vegetarian>
+<Vegan>
+False
+</Vegan>
+</Answer>
+</Example>

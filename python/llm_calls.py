@@ -116,6 +116,39 @@ def write_alternate_query_list(food_name):
     alt_query_list = json.loads(_extract_xml_tag(response_text, 'Answer'))
     return alt_query_list
 
+def test_for_animal_products(recipe_name, ingredients_list):
+    client = anthropic.Anthropic()
+
+    user_prompt = "<Recipe>\n"+recipe_name+"\n</Recipe>/n"+"<Ingredients>\n"+str(ingredients_list)+"\n</Ingredients>/n"
+    print(user_prompt)
+
+    with open(PROJECT_ROOT / 'llm_prompts' / 'categorize_vegetarian_vegan.txt', 'r') as text_file:
+        system_prompt = text_file.read()
+
+    response = client.beta.prompt_caching.messages.create(
+        model="claude-3-5-sonnet-20240620",
+        max_tokens=8192,
+        temperature=0,
+        system=[
+        {
+            "type": "text", 
+            "text": system_prompt,
+            "cache_control": {"type": "ephemeral"}
+        }
+        ],
+        messages=[
+            {"role": "user", "content": user_prompt},
+            {"role": "assistant", "content": "<Thinking>"}
+        ],
+    )
+    print(response)
+    response_text = response.content[0].text
+
+    answer_tag_content = json.loads(_extract_xml_tag(response_text, 'Answer'))
+    is_vegetarian = _extract_xml_tag(answer_tag_content, 'Vegetarian')
+    is_vegan = _extract_xml_tag(answer_tag_content, 'Vegan')
+    return is_vegetarian, is_vegan
+
 def _extract_xml_tag(llm_response, xml_tag):
     xml_tag_pattern = fr'<{xml_tag}>(.*?)</{xml_tag}>'
     matches = re.findall(xml_tag_pattern, llm_response, re.DOTALL)
