@@ -173,6 +173,9 @@ corrected_kroger_upc <-
     
     # Chicken pieces should not be fried and frozen
     str_detect(kroger_upc, "3100011611.0") ~ "28334750000.0",
+    
+    # These are overly fancy bacon pieces
+    str_detect(kroger_upc, "85672600787.0") ~ "26390250000.0",
 
     # All other cases remain unchanged
     TRUE ~ kroger_upc
@@ -187,6 +190,26 @@ kroger_corrected <-
   products_remapped %>% 
   mutate(product_grams = case_when(product_uri == "/p/private-selection-heritage-boneless-pork-shoulder-roast-natural-duroc-pork/0021358400000?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:thalosfoodresearch-f" ~ 453.59200,
                                                    .default = product_grams))
+
+# Correct recipe data -----------------------------------------------------
+recipe_descriptions <- 
+  recipe_descriptions %>% 
+  # This recipe nutrition data was incorrectly read
+  mutate(protein = if_else(recipe_name == "Roasted Turkey Breast with Stuffing", 66, protein),
+         fiber = if_else(recipe_name == "Roasted Turkey Breast with Stuffing", 1, fiber),
+         calories = if_else(recipe_name == "Roasted Turkey Breast with Stuffing", 552, calories),
+         fat = if_else(recipe_name == "Roasted Turkey Breast with Stuffing", 18, fat),
+         carbohydrates = if_else(recipe_name == "Roasted Turkey Breast with Stuffing", 33, carbohydrates),
+         sodium = if_else(recipe_name == "Roasted Turkey Breast with Stuffing", 1722, sodium)) %>% 
+  # This recipe has bad nutrition data
+  mutate(protein = if_else(recipe_name == "Slow Cooker Chicken", 64, protein),
+         fiber = if_else(recipe_name == "Slow Cooker Chicken", NA, fiber),
+         calories = if_else(recipe_name == "Slow Cooker Chicken", 397, calories),
+         fat = if_else(recipe_name == "Slow Cooker Chicken", 15, fat),
+         carbohydrates = if_else(recipe_name == "Slow Cooker Chicken", 1.5, carbohydrates),
+         sodium = if_else(recipe_name == "Slow Cooker Chicken", NA, sodium)) %>% 
+  # This recipe has bad nutrition data
+  filter(recipe_name != "Limbers") %>% 
 
 # Merge up ----------------------------------------------------------------
 merged_ingredients <- 
@@ -207,44 +230,6 @@ ingredients_final <-
   mutate(product_price_per_g = price / claude_product_grams_estimate,
          ingredient_price = product_price_per_g * claude_ingredient_gram_estimate,
          bb_underspend = ingredient_price - recipe_ingredient_price)
-
-
-
-
-
-ingredients_final <- 
-  ingredients_clean %>% 
-  # Fix a clearly incorrect sell_by_unit from count to lb.
-  # mutate(claude_product_grams_estimate = case_when(product_name == "private-selection-heritage-boneless-pork-shoulder-roast-natural-duroc-pork" ~ 453.59200,
-  #                                                  .default = claude_product_grams_estimate)) %>% 
-  mutate(product_price_per_g = price / claude_product_grams_estimate,
-         ingredient_price = product_price_per_g * claude_ingredient_gram_estimate,
-         bb_underspend = ingredient_price - recipe_ingredient_price)
-
-ingredients_final %>% 
-  select(recipe_ingredient_description, product_name) %>% 
-  distinct() %>% 
-  view()
-
-ingredients_final %>% 
-  select(recipe_ingredient_description, product_name) %>% 
-  distinct() %>% 
-  slice(3501:4000) %>% 
-  print(n=501)
-
-ingredients_final %>% 
-  select(kroger_query) %>% 
-  distinct() %>% 
-  view()
-
-ingredients_final %>% 
-  write_csv('for_manual_inspection.csv')
-
-#row 38
-#rolled oats
-#cooked rice: Ottogi-Cooked-Rice
-#bacon strips
-#mashed potatoes
 
 # Detect anomalies --------------------------------------------------------
 
@@ -274,7 +259,8 @@ clean_recipes <-
          total_protein = serving_count * protein,
          total_fiber = serving_count * fiber,
          total_sodium = serving_count * sodium) %>% 
-  select(recipe_name, rating, number_of_ratings, prep_time, cook_time, total_calories, total_fat, total_carbs, total_protein, total_fiber, total_sodium)
+  select(recipe_name, url, rating, number_of_ratings, prep_time, cook_time, total_calories, total_fat, total_carbs, total_protein, total_fiber, total_sodium) %>% 
+  left_join(animal_products, by = join_by(recipe_name))
 
 weight_lbs <- 175
 recommended_g_protein <- 0.36 * weight_lbs
@@ -286,15 +272,50 @@ high_protein_g_per_cal <- high_g_protein / calories_consumed
 recipes_with_cost <- 
   clean_recipes %>% 
   left_join(recipe_costs, by = join_by(recipe_name)) %>% 
-  mutate(cost_per_calorie = kroger_price / total_calories,
-         cost_per_2500_cal = 2500 * cost_per_calorie,
+  mutate(dollars_per_calorie = kroger_price / total_calories,
+         dollars_per_2500_cal = 2500 * dollars_per_calorie,
          protein_g_per_cal = total_protein / total_calories,
+         protein_g_per_100cal = protein_g_per_cal*100,
          protein_per_2500_cal = 2500 * protein_g_per_cal,
          sufficient_protein = ifelse(protein_g_per_cal > min_protein_g_per_cal, TRUE, FALSE),
          high_protein = ifelse(protein_g_per_cal > high_protein_g_per_cal, TRUE, FALSE),
-         cost_per_gram = kroger_price / total_grams)
+         dollars_per_100g = 100*kroger_price / total_grams,
+         fiber_g_per_100g = total_fiber / total_grams,
+         calories_per_100g = total_calories / total_grams)
+
+
+# Output csv --------------------------------------------------------------
+
+final_recipe_table <- 
+  recipes_with_cost %>% 
+  relocate(c(url, recipe_name, dollars_per_2500_cal, protein_per_2500_cal, calories_per_100g, vegetarian, sufficient_protein, fiber_g_per_100g), .before = everything())
+
+write_csv(final_recipe_table, "final_recipe_table.csv")
 
 # Visualization -----------------------------------------------------------
+
+model <- 
+  lm(dollars_per_calorie ~ protein_g_per_cal, data = recipes_with_cost)
+
+residuals(model)
+
+recipes_with_cost %>% 
+  ggplot(mapping= aes(x = protein_g_per_cal, y = dollars_per_calorie))+
+  geom_point()+
+  geom_smooth(method="lm", se = FALSE)
+
+recipes_with_cost %>% 
+  ggplot(mapping= aes(x = total_fat/total_calories, y = dollars_per_calorie))+
+  geom_point()
+
+recipes_with_cost %>% 
+  ggplot(mapping= aes(x = total_carbs/total_calories, y = dollars_per_calorie))+
+  geom_point()
+
+recipes_with_cost %>% 
+  ggplot(mapping= aes(x = total_fiber/total_calories, y = dollars_per_calorie))+
+  geom_point()
+
 
 recipe_costs %>% 
   mutate(bb_underest = kroger_price - bb_price) %>% 
